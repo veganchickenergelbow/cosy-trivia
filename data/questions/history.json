@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "his_001",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who became the first emperor of a unified China in 221 BC?",
+    "answers": [
+      "Qin Shi Huang",
+      "Liu Bang",
+      "Kublai Khan",
+      "Sun Yat-sen"
+    ],
+    "correct": 0,
+    "fact": "He is buried near the famous Terracotta Army."
+  },
+  {
+    "id": "his_002",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which ancient civilisation built the Great Pyramid of Giza?",
+    "answers": [
+      "Mesopotamians",
+      "Ancient Egyptians",
+      "Romans",
+      "Mayans"
+    ],
+    "correct": 1,
+    "fact": "It was built around 2560 BC for Pharaoh Khufu."
+  },
+  {
+    "id": "his_003",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who led India's non-violent campaign for independence from Britain?",
+    "answers": [
+      "Subhas Chandra Bose",
+      "Bhagat Singh",
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak"
+    ],
+    "correct": 2,
+    "fact": "His Salt March of 1930 was a landmark protest."
+  },
+  {
+    "id": "his_004",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who founded the Mongol Empire in 1206?",
+    "answers": [
+      "Kublai Khan",
+      "Tamerlane",
+      "Attila",
+      "Genghis Khan"
+    ],
+    "correct": 3,
+    "fact": "Temujin was proclaimed Genghis Khan at a great assembly."
+  },
+  {
+    "id": "his_005",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which ocean liner sank in 1912 after hitting an iceberg?",
+    "answers": [
+      "Titanic",
+      "Lusitania",
+      "Britannic",
+      "Queen Mary"
+    ],
+    "correct": 0,
+    "fact": "She sank on her maiden voyage from Southampton."
+  },
+  {
+    "id": "his_006",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Italian city was buried by the eruption of Vesuvius in AD 79?",
+    "answers": [
+      "Rome",
+      "Pompeii",
+      "Naples",
+      "Florence"
+    ],
+    "correct": 1,
+    "fact": "Its streets and buildings were preserved under volcanic ash."
+  },
+  {
+    "id": "his_007",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In which country did the Industrial Revolution begin?",
+    "answers": [
+      "France",
+      "Germany",
+      "Britain",
+      "United States"
+    ],
+    "correct": 2,
+    "fact": "Textile mills and steam power transformed Britain from the 1760s."
+  },
+  {
+    "id": "his_008",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which civilisation built Machu Picchu?",
+    "answers": [
+      "Aztec",
+      "Maya",
+      "Olmec",
+      "Inca"
+    ],
+    "correct": 3,
+    "fact": "It was probably an estate of the emperor Pachacuti."
+  },
+  {
+    "id": "his_009",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The 1947 Partition of British India created India and which new state?",
+    "answers": [
+      "Pakistan",
+      "Bangladesh",
+      "Sri Lanka",
+      "Nepal"
+    ],
+    "correct": 0,
+    "fact": "East Pakistan became Bangladesh in 1971."
+  },
+  {
+    "id": "his_010",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who proclaimed the People's Republic of China in 1949?",
+    "answers": [
+      "Chiang Kai-shek",
+      "Mao Zedong",
+      "Zhou Enlai",
+      "Deng Xiaoping"
+    ],
+    "correct": 1,
+    "fact": "He declared it from Tiananmen on 1 October."
+  },
+  {
+    "id": "his_011",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which two Japanese cities were hit by atomic bombs in August 1945?",
+    "answers": [
+      "Tokyo and Osaka",
+      "Kyoto and Nara",
+      "Hiroshima and Nagasaki",
+      "Kobe and Yokohama"
+    ],
+    "correct": 2,
+    "fact": "Japan announced its surrender on 15 August."
+  },
+  {
+    "id": "his_012",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which European leader was finally defeated at the Battle of Waterloo in 1815?",
+    "answers": [
+      "Louis XIV",
+      "Otto von Bismarck",
+      "Charles XII",
+      "Napoleon Bonaparte"
+    ],
+    "correct": 3,
+    "fact": "He was then exiled to Saint Helena."
+  },
+  {
+    "id": "his_013",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Roman general famously crossed the Rubicon in 49 BC?",
+    "answers": [
+      "Julius Caesar",
+      "Mark Antony",
+      "Pompey",
+      "Augustus"
+    ],
+    "correct": 0,
+    "fact": "\"The die is cast\" is attributed to him."
+  },
+  {
+    "id": "his_014",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Chinese dynasty built the Forbidden City in Beijing?",
+    "answers": [
+      "Qing",
+      "Ming",
+      "Tang",
+      "Song"
+    ],
+    "correct": 1,
+    "fact": "It was completed in 1420 under the Yongle Emperor."
+  },
+  {
+    "id": "his_015",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which treaty formally ended Germany's war with the Allies after World War I?",
+    "answers": [
+      "Treaty of Paris",
+      "Treaty of Vienna",
+      "Treaty of Versailles",
+      "Treaty of Utrecht"
+    ],
+    "correct": 2,
+    "fact": "It was signed in 1919."
+  },
+  {
+    "id": "his_016",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Meiji Restoration of 1868 transformed which country?",
+    "answers": [
+      "China",
+      "Korea",
+      "Thailand",
+      "Japan"
+    ],
+    "correct": 3,
+    "fact": "It ended the Tokugawa shogunate."
+  },
+  {
+    "id": "his_017",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which admiral led Ming China's treasure fleets across the Indian Ocean?",
+    "answers": [
+      "Zheng He",
+      "Yue Fei",
+      "Koxinga",
+      "Qi Jiguang"
+    ],
+    "correct": 0,
+    "fact": "His fleets visited Southeast Asia, India and East Africa."
+  },
+  {
+    "id": "his_018",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which European power captured Malacca in 1511?",
+    "answers": [
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Britain"
+    ],
+    "correct": 1,
+    "fact": "Afonso de Albuquerque led the conquest."
+  },
+  {
+    "id": "his_019",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Mughal emperor commissioned the Taj Mahal?",
+    "answers": [
+      "Akbar",
+      "Aurangzeb",
+      "Shah Jahan",
+      "Humayun"
+    ],
+    "correct": 2,
+    "fact": "It took roughly 20 years to complete."
+  },
+  {
+    "id": "his_020",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Indian emperor embraced Buddhism after the Kalinga War?",
+    "answers": [
+      "Chandragupta Maurya",
+      "Harsha",
+      "Akbar",
+      "Ashoka"
+    ],
+    "correct": 3,
+    "fact": "His rock edicts spread across the subcontinent."
+  },
+  {
+    "id": "his_021",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Black Death swept across Europe in which century?",
+    "answers": [
+      "14th century",
+      "11th century",
+      "16th century",
+      "18th century"
+    ],
+    "correct": 0,
+    "fact": "It killed an estimated third of Europe's people."
+  },
+  {
+    "id": "his_022",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who was the last emperor of China?",
+    "answers": [
+      "Guangxu",
+      "Puyi",
+      "Tongzhi",
+      "Yongzheng"
+    ],
+    "correct": 1,
+    "fact": "He abdicated in 1912 at the age of six."
+  },
+  {
+    "id": "his_023",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Suleiman the Magnificent ruled which empire?",
+    "answers": [
+      "Persian Empire",
+      "Mughal Empire",
+      "Ottoman Empire",
+      "Byzantine Empire"
+    ],
+    "correct": 2,
+    "fact": "He reigned from 1520 to 1566."
+  },
+  {
+    "id": "his_024",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Edo period of Japan was ruled by which shogunate?",
+    "answers": [
+      "Minamoto",
+      "Ashikaga",
+      "Hojo",
+      "Tokugawa"
+    ],
+    "correct": 3,
+    "fact": "It lasted from 1603 to 1868."
+  },
+  {
+    "id": "his_025",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Russian Revolution of October 1917 was led by which party?",
+    "answers": [
+      "Bolsheviks",
+      "Mensheviks",
+      "Cadets",
+      "Social Revolutionaries"
+    ],
+    "correct": 0,
+    "fact": "Lenin led the party."
+  },
+  {
+    "id": "his_026",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who was the last active ruler of Ptolemaic Egypt?",
+    "answers": [
+      "Nefertiti",
+      "Cleopatra VII",
+      "Hatshepsut",
+      "Arsinoe IV"
+    ],
+    "correct": 1,
+    "fact": "She died in 30 BC after Rome's victory at Actium."
+  },
+  {
+    "id": "his_027",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Indonesian leader proclaimed independence on 17 August 1945?",
+    "answers": [
+      "Suharto",
+      "Sutan Sjahrir",
+      "Sukarno",
+      "Mohammad Natsir"
+    ],
+    "correct": 2,
+    "fact": "Mohammad Hatta was proclaimed Vice President."
+  },
+  {
+    "id": "his_028",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Opium Wars of the 19th century were fought between China and which main power?",
+    "answers": [
+      "Japan",
+      "Russia",
+      "Portugal",
+      "Britain"
+    ],
+    "correct": 3,
+    "fact": "The first war ended with the Treaty of Nanking in 1842."
+  },
+  {
+    "id": "his_029",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which civilisation had its capital at Tenochtitlan?",
+    "answers": [
+      "Aztec",
+      "Inca",
+      "Maya",
+      "Toltec"
+    ],
+    "correct": 0,
+    "fact": "Mexico City now stands on the site."
+  },
+  {
+    "id": "his_030",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Korean king commissioned the Hangul alphabet?",
+    "answers": [
+      "Taejo",
+      "Sejong the Great",
+      "Gwanggaeto",
+      "Yeongjo"
+    ],
+    "correct": 1,
+    "fact": "It was promulgated in 1446."
+  },
+  {
+    "id": "his_031",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which wide-ranging 19th-century rebellion shook Qing China?",
+    "answers": [
+      "Boxer Rebellion",
+      "Red Turban Rebellion",
+      "Taiping Rebellion",
+      "Indian Mutiny"
+    ],
+    "correct": 2,
+    "fact": "Estimates of the dead run into the tens of millions."
+  },
+  {
+    "id": "his_032",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Ho Chi Minh declared the independence of which country in 1945?",
+    "answers": [
+      "Laos",
+      "Cambodia",
+      "Thailand",
+      "Vietnam"
+    ],
+    "correct": 3,
+    "fact": "He read the declaration in Hanoi's Ba Dinh Square."
+  },
+  {
+    "id": "his_033",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 1757 battle established East India Company power in Bengal?",
+    "answers": [
+      "Battle of Plassey",
+      "Battle of Panipat",
+      "Battle of Buxar",
+      "Battle of Seringapatam"
+    ],
+    "correct": 0,
+    "fact": "Robert Clive defeated the Nawab Siraj ud-Daulah."
+  },
+  {
+    "id": "his_034",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The Treaty of Tordesillas of 1494 divided the world between which two powers?",
+    "answers": [
+      "Spain and France",
+      "Spain and Portugal",
+      "Portugal and England",
+      "England and Holland"
+    ],
+    "correct": 1,
+    "fact": "The Pope helped mediate it."
+  },
+  {
+    "id": "his_035",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The Srivijaya empire was centred on which island?",
+    "answers": [
+      "Java",
+      "Borneo",
+      "Sumatra",
+      "Sulawesi"
+    ],
+    "correct": 2,
+    "fact": "Its capital is generally located near present-day Palembang."
+  },
+  {
+    "id": "his_036",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which Mali emperor stunned Cairo with his gold on his 1324 pilgrimage?",
+    "answers": [
+      "Sundiata Keita",
+      "Askia Muhammad",
+      "Sunni Ali",
+      "Mansa Musa"
+    ],
+    "correct": 3,
+    "fact": "Gold supply in Cairo reportedly fell for years."
+  },
+  {
+    "id": "his_037",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The Peace of Westphalia of 1648 ended which conflict?",
+    "answers": [
+      "Thirty Years' War",
+      "Hundred Years' War",
+      "Seven Years' War",
+      "War of the Roses"
+    ],
+    "correct": 0,
+    "fact": "It is often seen as the origin of the modern state system."
+  },
+  {
+    "id": "his_038",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Marco Polo reached China during which dynasty?",
+    "answers": [
+      "Song",
+      "Yuan",
+      "Ming",
+      "Tang"
+    ],
+    "correct": 1,
+    "fact": "Kublai Khan founded the Yuan dynasty."
+  },
+  {
+    "id": "his_039",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who founded the Mughal Empire after the 1526 Battle of Panipat?",
+    "answers": [
+      "Akbar",
+      "Humayun",
+      "Babur",
+      "Tamerlane"
+    ],
+    "correct": 2,
+    "fact": "He was a descendant of both Timur and Genghis Khan."
+  },
+  {
+    "id": "his_040",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which kingdom was Thailand's capital before Bangkok, until 1767?",
+    "answers": [
+      "Sukhothai",
+      "Lanna",
+      "Thonburi",
+      "Ayutthaya"
+    ],
+    "correct": 3,
+    "fact": "Burmese forces destroyed Ayutthaya in 1767."
+  },
+  {
+    "id": "his_041",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which was the last imperial dynasty of Vietnam?",
+    "answers": [
+      "Nguyen",
+      "Tran",
+      "Ly",
+      "Le"
+    ],
+    "correct": 0,
+    "fact": "The Nguyen ruled from 1802 until 1945."
+  },
+  {
+    "id": "his_042",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In which Indonesian city was the 1955 Asian-African Conference held?",
+    "answers": [
+      "Jakarta",
+      "Bandung",
+      "Surabaya",
+      "Yogyakarta"
+    ],
+    "correct": 1,
+    "fact": "It laid foundations for the Non-Aligned Movement."
+  },
+  {
+    "id": "his_043",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which emperor's reign saw Christianity legalised through the Edict of Milan in 313?",
+    "answers": [
+      "Diocletian",
+      "Nero",
+      "Constantine",
+      "Justinian"
+    ],
+    "correct": 2,
+    "fact": "Constantine later founded Constantinople."
+  },
+  {
+    "id": "his_044",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which Majapahit prime minister swore the Palapa Oath to unite the archipelago?",
+    "answers": [
+      "Hayam Wuruk",
+      "Raden Wijaya",
+      "Airlangga",
+      "Gajah Mada"
+    ],
+    "correct": 3,
+    "fact": "Majapahit peaked in the 14th century on Java."
+  },
+  {
+    "id": "his_045",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Great Wall of China was built in one single dynasty.",
+    "answer": false,
+    "fact": "Walls were built and rebuilt over 2,000 years; the Ming's is the best known."
+  },
+  {
+    "id": "his_046",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Napoleon Bonaparte was unusually short for a man of his time.",
+    "answer": false,
+    "fact": "He was around 1.69 metres, about average for the era."
+  },
+  {
+    "id": "his_047",
+    "category": "history",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+    "answer": true,
+    "fact": "Cleopatra died in 30 BC, about 2,500 years after the pyramid."
+  },
+  {
+    "id": "his_048",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Tang dynasty ruled China before the Song dynasty.",
+    "answer": true,
+    "fact": "Tang: 618-907. Song: 960-1279."
+  },
+  {
+    "id": "his_049",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Viking warriors wore horned helmets in battle.",
+    "answer": false,
+    "fact": "That image comes from 19th-century opera costumes."
+  },
+  {
+    "id": "his_050",
+    "category": "history",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The Western Roman Empire is traditionally said to have fallen in AD 476.",
+    "answer": true,
+    "fact": "Odoacer deposed the last western emperor, Romulus Augustulus."
+  },
+  {
+    "id": "his_051",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Hundred Years' War lasted exactly 100 years.",
+    "answer": false,
+    "fact": "It ran from 1337 to 1453, so about 116 years."
+  },
+  {
+    "id": "his_052",
+    "category": "history",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "The Ming dynasty came before the Qing dynasty.",
+    "answer": true,
+    "fact": "Ming: 1368-1644. Qing: 1644-1912."
+  },
+  {
+    "id": "his_053",
+    "category": "history",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The Mongol Empire was the largest contiguous land empire in history.",
+    "answer": true,
+    "fact": "It stretched from Korea to Eastern Europe at its height."
+  },
+  {
+    "id": "his_054",
+    "category": "history",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year did World War II end?",
+    "answer": 1945,
+    "min": 1920,
+    "max": 1990,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "Germany surrendered in May and Japan in August 1945."
+  },
+  {
+    "id": "his_055",
+    "category": "history",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did the French Revolution begin?",
+    "answer": 1789,
+    "min": 1700,
+    "max": 1850,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "The Bastille was stormed on 14 July 1789."
+  },
+  {
+    "id": "his_056",
+    "category": "history",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was Magna Carta sealed by King John?",
+    "answer": 1215,
+    "min": 1000,
+    "max": 1500,
+    "step": 5,
+    "tolerance": 10,
+    "unit": "year",
+    "fact": "It was sealed at Runnymede near Windsor."
+  },
+  {
+    "id": "his_057",
+    "category": "history",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did the Titanic sink?",
+    "answer": 1912,
+    "min": 1850,
+    "max": 1950,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "More than 1,500 people died."
+  },
+  {
+    "id": "his_058",
+    "category": "history",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Constantinople fall to the Ottomans?",
+    "answer": 1453,
+    "min": 1200,
+    "max": 1650,
+    "step": 5,
+    "tolerance": 5,
+    "unit": "year",
+    "fact": "Mehmed II captured the city on 29 May 1453."
+  },
+  {
+    "id": "his_059",
+    "category": "history",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did the Meiji Restoration begin?",
+    "answer": 1868,
+    "min": 1750,
+    "max": 1950,
+    "step": 1,
+    "tolerance": 3,
+    "unit": "year",
+    "fact": "Power was restored to Emperor Meiji in 1868."
+  },
+  {
+    "id": "his_060",
+    "category": "history",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Zheng He begin his first treasure voyage?",
+    "answer": 1405,
+    "min": 1300,
+    "max": 1600,
+    "step": 5,
+    "tolerance": 5,
+    "unit": "year",
+    "fact": "His first fleet had over 300 ships and tens of thousands of men."
+  },
+  {
+    "id": "his_061",
+    "category": "history",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did the Vietnam War end with the fall of Saigon?",
+    "answer": 1975,
+    "min": 1940,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Saigon fell on 30 April 1975."
+  },
+  {
+    "id": "his_062",
+    "category": "history",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Vasco da Gama reach Calicut, India by sea?",
+    "answer": 1498,
+    "min": 1350,
+    "max": 1600,
+    "step": 5,
+    "tolerance": 5,
+    "unit": "year",
+    "fact": "He found the sea route from Europe round Africa."
+  },
+  {
+    "id": "his_063",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which ancient people built the Parthenon in Athens?",
+    "answers": [
+      "Ancient Greeks",
+      "Romans",
+      "Persians",
+      "Phoenicians"
+    ],
+    "correct": 0,
+    "fact": "It was built in the 5th century BC for the goddess Athena."
+  },
+  {
+    "id": "his_064",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which monarch reigned over Britain from 1837 to 1901?",
+    "answers": [
+      "Queen Elizabeth I",
+      "Queen Victoria",
+      "Queen Anne",
+      "Queen Mary"
+    ],
+    "correct": 1,
+    "fact": "Her reign saw the British Empire at its height."
+  },
+  {
+    "id": "his_065",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which war was fought between the Union and the Confederacy from 1861 to 1865?",
+    "answers": [
+      "War of 1812",
+      "Mexican-American War",
+      "American Civil War",
+      "Spanish-American War"
+    ],
+    "correct": 2,
+    "fact": "It ended slavery in the United States."
+  },
+  {
+    "id": "his_066",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who was the first person to walk on the Moon?",
+    "answers": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn",
+      "Neil Armstrong"
+    ],
+    "correct": 3,
+    "fact": "Apollo 11 landed in July 1969."
+  },
+  {
+    "id": "his_067",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The samurai were warriors of which country?",
+    "answers": [
+      "Japan",
+      "China",
+      "Korea",
+      "Mongolia"
+    ],
+    "correct": 0,
+    "fact": "The samurai class was formally abolished in the 1870s."
+  },
+  {
+    "id": "his_068",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which war began in 1939 with the invasion of Poland?",
+    "answers": [
+      "World War I",
+      "World War II",
+      "Korean War",
+      "Vietnam War"
+    ],
+    "correct": 1,
+    "fact": "Germany invaded Poland on 1 September 1939."
+  },
+  {
+    "id": "his_069",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In which city was Julius Caesar assassinated in 44 BC?",
+    "answers": [
+      "Athens",
+      "Rome",
+      "Alexandria",
+      "Carthage"
+    ],
+    "correct": 1,
+    "fact": "It happened in a meeting hall, on the day the Romans call the Ides of March."
+  },
+  {
+    "id": "his_070",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which ancient conqueror built a vast empire stretching from Greece to India before turning 33?",
+    "answers": [
+      "Pericles",
+      "Leonidas",
+      "Darius",
+      "Alexander the Great"
+    ],
+    "correct": 3,
+    "fact": "He was tutored as a boy by the philosopher Aristotle."
+  },
+  {
+    "id": "his_071",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who was the first President of the United States?",
+    "answers": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "correct": 0,
+    "fact": "He took office in 1789."
+  },
+  {
+    "id": "his_072",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which wall divided a European city in two from 1961 to 1989?",
+    "answers": [
+      "Hadrian's Wall",
+      "The Great Wall",
+      "The Berlin Wall",
+      "The Western Wall"
+    ],
+    "correct": 2,
+    "fact": "Crowds began pulling it down in November 1989."
+  },
+  {
+    "id": "his_073",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which explorer sailed from Spain in 1492 and reached the Caribbean?",
+    "answers": [
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "James Cook",
+      "Christopher Columbus"
+    ],
+    "correct": 3,
+    "fact": "He thought he had found a western route to Asia."
+  },
+  {
+    "id": "his_074",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Egyptian pharaoh's nearly intact tomb was found by Howard Carter in 1922?",
+    "answers": [
+      "Ramses II",
+      "Tutankhamun",
+      "Khufu",
+      "Akhenaten"
+    ],
+    "correct": 1,
+    "fact": "The tomb held thousands of treasures, including a gold mask."
+  },
+  {
+    "id": "his_075",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which US president issued the Emancipation Proclamation in 1863?",
+    "answers": [
+      "Abraham Lincoln",
+      "Ulysses S. Grant",
+      "Theodore Roosevelt",
+      "Andrew Jackson"
+    ],
+    "correct": 0,
+    "fact": "It declared enslaved people in rebel states to be free."
+  },
+  {
+    "id": "his_076",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which English king famously had six wives?",
+    "answers": [
+      "Richard III",
+      "Edward I",
+      "Henry VIII",
+      "George III"
+    ],
+    "correct": 2,
+    "fact": "He also broke with the Pope in Rome."
+  },
+  {
+    "id": "his_077",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Chinese philosopher's sayings are collected in the Analects?",
+    "answers": [
+      "Laozi",
+      "Confucius",
+      "Sun Tzu",
+      "Mencius"
+    ],
+    "correct": 1,
+    "fact": "His ideas about family and respect shaped East Asian society for centuries."
+  },
+  {
+    "id": "his_078",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which ship carried the Pilgrims from England to North America in 1620?",
+    "answers": [
+      "The Mayflower",
+      "The Santa Maria",
+      "The Endeavour",
+      "The Victoria"
+    ],
+    "correct": 0,
+    "fact": "It landed near what is now Cape Cod, Massachusetts."
+  },
+  {
+    "id": "his_079",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who was Britain's wartime Prime Minister for most of World War II?",
+    "answers": [
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Margaret Thatcher",
+      "Winston Churchill"
+    ],
+    "correct": 3,
+    "fact": "His wartime radio speeches were broadcast across Britain."
+  },
+  {
+    "id": "his_080",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who sparked the Protestant Reformation in 1517 by publishing his 95 Theses?",
+    "answers": [
+      "John Calvin",
+      "Thomas More",
+      "Martin Luther",
+      "Erasmus"
+    ],
+    "correct": 2,
+    "fact": "Printing presses helped his ideas spread fast."
+  },
+  {
+    "id": "his_081",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The Renaissance began in the 1300s in which country?",
+    "answers": [
+      "Italy",
+      "France",
+      "England",
+      "Spain"
+    ],
+    "correct": 0,
+    "fact": "Florence was one of its great centres."
+  },
+  {
+    "id": "his_082",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who became the first woman to fly solo across the Atlantic Ocean, in 1932?",
+    "answers": [
+      "Bessie Coleman",
+      "Amy Johnson",
+      "Jacqueline Cochran",
+      "Amelia Earhart"
+    ],
+    "correct": 3,
+    "fact": "She later vanished during an attempt to fly round the world."
+  },
+  {
+    "id": "his_083",
+    "category": "history",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "answers": [
+      "Rome",
+      "Athens",
+      "Constantinople",
+      "Alexandria"
+    ],
+    "correct": 2,
+    "fact": "It is now called Istanbul."
+  },
+  {
+    "id": "his_084",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Mongol ruler, grandson of Genghis Khan, founded China's Yuan dynasty?",
+    "answers": [
+      "Ogedei Khan",
+      "Kublai Khan",
+      "Timur",
+      "Hulagu Khan"
+    ],
+    "correct": 1,
+    "fact": "Marco Polo later wrote about visiting his court."
+  },
+  {
+    "id": "his_085",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Spanish conquistador led the conquest of the Aztec Empire?",
+    "answers": [
+      "Francisco Pizarro",
+      "Hernán Cortés",
+      "Christopher Columbus",
+      "Vasco Núñez de Balboa"
+    ],
+    "correct": 1,
+    "fact": "He arrived in Mexico in 1519."
+  },
+  {
+    "id": "his_086",
+    "category": "history",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which ancient people invented cuneiform, one of the earliest forms of writing?",
+    "answers": [
+      "The Sumerians",
+      "The Egyptians",
+      "The Phoenicians",
+      "The Minoans"
+    ],
+    "correct": 0,
+    "fact": "They pressed wedge shapes into wet clay tablets."
+  },
+  {
+    "id": "his_087",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which Inca emperor was captured by Francisco Pizarro in 1532?",
+    "answers": [
+      "Montezuma",
+      "Pachacuti",
+      "Huayna Capac",
+      "Atahualpa"
+    ],
+    "correct": 3,
+    "fact": "The Incas filled a room with gold as ransom, but he was not freed."
+  },
+  {
+    "id": "his_088",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In which US state did the Wright brothers make their first powered flight in 1903?",
+    "answers": [
+      "Ohio",
+      "California",
+      "North Carolina",
+      "Texas"
+    ],
+    "correct": 2,
+    "fact": "The first flight lasted just 12 seconds."
+  },
+  {
+    "id": "his_089",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which volcanic eruption in 1815 led to the \"Year Without a Summer\" in 1816?",
+    "answers": [
+      "Krakatoa",
+      "Mount Tambora",
+      "Vesuvius",
+      "Mount Pinatubo"
+    ],
+    "correct": 1,
+    "fact": "Tambora is in present-day Indonesia."
+  },
+  {
+    "id": "his_090",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Churchill, Roosevelt and Stalin met in February 1945 at which Black Sea resort?",
+    "answers": [
+      "Odessa",
+      "Istanbul",
+      "Varna",
+      "Yalta"
+    ],
+    "correct": 3,
+    "fact": "They discussed how to organise Europe after the war."
+  },
+  {
+    "id": "his_091",
+    "category": "history",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Whose expedition completed the first voyage around the world, after its leader died along the way?",
+    "answers": [
+      "Christopher Columbus's",
+      "Vasco da Gama's",
+      "Ferdinand Magellan's",
+      "James Cook's"
+    ],
+    "correct": 2,
+    "fact": "Only one of his five ships made it back to Spain."
+  },
+  {
+    "id": "his_092",
+    "category": "history",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "The Colosseum in Rome hosted gladiator contests.",
+    "answer": true,
+    "fact": "It could seat tens of thousands of spectators."
+  },
+  {
+    "id": "his_093",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Marie Antoinette said \"Let them eat cake\".",
+    "answer": false,
+    "fact": "There is no evidence she ever said it."
+  },
+  {
+    "id": "his_094",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Great Pyramid was built by enslaved people.",
+    "answer": false,
+    "fact": "Evidence points to paid, fed and housed Egyptian workers."
+  },
+  {
+    "id": "his_095",
+    "category": "history",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Vikings reached North America about 500 years before Columbus.",
+    "answer": true,
+    "fact": "Their settlement at L'Anse aux Meadows in Canada dates to around the year 1000."
+  },
+  {
+    "id": "his_096",
+    "category": "history",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The Terracotta Army was discovered by farmers digging a well.",
+    "answer": true,
+    "fact": "They found it near Xi'an in 1974."
+  },
+  {
+    "id": "his_097",
+    "category": "history",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Oxford University is older than the Aztec Empire.",
+    "answer": true,
+    "fact": "Teaching at Oxford began in the 1090s, and the Aztec capital was founded in the 1300s."
+  },
+  {
+    "id": "his_098",
+    "category": "history",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year did World War I begin?",
+    "answer": 1914,
+    "min": 1850,
+    "max": 1960,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "It lasted until 1918."
+  },
+  {
+    "id": "his_099",
+    "category": "history",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year did Columbus first reach the Caribbean?",
+    "answer": 1492,
+    "min": 1350,
+    "max": 1650,
+    "step": 1,
+    "tolerance": 5,
+    "unit": "year",
+    "fact": "He made four voyages in total."
+  },
+  {
+    "id": "his_100",
+    "category": "history",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was the US Declaration of Independence adopted?",
+    "answer": 1776,
+    "min": 1650,
+    "max": 1900,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "It was approved on 4 July."
+  },
+  {
+    "id": "his_101",
+    "category": "history",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was the Battle of Hastings fought?",
+    "answer": 1066,
+    "min": 900,
+    "max": 1300,
+    "step": 1,
+    "tolerance": 5,
+    "unit": "year",
+    "fact": "It led to the Norman conquest of England."
+  },
+  {
+    "id": "his_102",
+    "category": "history",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": 1989,
+    "min": 1950,
+    "max": 2010,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Germany reunified the following year."
+  },
+  {
+    "id": "his_103",
+    "category": "history",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Krakatoa erupt with its famous, world-shaking blast?",
+    "answer": 1883,
+    "min": 1800,
+    "max": 1950,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "The blast was heard thousands of kilometres away."
+  },
+  {
+    "id": "his_104",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Cuzco was the capital of which empire?",
+    "answers": [
+      "Inca",
+      "Aztec",
+      "Maya",
+      "Olmec"
+    ],
+    "correct": 0,
+    "fact": "It lies high in the Andes of Peru."
+  },
+  {
+    "id": "his_105",
+    "category": "history",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "In 1488, who became the first European to sail round the southern tip of Africa?",
+    "answers": [
+      "Bartolomeu Dias",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Henry the Navigator"
+    ],
+    "correct": 0,
+    "fact": "He named it the Cape of Storms; it was renamed the Cape of Good Hope."
+  },
+  {
+    "id": "his_106",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which empire built Angkor Wat?",
+    "answers": [
+      "Khmer Empire",
+      "Majapahit",
+      "Srivijaya",
+      "Ayutthaya"
+    ],
+    "correct": 0,
+    "fact": "It began as a Hindu temple and later became Buddhist."
+  },
+  {
+    "id": "his_107",
+    "category": "history",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which Sumatra-based kingdom controlled the Strait of Malacca around 700 to 1100 AD?",
+    "answers": [
+      "Srivijaya",
+      "Majapahit",
+      "Funan",
+      "Champa"
+    ],
+    "correct": 0,
+    "fact": "It grew rich taxing ships between India and China."
+  },
+  {
+    "id": "his_108",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answers": [
+      "Marie Curie",
+      "Florence Nightingale",
+      "Ada Lovelace",
+      "Mother Teresa"
+    ],
+    "correct": 0,
+    "fact": "She later won a second one, in a different science."
+  },
+  {
+    "id": "his_109",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which ancient wonder stood at the harbour of Rhodes?",
+    "answers": [
+      "The Colossus",
+      "The Lighthouse",
+      "The Hanging Gardens",
+      "The Mausoleum"
+    ],
+    "correct": 0,
+    "fact": "An earthquake toppled it just over 50 years after it was built."
+  },
+  {
+    "id": "his_110",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "The Rosetta Stone helped scholars read which script?",
+    "answers": [
+      "Egyptian hieroglyphs",
+      "Cuneiform",
+      "Linear B",
+      "Mayan glyphs"
+    ],
+    "correct": 0,
+    "fact": "It carries the same decree in three scripts."
+  },
+  {
+    "id": "his_111",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Who was the first Roman emperor?",
+    "answers": [
+      "Augustus",
+      "Julius Caesar",
+      "Nero",
+      "Caligula"
+    ],
+    "correct": 0,
+    "fact": "Julius Caesar was a dictator, never an emperor."
+  },
+  {
+    "id": "his_112",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "In 1904 to 1905, Japan won a shock war against which country?",
+    "answers": [
+      "Russia",
+      "China",
+      "Korea",
+      "Britain"
+    ],
+    "correct": 0,
+    "fact": "It was the first modern victory of an Asian power over a European one."
+  },
+  {
+    "id": "his_113",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which dynasty ruled China when Marco Polo visited?",
+    "answers": [
+      "Yuan",
+      "Ming",
+      "Tang",
+      "Song"
+    ],
+    "correct": 0,
+    "fact": "He served at the court of Kublai Khan."
+  },
+  {
+    "id": "his_114",
+    "category": "history",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "The 1757 Battle of Plassey gave the East India Company control of which region?",
+    "answers": [
+      "Bengal",
+      "Punjab",
+      "Madras",
+      "Burma"
+    ],
+    "correct": 0,
+    "fact": "It is often seen as the start of British rule in India."
+  },
+  {
+    "id": "his_115",
+    "category": "history",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which city did Rome destroy in 146 BC, ending the Punic Wars?",
+    "answers": [
+      "Carthage",
+      "Troy",
+      "Babylon",
+      "Sparta"
+    ],
+    "correct": 0,
+    "fact": "It stood near modern-day Tunis."
+  },
+  {
+    "id": "his_116",
+    "category": "history",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which pharaoh built the great temples at Abu Simbel?",
+    "answers": [
+      "Ramesses II",
+      "Tutankhamun",
+      "Khufu",
+      "Akhenaten"
+    ],
+    "correct": 0,
+    "fact": "In the 1960s the temples were moved to escape a new dam's lake."
+  },
+  {
+    "id": "his_117",
+    "category": "history",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which Indian mathematician first wrote rules for calculating with zero?",
+    "answers": [
+      "Brahmagupta",
+      "Euclid",
+      "Pythagoras",
+      "Archimedes"
+    ],
+    "correct": 0,
+    "fact": "He set them down in 628 AD."
+  },
+  {
+    "id": "his_118",
+    "category": "history",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "The Hundred Years' War was fought mainly between England and which country?",
+    "answers": [
+      "France",
+      "Spain",
+      "Scotland",
+      "Netherlands"
+    ],
+    "correct": 0,
+    "fact": "Joan of Arc became a heroine of this war."
+  }
+]

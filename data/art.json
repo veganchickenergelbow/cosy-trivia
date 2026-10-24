@@ -1,0 +1,6 @@
+{
+  "_comment": "Which ChatGPT art is integrated. tools/art/slice.py flips these to true. Cat art flags live in data/cats.json.",
+  "room": false,
+  "icons": true,
+  "logo": true
+}

@@ -1,0 +1,2865 @@
+[
+  {
+    "id": "sg_001",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "By what old name was Singapore recorded before it was called Singapura?",
+    "answers": [
+      "Temasek",
+      "Pulau Blakang Mati",
+      "Syonan",
+      "Kampong Glam"
+    ],
+    "correct": 0,
+    "fact": "Temasek is mentioned in a 1365 Javanese poem, the Nagarakretagama."
+  },
+  {
+    "id": "sg_002",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who founded modern Singapore as a British trading post in 1819?",
+    "answers": [
+      "William Farquhar",
+      "Stamford Raffles",
+      "Francis Light",
+      "James Brooke"
+    ],
+    "correct": 1,
+    "fact": "Raffles landed on 29 January 1819."
+  },
+  {
+    "id": "sg_003",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "On what date is Singapore's National Day?",
+    "answers": [
+      "31 August",
+      "16 September",
+      "9 August",
+      "15 February"
+    ],
+    "correct": 2,
+    "fact": "It marks the 1965 separation from Malaysia."
+  },
+  {
+    "id": "sg_004",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The Merlion has the head of a lion and the body of what creature?",
+    "answers": [
+      "Dragon",
+      "Horse",
+      "Tiger",
+      "Fish"
+    ],
+    "correct": 3,
+    "fact": "The Merlion was designed as a tourism logo in 1964."
+  },
+  {
+    "id": "sg_005",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which of these is NOT one of Singapore's four official languages?",
+    "answers": [
+      "Hokkien",
+      "Tamil",
+      "Malay",
+      "Mandarin"
+    ],
+    "correct": 0,
+    "fact": "The four are English, Malay, Mandarin and Tamil."
+  },
+  {
+    "id": "sg_006",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which rice dish is cooked in coconut milk and served with ikan bilis, egg and sambal?",
+    "answers": [
+      "Nasi briyani",
+      "Nasi lemak",
+      "Hainanese chicken rice",
+      "Claypot rice"
+    ],
+    "correct": 1,
+    "fact": "It is a Malay dish loved by all communities."
+  },
+  {
+    "id": "sg_007",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In Singlish, what does it mean to \"chope\" a seat?",
+    "answers": [
+      "Clean it",
+      "Pay for it",
+      "Reserve it",
+      "Sit on it"
+    ],
+    "correct": 2,
+    "fact": "Tissue packets are the classic way to chope."
+  },
+  {
+    "id": "sg_008",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In Singlish, what does \"shiok\" express?",
+    "answers": [
+      "Boredom",
+      "Anger",
+      "Confusion",
+      "Great satisfaction"
+    ],
+    "correct": 3,
+    "fact": "It is often used for good food or a cool breeze."
+  },
+  {
+    "id": "sg_009",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In Singlish, what does \"kiasu\" mean?",
+    "answers": [
+      "Afraid to lose out",
+      "Very generous",
+      "Easily upset",
+      "Super calm"
+    ],
+    "correct": 0,
+    "fact": "It comes from Hokkien and means \"fear of losing\"."
+  },
+  {
+    "id": "sg_010",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does CPF stand for in Singapore?",
+    "answers": [
+      "Civil Pension Fund",
+      "Central Provident Fund",
+      "Central Pension Finance",
+      "Citizen Provident Fund"
+    ],
+    "correct": 1,
+    "fact": "It was introduced in 1955 as a retirement savings scheme."
+  },
+  {
+    "id": "sg_011",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does HDB stand for?",
+    "answers": [
+      "Home Development Bureau",
+      "Housing Distribution Branch",
+      "Housing and Development Board",
+      "Homeowners' Development Bank"
+    ],
+    "correct": 2,
+    "fact": "It was set up in 1960 to provide public housing."
+  },
+  {
+    "id": "sg_012",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which arts centre is nicknamed \"The Durian\"?",
+    "answers": [
+      "Victoria Theatre",
+      "Marina Bay Sands",
+      "National Gallery Singapore",
+      "Esplanade - Theatres on the Bay"
+    ],
+    "correct": 3,
+    "fact": "It opened in 2002 beside Marina Bay."
+  },
+  {
+    "id": "sg_013",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which cocktail was created at Raffles Hotel's Long Bar?",
+    "answers": [
+      "Singapore Sling",
+      "Mai Tai",
+      "Negroni",
+      "Bellini"
+    ],
+    "correct": 0,
+    "fact": "Bartender Ngiam Tong Boon created it around 1915."
+  },
+  {
+    "id": "sg_014",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who was Singapore's first Prime Minister?",
+    "answers": [
+      "Goh Keng Swee",
+      "Lee Kuan Yew",
+      "Lim Yew Hock",
+      "David Marshall"
+    ],
+    "correct": 1,
+    "fact": "He served from 1959 to 1990."
+  },
+  {
+    "id": "sg_015",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which species of otter is commonly seen in Singapore's waterways?",
+    "answers": [
+      "Sea otter",
+      "Eurasian otter",
+      "Smooth-coated otter",
+      "Giant otter"
+    ],
+    "correct": 2,
+    "fact": "Smooth-coated otters live in family groups in places like Marina Bay."
+  },
+  {
+    "id": "sg_016",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which airline is Singapore's flag carrier?",
+    "answers": [
+      "Scoot",
+      "SilkAir",
+      "Jetstar Asia",
+      "Singapore Airlines"
+    ],
+    "correct": 3,
+    "fact": "Singapore Airlines began as its own airline in 1972."
+  },
+  {
+    "id": "sg_017",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What are the towering vertical gardens at Gardens by the Bay called?",
+    "answers": [
+      "Supertrees",
+      "Skytrees",
+      "Megatrees",
+      "Treetop Towers"
+    ],
+    "correct": 0,
+    "fact": "They stand between 25 and 50 metres tall."
+  },
+  {
+    "id": "sg_018",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which festival marks the end of Ramadan?",
+    "answers": [
+      "Hari Raya Haji",
+      "Hari Raya Puasa",
+      "Deepavali",
+      "Thaipusam"
+    ],
+    "correct": 1,
+    "fact": "It is also called Eid al-Fitr."
+  },
+  {
+    "id": "sg_019",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which colour is the North-South Line on the MRT map?",
+    "answers": [
+      "Green",
+      "Blue",
+      "Red",
+      "Purple"
+    ],
+    "correct": 2,
+    "fact": "The East-West Line is green."
+  },
+  {
+    "id": "sg_020",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which dessert of shaved ice topped with red beans, sweet corn and syrup is a hawker favourite?",
+    "answers": [
+      "Chendol",
+      "Bubur cha cha",
+      "Tau suan",
+      "Ice kachang"
+    ],
+    "correct": 3,
+    "fact": "The syrups are brightly coloured."
+  },
+  {
+    "id": "sg_021",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who has been Singapore's Prime Minister since May 2024?",
+    "answers": [
+      "Lawrence Wong",
+      "Lee Hsien Loong",
+      "Tharman Shanmugaratnam",
+      "Heng Swee Keat"
+    ],
+    "correct": 0,
+    "fact": "He is Singapore's fourth Prime Minister.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "sg_022",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who has been Singapore's President since September 2023?",
+    "answers": [
+      "Halimah Yacob",
+      "Tharman Shanmugaratnam",
+      "Tony Tan",
+      "S R Nathan"
+    ],
+    "correct": 1,
+    "fact": "He is Singapore's ninth President.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "sg_023",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "According to the Malay Annals, which prince named Singapura after seeing a lion?",
+    "answers": [
+      "Parameswara",
+      "Hang Tuah",
+      "Sang Nila Utama",
+      "Iskandar Shah"
+    ],
+    "correct": 2,
+    "fact": "He was a prince from Palembang."
+  },
+  {
+    "id": "sg_024",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What did the Japanese rename Singapore during the 1942-1945 Occupation?",
+    "answers": [
+      "Temasek-ko",
+      "Nippon-to",
+      "Hikari-jima",
+      "Syonan-to"
+    ],
+    "correct": 3,
+    "fact": "\"Syonan-to\" means \"Light of the South\"."
+  },
+  {
+    "id": "sg_025",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which territories joined Malaya and Singapore to form Malaysia in 1963?",
+    "answers": [
+      "Sabah and Sarawak",
+      "Brunei and Sabah",
+      "Sarawak and Brunei",
+      "Penang and Labuan"
+    ],
+    "correct": 0,
+    "fact": "Brunei chose not to join."
+  },
+  {
+    "id": "sg_026",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Whose portrait appears on all Singapore dollar banknotes?",
+    "answers": [
+      "Lee Kuan Yew",
+      "Yusof Ishak",
+      "Stamford Raffles",
+      "Tunku Abdul Rahman"
+    ],
+    "correct": 1,
+    "fact": "He was Singapore's first President."
+  },
+  {
+    "id": "sg_027",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In 2020, UNESCO inscribed which Singapore tradition on its intangible heritage list?",
+    "answers": [
+      "Peranakan weddings",
+      "Dragon boat racing",
+      "Hawker culture",
+      "Lion dance"
+    ],
+    "correct": 2,
+    "fact": "The listing came in December 2020."
+  },
+  {
+    "id": "sg_028",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Singapore site became a UNESCO World Heritage Site in 2015?",
+    "answers": [
+      "Gardens by the Bay",
+      "Raffles Hotel",
+      "Fort Canning Park",
+      "Singapore Botanic Gardens"
+    ],
+    "correct": 3,
+    "fact": "It was Singapore's first UNESCO World Heritage Site."
+  },
+  {
+    "id": "sg_029",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the highest natural point in Singapore?",
+    "answers": [
+      "Bukit Timah Hill",
+      "Mount Faber",
+      "Fort Canning Hill",
+      "Bukit Batok Hill"
+    ],
+    "correct": 0,
+    "fact": "It rises about 164 metres."
+  },
+  {
+    "id": "sg_030",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which island's Chek Jawa wetlands are a famous nature spot?",
+    "answers": [
+      "Sentosa",
+      "Pulau Ubin",
+      "Pulau Tekong",
+      "Kusu Island"
+    ],
+    "correct": 1,
+    "fact": "Pulau Ubin still has village-style rustic charm."
+  },
+  {
+    "id": "sg_031",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which island hosts the SAF's Basic Military Training Centre?",
+    "answers": [
+      "Pulau Ubin",
+      "St John's Island",
+      "Pulau Tekong",
+      "Sentosa"
+    ],
+    "correct": 2,
+    "fact": "Many Singaporean men do their first months of NS there."
+  },
+  {
+    "id": "sg_032",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Literally translated, what does \"bak kut teh\" mean?",
+    "answers": [
+      "Pork soup rice",
+      "Herbal fish soup",
+      "Fragrant pork broth",
+      "Meat bone tea"
+    ],
+    "correct": 3,
+    "fact": "It comes from Hokkien."
+  },
+  {
+    "id": "sg_033",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In a kopitiam, what does \"kopi-o\" mean?",
+    "answers": [
+      "Black coffee with sugar",
+      "Coffee with evaporated milk",
+      "Coffee with condensed milk",
+      "Black coffee without sugar"
+    ],
+    "correct": 0,
+    "fact": "\"Kopi-o kosong\" is black coffee without sugar."
+  },
+  {
+    "id": "sg_034",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Kaya, spread on toast, is made from coconut milk, eggs, sugar and which leaf?",
+    "answers": [
+      "Curry",
+      "Pandan",
+      "Banana",
+      "Lemongrass"
+    ],
+    "correct": 1,
+    "fact": "Pandan gives kaya its green colour and fragrance."
+  },
+  {
+    "id": "sg_035",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which salad do Singaporeans toss and shout \"lo hei\" over at Chinese New Year?",
+    "answers": [
+      "Rojak",
+      "Popiah",
+      "Yusheng",
+      "Ngoh hiang"
+    ],
+    "correct": 2,
+    "fact": "Tossing it high is meant to bring good fortune."
+  },
+  {
+    "id": "sg_036",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which flower is Singapore's national flower?",
+    "answers": [
+      "Frangipani",
+      "Hibiscus",
+      "Lotus",
+      "Vanda Miss Joaquim"
+    ],
+    "correct": 3,
+    "fact": "It was chosen in 1981 and named after Agnes Joaquim."
+  },
+  {
+    "id": "sg_037",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What do the five stars on Singapore's flag represent?",
+    "answers": [
+      "Five national ideals",
+      "Five founding races",
+      "Five founding ministers",
+      "Five original districts"
+    ],
+    "correct": 0,
+    "fact": "Democracy, peace, progress, justice and equality."
+  },
+  {
+    "id": "sg_038",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who composed \"Majulah Singapura\", the national anthem?",
+    "answers": [
+      "Ismail Marzuki",
+      "Zubir Said",
+      "Yusof Ishak",
+      "P. Ramlee"
+    ],
+    "correct": 1,
+    "fact": "He composed it in 1958 for the Victoria Memorial Hall."
+  },
+  {
+    "id": "sg_039",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which structure, opened in 1924, first linked Singapore to Johor?",
+    "answers": [
+      "Second Link",
+      "Benjamin Sheares Bridge",
+      "Johor-Singapore Causeway",
+      "Henderson Waves"
+    ],
+    "correct": 2,
+    "fact": "The Second Link opened in 1998."
+  },
+  {
+    "id": "sg_040",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who succeeded Lee Kuan Yew as Singapore's Prime Minister in 1990?",
+    "answers": [
+      "Lee Hsien Loong",
+      "Ong Teng Cheong",
+      "Goh Keng Swee",
+      "Goh Chok Tong"
+    ],
+    "correct": 3,
+    "fact": "He served until 2004."
+  },
+  {
+    "id": "sg_041",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Singaporean won the country's first Olympic gold in 2016?",
+    "answers": [
+      "Joseph Schooling",
+      "Feng Tianwei",
+      "Yip Pin Xiu",
+      "Tan Howe Liang"
+    ],
+    "correct": 0,
+    "fact": "He won the 100 m butterfly in Rio, ahead of Michael Phelps."
+  },
+  {
+    "id": "sg_042",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is NEWater in Singapore?",
+    "answers": [
+      "Desalinated seawater",
+      "Highly treated reclaimed water",
+      "Harvested rainwater",
+      "Water imported from Johor"
+    ],
+    "correct": 1,
+    "fact": "It was launched in 2003 as one of the Four National Taps."
+  },
+  {
+    "id": "sg_043",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the Rain Vortex at Jewel Changi Airport?",
+    "answers": [
+      "A giant aquarium",
+      "A rooftop wave pool",
+      "The world's tallest indoor waterfall",
+      "A glass bridge"
+    ],
+    "correct": 2,
+    "fact": "It is about 40 metres tall."
+  },
+  {
+    "id": "sg_044",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which street circuit hosts the Singapore Grand Prix?",
+    "answers": [
+      "Changi Circuit",
+      "Sentosa Circuit",
+      "Orchard Circuit",
+      "Marina Bay Street Circuit"
+    ],
+    "correct": 3,
+    "fact": "In 2008 it became Formula 1's first night race."
+  },
+  {
+    "id": "sg_045",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What was Sentosa called before it was renamed in 1972?",
+    "answers": [
+      "Pulau Blakang Mati",
+      "Pulau Brani",
+      "Pulau Hantu",
+      "Pulau Sudong"
+    ],
+    "correct": 0,
+    "fact": "The new name Sentosa means \"peace and tranquility\"."
+  },
+  {
+    "id": "sg_046",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Jurong Island was formed by merging how many smaller islands?",
+    "answers": [
+      "Three",
+      "Seven",
+      "Five",
+      "Ten"
+    ],
+    "correct": 1,
+    "fact": "Reclamation joined them to make a petrochemical hub."
+  },
+  {
+    "id": "sg_047",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What did the Marina Barrage, completed in 2008, create?",
+    "answers": [
+      "A new container port",
+      "A reclaimed island",
+      "A freshwater reservoir in the city",
+      "A saltwater lagoon"
+    ],
+    "correct": 2,
+    "fact": "It also provides flood control for low-lying areas."
+  },
+  {
+    "id": "sg_048",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who wrote the Singapore Pledge in 1966?",
+    "answers": [
+      "Goh Keng Swee",
+      "Toh Chin Chye",
+      "Lim Kim San",
+      "S. Rajaratnam"
+    ],
+    "correct": 3,
+    "fact": "Rajaratnam was Singapore's first Foreign Minister."
+  },
+  {
+    "id": "sg_049",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who designed the Merlion in 1964?",
+    "answers": [
+      "Alec Fraser-Brunner",
+      "Goh Keng Swee",
+      "Lim Kim San",
+      "Ngiam Tong Boon"
+    ],
+    "correct": 0,
+    "fact": "He was curator of the Van Kleef Aquarium."
+  },
+  {
+    "id": "sg_050",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who was Singapore's first Chief Minister, taking office in 1955?",
+    "answers": [
+      "Lim Yew Hock",
+      "David Marshall",
+      "Lee Kuan Yew",
+      "Goh Chok Tong"
+    ],
+    "correct": 1,
+    "fact": "He led the Labour Front government."
+  },
+  {
+    "id": "sg_051",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In 1826, Singapore joined Penang and which port to form the Straits Settlements?",
+    "answers": [
+      "Kuching",
+      "Labuan",
+      "Malacca",
+      "Phuket"
+    ],
+    "correct": 2,
+    "fact": "They were governed by the British East India Company."
+  },
+  {
+    "id": "sg_052",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Legend says which island was formed when a turtle turned into land to save sailors?",
+    "answers": [
+      "Pulau Ubin",
+      "St John's Island",
+      "Sisters' Islands",
+      "Kusu Island"
+    ],
+    "correct": 3,
+    "fact": "Pilgrims visit Kusu each year during the ninth lunar month."
+  },
+  {
+    "id": "sg_053",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is a key custodial role of Singapore's Elected President?",
+    "answers": [
+      "Safeguarding past reserves",
+      "Setting interest rates",
+      "Drafting the budget",
+      "Appointing all MPs"
+    ],
+    "correct": 0,
+    "fact": "The Elected Presidency was created in 1991."
+  },
+  {
+    "id": "sg_054",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Group Representation Constituencies were introduced in 1988 mainly to ensure what?",
+    "answers": [
+      "Lower campaign costs",
+      "Minority representation in Parliament",
+      "Equal-sized constituencies",
+      "Younger MPs"
+    ],
+    "correct": 1,
+    "fact": "Each GRC team must include a minority candidate."
+  },
+  {
+    "id": "sg_055",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Racial Harmony Day on 21 July remembers riots that took place in which year?",
+    "answers": [
+      "1950",
+      "1969",
+      "1964",
+      "1955"
+    ],
+    "correct": 2,
+    "fact": "The day is observed in schools across Singapore."
+  },
+  {
+    "id": "sg_056",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who won Singapore's first Olympic medal, a silver in weightlifting, in 1960?",
+    "answers": [
+      "Joseph Schooling",
+      "Ang Peng Siong",
+      "Lee Kuan Yew",
+      "Tan Howe Liang"
+    ],
+    "correct": 3,
+    "fact": "The 1960 Rome Games saw him win the lightweight class silver."
+  },
+  {
+    "id": "sg_057",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which Singaporean won the men's singles title at the 2021 BWF World Championships?",
+    "answers": [
+      "Loh Kean Yew",
+      "Terry Hee",
+      "Jason Teh",
+      "Lee Chong Wei"
+    ],
+    "correct": 0,
+    "fact": "He beat India's Kidambi Srikanth in the final."
+  },
+  {
+    "id": "sg_058",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which city hosted the first-ever Youth Olympic Games in 2010?",
+    "answers": [
+      "Beijing",
+      "Singapore",
+      "Seoul",
+      "Nanjing"
+    ],
+    "correct": 1,
+    "fact": "About 3,500 athletes took part."
+  },
+  {
+    "id": "sg_059",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In Singlish, what does \"jialat\" mean?",
+    "answers": [
+      "Delicious",
+      "Expensive",
+      "Terrible or in big trouble",
+      "Funny"
+    ],
+    "correct": 2,
+    "fact": "Often exclaimed when a situation is really bad: \"Wah, jialat!\""
+  },
+  {
+    "id": "sg_060",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Singapore is a republic.",
+    "answer": true,
+    "fact": "It became one when it separated from Malaysia in 1965."
+  },
+  {
+    "id": "sg_061",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Singapore's Parliament has two chambers.",
+    "answer": false,
+    "fact": "It is unicameral; there is a single chamber."
+  },
+  {
+    "id": "sg_062",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Voting is compulsory in Singapore's parliamentary elections.",
+    "answer": true,
+    "fact": "Non-voters are struck off the register until they reapply."
+  },
+  {
+    "id": "sg_063",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Malay is Singapore's national language.",
+    "answer": true,
+    "fact": "The national anthem is sung in Malay."
+  },
+  {
+    "id": "sg_064",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The Singapore dollar and Brunei dollar can be used interchangeably.",
+    "answer": true,
+    "fact": "A currency interchangeability agreement dates from 1967."
+  },
+  {
+    "id": "sg_065",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Singapore has only one official language.",
+    "answer": false,
+    "fact": "English, Malay, Mandarin and Tamil are all official."
+  },
+  {
+    "id": "sg_066",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Singapore is the only island nation in Southeast Asia.",
+    "answer": false,
+    "fact": "Indonesia and the Philippines are archipelagic nations too."
+  },
+  {
+    "id": "sg_067",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Most Singapore residents live in HDB flats.",
+    "answer": true,
+    "fact": "Roughly eight in ten residents live in public housing."
+  },
+  {
+    "id": "sg_068",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Singapore gained independence directly from Britain in 1965.",
+    "answer": false,
+    "fact": "It separated from Malaysia, having joined it in 1963."
+  },
+  {
+    "id": "sg_069",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Lee Kuan Yew was Singapore's first President.",
+    "answer": false,
+    "fact": "Yusof Ishak was first President; Lee was first Prime Minister."
+  },
+  {
+    "id": "sg_070",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year did Singapore become independent?",
+    "answer": 1965,
+    "min": 1900,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "9 August 1965."
+  },
+  {
+    "id": "sg_071",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did Stamford Raffles land in Singapore?",
+    "answer": 1819,
+    "min": 1700,
+    "max": 1900,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "He landed on 29 January 1819."
+  },
+  {
+    "id": "sg_072",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did Japan occupy Singapore?",
+    "answer": 1942,
+    "min": 1920,
+    "max": 1990,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "The British surrendered on 15 February 1942."
+  },
+  {
+    "id": "sg_073",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "Roughly how large is Singapore's land area, in square kilometres?",
+    "answer": 735,
+    "min": 400,
+    "max": 1000,
+    "step": 5,
+    "tolerance": 30,
+    "unit": "km2",
+    "fact": "Land reclamation has grown it from about 580 km2 in the 1960s."
+  },
+  {
+    "id": "sg_074",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "About how tall is Bukit Timah Hill, in metres?",
+    "answer": 164,
+    "min": 50,
+    "max": 400,
+    "step": 1,
+    "tolerance": 15,
+    "unit": "metres",
+    "fact": "Its exact height is 163.63 metres."
+  },
+  {
+    "id": "sg_075",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was National Service introduced in Singapore?",
+    "answer": 1967,
+    "min": 1950,
+    "max": 1990,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "The first batch enlisted in August 1967."
+  },
+  {
+    "id": "sg_076",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did the MRT begin running?",
+    "answer": 1987,
+    "min": 1965,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "The first stretch ran from Yio Chu Kang to Toa Payoh."
+  },
+  {
+    "id": "sg_077",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Changi Airport open?",
+    "answer": 1981,
+    "min": 1950,
+    "max": 1995,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It replaced Paya Lebar as the main airport."
+  },
+  {
+    "id": "sg_078",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "Roughly how many million people live in Singapore, residents and non-residents combined?",
+    "answer": 6.1,
+    "min": 3,
+    "max": 10,
+    "step": 0.1,
+    "tolerance": 0.3,
+    "unit": "million",
+    "fact": "The figure is from 2025.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "sg_079",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was hawker culture inscribed on UNESCO's heritage list?",
+    "answer": 2020,
+    "min": 2010,
+    "max": 2024,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "UNESCO described hawker centres as community dining rooms."
+  },
+  {
+    "id": "sg_080",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Orchard Road is named after the orchards and plantations that once lined it. Which crop was famous there?",
+    "answers": [
+      "Wheat",
+      "Tea",
+      "Nutmeg",
+      "Sugar beet"
+    ],
+    "correct": 2,
+    "fact": "The name is thought to come from the orchards and nutmeg farms of the 1830s, though historians offer other ideas too."
+  },
+  {
+    "id": "sg_081",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"Bras Basah\" mean in Malay?",
+    "answers": [
+      "Brass bell",
+      "Wide river",
+      "Broken bridge",
+      "Wet rice"
+    ],
+    "correct": 3,
+    "fact": "Rice was laid out to dry on the banks of the nearby river, which gave the road its name."
+  },
+  {
+    "id": "sg_082",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"Telok Ayer\", the Chinatown street name, mean in Malay?",
+    "answers": [
+      "Long sand",
+      "Water cart",
+      "Bay water",
+      "Big swamp"
+    ],
+    "correct": 2,
+    "fact": "The street ran along Telok Ayer Bay, where early Chinese immigrants landed."
+  },
+  {
+    "id": "sg_083",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"tanjong\", as in Tanjong Pagar, mean in Malay?",
+    "answers": [
+      "Tin",
+      "Cape",
+      "Pond",
+      "Gate"
+    ],
+    "correct": 1,
+    "fact": "Tanjong Pagar is usually translated as \"cape of stakes\", perhaps after fishing traps built from wooden stakes."
+  },
+  {
+    "id": "sg_084",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In Malay, what does \"bukit\", as in Bukit Timah, mean?",
+    "answers": [
+      "Hill",
+      "Bridge",
+      "Village",
+      "Bay"
+    ],
+    "correct": 0,
+    "fact": "Bukit Batok, Bukit Merah and Bukit Panjang all start the same way."
+  },
+  {
+    "id": "sg_085",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"Paya Lebar\" mean in Malay?",
+    "answers": [
+      "Long beach",
+      "Red hill",
+      "Wide swamp",
+      "Deep river"
+    ],
+    "correct": 2,
+    "fact": "The name was already used for the district in the 1820s and 1830s."
+  },
+  {
+    "id": "sg_086",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"Pasir Panjang\" mean in Malay?",
+    "answers": [
+      "Red sand",
+      "Wide swamp",
+      "Long hill",
+      "Long sand"
+    ],
+    "correct": 3,
+    "fact": "It was named for a long sandy beach on the south-west coast."
+  },
+  {
+    "id": "sg_087",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"Jalan Besar\" mean in Malay?",
+    "answers": [
+      "Big road",
+      "Old market",
+      "Long bridge",
+      "Main gate"
+    ],
+    "correct": 0,
+    "fact": "The road was cut through a plantation in the 1880s."
+  },
+  {
+    "id": "sg_088",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"Bukit Panjang\" mean in Malay?",
+    "answers": [
+      "Red hill",
+      "Long hill",
+      "Tin hill",
+      "Broken hill"
+    ],
+    "correct": 1,
+    "fact": "The hill itself is only about 132 metres high."
+  },
+  {
+    "id": "sg_089",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Queenstown, Singapore's first satellite town, was named after which queen?",
+    "answers": [
+      "Queen Elizabeth II",
+      "Queen Victoria",
+      "Queen Mary",
+      "Queen Anne"
+    ],
+    "correct": 0,
+    "fact": "The name marked her coronation in 1953."
+  },
+  {
+    "id": "sg_090",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Raffles Place was once called Commercial Square. Who is it named after?",
+    "answers": [
+      "William Farquhar",
+      "John Crawfurd",
+      "Henry Keppel",
+      "Stamford Raffles"
+    ],
+    "correct": 3,
+    "fact": "Hokkien speakers once called the area the street of European firms."
+  },
+  {
+    "id": "sg_091",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Hokkien word \"tiong\" means grave. What does \"bahru\" in Tiong Bahru mean in Malay?",
+    "answers": [
+      "Hill",
+      "New",
+      "Garden",
+      "Bay"
+    ],
+    "correct": 1,
+    "fact": "The name refers to a new burial ground, set up to tell it apart from the older cemeteries in Chinatown."
+  },
+  {
+    "id": "sg_092",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Kampong Glam is named after which tree?",
+    "answers": [
+      "Banyan",
+      "Tembusu",
+      "Gelam",
+      "Rain tree"
+    ],
+    "correct": 2,
+    "fact": "The orang laut used gelam bark for awnings and sails."
+  },
+  {
+    "id": "sg_093",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The name \"Tampines\" is believed to come from the tempinis, which is a type of what?",
+    "answers": [
+      "Fish",
+      "Boat",
+      "Tree",
+      "Bird"
+    ],
+    "correct": 2,
+    "fact": "Tempinis, or Riau ironwood, was prized for oars, furniture and spinning tops."
+  },
+  {
+    "id": "sg_094",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Yishun is the Hanyu Pinyin form of the name of which pioneer?",
+    "answers": [
+      "Tan Tock Seng",
+      "Tan Kah Kee",
+      "Lee Kong Chian",
+      "Lim Nee Soon"
+    ],
+    "correct": 3,
+    "fact": "Lim was a rubber and pineapple planter, and Nee Soon Road was named after him in 1950."
+  },
+  {
+    "id": "sg_095",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Dhoby Ghaut comes from Hindi words connected to which job?",
+    "answers": [
+      "Fishing",
+      "Washing clothes",
+      "Making bricks",
+      "Selling spices"
+    ],
+    "correct": 1,
+    "fact": "Indian washermen cleaned and dried laundry near the stream by Bras Basah Road."
+  },
+  {
+    "id": "sg_096",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Bencoolen Street is named after a town on which island?",
+    "answers": [
+      "Sumatra",
+      "Java",
+      "Borneo",
+      "Sulawesi"
+    ],
+    "correct": 0,
+    "fact": "Raffles served in Bencoolen before founding Singapore, and Bencoolen Malays came with him in 1819."
+  },
+  {
+    "id": "sg_097",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Coleman Street honours G. D. Coleman, remembered as Singapore's first what?",
+    "answers": [
+      "Doctor",
+      "Architect",
+      "Postmaster",
+      "Harbour master"
+    ],
+    "correct": 1,
+    "fact": "He designed the Old Parliament House and the Armenian Church."
+  },
+  {
+    "id": "sg_098",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Charles Edward Faber, who gave his name to Mount Faber, built a road and what on the hill?",
+    "answers": [
+      "A lighthouse",
+      "A cable car",
+      "A fort",
+      "A signal station"
+    ],
+    "correct": 3,
+    "fact": "The hill was earlier called Telok Blangah Hill."
+  },
+  {
+    "id": "sg_099",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Keppel Harbour was called what before it was renamed after Admiral Henry Keppel?",
+    "answers": [
+      "Old Harbour",
+      "Raffles Harbour",
+      "New Harbour",
+      "Telok Harbour"
+    ],
+    "correct": 2,
+    "fact": "Henry Keppel was a British naval officer who rose to be an admiral."
+  },
+  {
+    "id": "sg_100",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Clarke Quay is named after Sir Andrew Clarke. What was his job in Singapore?",
+    "answers": [
+      "Governor",
+      "Chief engineer",
+      "Harbour master",
+      "Police chief"
+    ],
+    "correct": 0,
+    "fact": "He was governor of the Straits Settlements from 1873 to 1875."
+  },
+  {
+    "id": "sg_101",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Chinatown's Kreta Ayer (\"water cart\") recalls carts pulled by which animals?",
+    "answers": [
+      "Camels",
+      "Elephants",
+      "Bullocks",
+      "Donkeys"
+    ],
+    "correct": 2,
+    "fact": "They carried water from wells on Ann Siang Hill."
+  },
+  {
+    "id": "sg_102",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Telok Blangah is commonly explained as \"bay\" plus a clay what?",
+    "answers": [
+      "Cooking pot",
+      "Fishing net",
+      "Wooden boat",
+      "Rice sack"
+    ],
+    "correct": 0,
+    "fact": "The bay's pot-like shape is said to have inspired the name."
+  },
+  {
+    "id": "sg_103",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Bishan is the Hanyu Pinyin of \"Peck San\". What was Peck San?",
+    "answers": [
+      "A rubber estate",
+      "A Cantonese cemetery",
+      "A temple school",
+      "A fishing village"
+    ],
+    "correct": 1,
+    "fact": "The land was redeveloped into Bishan town between 1983 and 1990."
+  },
+  {
+    "id": "sg_104",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Hougang is the Mandarin form of \"Au Kang\". What does that Hokkien and Teochew name mean?",
+    "answers": [
+      "Big pond",
+      "Black stream",
+      "Old harbour",
+      "Behind the river"
+    ],
+    "correct": 3,
+    "fact": "Au Kang became Hougang in 1980, as Mandarin was promoted."
+  },
+  {
+    "id": "sg_105",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Shenton Way was first planned under which other name?",
+    "answers": [
+      "Raffles Way",
+      "Victoria Way",
+      "Orchard Way",
+      "Harbour Way"
+    ],
+    "correct": 0,
+    "fact": "That name was dropped because so many places already honoured Raffles."
+  },
+  {
+    "id": "sg_106",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Robinson Road is named after Governor Francis William Robinson. In which decade did he govern?",
+    "answers": [
+      "1830s",
+      "1900s",
+      "1870s",
+      "1950s"
+    ],
+    "correct": 2,
+    "fact": "He served as governor of the Straits Settlements from 1877 to 1879."
+  },
+  {
+    "id": "sg_107",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Havelock Road honours a British general famed for his part in which event?",
+    "answers": [
+      "The Boer War",
+      "The Battle of Waterloo",
+      "The Opium War",
+      "The 1857 Indian Mutiny"
+    ],
+    "correct": 3,
+    "fact": "Municipal commissioners chose the name in 1858."
+  },
+  {
+    "id": "sg_108",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Joo Chiat Road is named after landowner Chew Joo Chiat. What nickname did he earn?",
+    "answers": [
+      "King of Geylang",
+      "King of Katong",
+      "Lord of Changi",
+      "Prince of Orchard"
+    ],
+    "correct": 1,
+    "fact": "His coconut plantations stretched across much of the east."
+  },
+  {
+    "id": "sg_109",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "\"Bukit Merah\" means \"red hill\" in Malay.",
+    "answer": true,
+    "fact": "One explanation links the name to red soil dug up in the 1950s."
+  },
+  {
+    "id": "sg_110",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Victoria Street, near Bugis, is named after Queen Victoria.",
+    "answer": true,
+    "fact": "It was earlier called Rochor Street and then Marbro Street."
+  },
+  {
+    "id": "sg_111",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Streets near Arab Street, like Muscat Street and Baghdad Street, are named after Arabian cities.",
+    "answer": true,
+    "fact": "Raffles had set aside the Kampong Glam area for Arab settlers."
+  },
+  {
+    "id": "sg_112",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "In \"Pasir Ris\", the word \"pasir\" is Malay for rice.",
+    "answer": false,
+    "fact": "\"Pasir\" means sand, probably a nod to the beachfront."
+  },
+  {
+    "id": "sg_113",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Bukit Timah got its name from tin that was mined on the hill.",
+    "answer": false,
+    "fact": "\"Timah\" does mean tin, but the hill is mostly granite."
+  },
+  {
+    "id": "sg_114",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "\"Toa Payoh\" most likely means \"big swamp\", mixing Hokkien and Malay.",
+    "answer": true,
+    "fact": "The name first shows up on 1840s maps by surveyor John Turnbull Thomson."
+  },
+  {
+    "id": "sg_115",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Thomson Road is named after a government surveyor.",
+    "answer": true,
+    "fact": "John Turnbull Thomson also designed the Dalhousie Obelisk."
+  },
+  {
+    "id": "sg_116",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Clementi Road is generally believed to be named after Sir Cecil Clementi Smith, a governor.",
+    "answer": true,
+    "fact": "Some sources credit his nephew Cecil Clementi, also a governor, instead."
+  },
+  {
+    "id": "sg_117",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Balestier Road is named after an American consul who grew sugarcane.",
+    "answer": true,
+    "fact": "Joseph Balestier's cane fields were ruined by heavy rains in 1847."
+  },
+  {
+    "id": "sg_118",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Anson Road is named after a lieutenant-governor of Penang.",
+    "answer": true,
+    "fact": "The road honours Colonel Archibald Anson."
+  },
+  {
+    "id": "sg_119",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Jalan Eunos is named after a Malay journalist and community leader.",
+    "answer": true,
+    "fact": "Mohamed Eunos Abdullah is known as the Father of Malay Journalism."
+  },
+  {
+    "id": "sg_120",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was Cavenagh Bridge completed?",
+    "answer": 1869,
+    "min": 1820,
+    "max": 1940,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "It is named after Governor William Orfeur Cavenagh."
+  },
+  {
+    "id": "sg_121",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was Commercial Square officially renamed Raffles Place?",
+    "answer": 1858,
+    "min": 1820,
+    "max": 1930,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "The square had been called Commercial Square before."
+  },
+  {
+    "id": "sg_122",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was New Harbour officially renamed Keppel Harbour?",
+    "answer": 1900,
+    "min": 1840,
+    "max": 1960,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "The new name honoured Admiral Henry Keppel."
+  },
+  {
+    "id": "sg_123",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was Telok Blangah Hill renamed Mount Faber?",
+    "answer": 1845,
+    "min": 1820,
+    "max": 1920,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "Faber had built a road and signal station on the hill."
+  },
+  {
+    "id": "sg_124",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was Macao Street renamed Pickering Street?",
+    "answer": 1925,
+    "min": 1870,
+    "max": 1980,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "It honours William Pickering, the first Protector of the Chinese."
+  },
+  {
+    "id": "sg_125",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Singapore hawker favourite is poached chicken served with fragrant rice?",
+    "answers": [
+      "Nasi lemak",
+      "Hainanese chicken rice",
+      "Laksa",
+      "Char kway teow"
+    ],
+    "correct": 1,
+    "fact": "Chicken stock is used to cook the rice for extra flavour."
+  },
+  {
+    "id": "sg_126",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which spicy coconut-curry noodle soup is a Singapore favourite, often served with cockles?",
+    "answers": [
+      "Bak chor mee",
+      "Wanton mee",
+      "Laksa",
+      "Fish soup bee hoon"
+    ],
+    "correct": 2,
+    "fact": "Many stalls serve it with a spoon and chopsticks, as the noodles are cut short."
+  },
+  {
+    "id": "sg_127",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which giant observation wheel at Marina Bay opened in 2008?",
+    "answers": [
+      "Singapore Flyer",
+      "London Eye",
+      "Marina Bay Sands",
+      "Esplanade"
+    ],
+    "correct": 0,
+    "fact": "It stands 165 metres tall."
+  },
+  {
+    "id": "sg_128",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which wildlife park in Singapore lets visitors see nocturnal animals after dark?",
+    "answers": [
+      "Pulau Ubin",
+      "Haw Par Villa",
+      "Bukit Timah",
+      "Night Safari"
+    ],
+    "correct": 3,
+    "fact": "It was the world's first nocturnal zoo."
+  },
+  {
+    "id": "sg_129",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which island resort in Singapore is home to Universal Studios?",
+    "answers": [
+      "Pulau Ubin",
+      "Sentosa",
+      "St John's Island",
+      "Kusu Island"
+    ],
+    "correct": 1,
+    "fact": "Its name comes from the Malay word for peace and tranquillity."
+  },
+  {
+    "id": "sg_130",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The \"carrot cake\" at Singapore hawker stalls is actually made from which vegetable?",
+    "answers": [
+      "White radish",
+      "Carrot",
+      "Potato",
+      "Pumpkin"
+    ],
+    "correct": 0,
+    "fact": "White radish is also called daikon or lobak."
+  },
+  {
+    "id": "sg_131",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which temple in Chinatown houses a sacred tooth relic of the Buddha?",
+    "answers": [
+      "Thian Hock Keng",
+      "Sri Mariamman Temple",
+      "Buddha Tooth Relic Temple",
+      "Kong Meng San Phor Kark See"
+    ],
+    "correct": 2,
+    "fact": "The temple was completed in 2007."
+  },
+  {
+    "id": "sg_132",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Helix Bridge near Marina Bay is inspired by the structure of what?",
+    "answers": [
+      "A snake",
+      "A seashell",
+      "A ribbon",
+      "DNA"
+    ],
+    "correct": 3,
+    "fact": "Its two steel spirals mimic the double helix."
+  },
+  {
+    "id": "sg_133",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Haw Par Villa is a quirky Singapore park known for dioramas of what?",
+    "answers": [
+      "Chinese mythology and folklore",
+      "Dutch history",
+      "Malay royal courts",
+      "World War II battles"
+    ],
+    "correct": 0,
+    "fact": "It includes the famous Ten Courts of Hell."
+  },
+  {
+    "id": "sg_134",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Peranakan culture in Singapore blends Chinese traditions with which other culture?",
+    "answers": [
+      "Japanese",
+      "Malay",
+      "Portuguese",
+      "Arab"
+    ],
+    "correct": 1,
+    "fact": "Peranakan food, like laksa and kueh, shows the mix."
+  },
+  {
+    "id": "sg_135",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which is Singapore's oldest Hindu temple?",
+    "answers": [
+      "Sri Srinivasa Perumal Temple",
+      "Sri Veeramakaliamman Temple",
+      "Sri Mariamman Temple",
+      "Sri Krishnan Temple"
+    ],
+    "correct": 2,
+    "fact": "It stands in Chinatown and dates to 1827."
+  },
+  {
+    "id": "sg_136",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Fort Canning was once called Bukit Larangan. What does that Malay name mean?",
+    "answers": [
+      "Hill of kings",
+      "Sacred spring",
+      "Lion hill",
+      "Forbidden hill"
+    ],
+    "correct": 3,
+    "fact": "Malay royalty are said to have lived and been buried there, so it was off limits."
+  },
+  {
+    "id": "sg_137",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In February 1942, the British surrendered Singapore at which factory on Bukit Timah Road?",
+    "answers": [
+      "The Singer Factory",
+      "The Tiger Brewery",
+      "The Ford Factory",
+      "The Hume Industries Factory"
+    ],
+    "correct": 2,
+    "fact": "It is now a museum about the Syonan years."
+  },
+  {
+    "id": "sg_138",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The Singapore national flower, Vanda Miss Joaquim, was named after a woman of which heritage?",
+    "answers": [
+      "Portuguese",
+      "Armenian",
+      "Peranakan Chinese",
+      "Arab"
+    ],
+    "correct": 1,
+    "fact": "Agnes Joaquim grew it in her garden in 1893."
+  },
+  {
+    "id": "sg_139",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Chilli crab was invented in Singapore.",
+    "answer": true,
+    "fact": "A hawker called Cher Yam Tian created it in the 1950s."
+  },
+  {
+    "id": "sg_140",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Singapore Zoo is famous for its open-concept habitats with few cages.",
+    "answer": true,
+    "fact": "Moats and plants keep animals and visitors apart."
+  },
+  {
+    "id": "sg_141",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Raffles Hotel opened in 1819, the year Stamford Raffles landed.",
+    "answer": false,
+    "fact": "It opened in 1887, decades after Raffles died."
+  },
+  {
+    "id": "sg_142",
+    "category": "singapore",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year did Gardens by the Bay open to visitors?",
+    "answer": 2012,
+    "min": 2000,
+    "max": 2020,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "The Supertrees were built to look like giant trees."
+  },
+  {
+    "id": "sg_143",
+    "category": "singapore",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "About how tall are the tallest Supertrees at Gardens by the Bay, in metres?",
+    "answer": 50,
+    "min": 10,
+    "max": 100,
+    "step": 1,
+    "tolerance": 5,
+    "unit": "metres",
+    "fact": "They hold plants and also act as air vents."
+  },
+  {
+    "id": "sg_144",
+    "category": "singapore",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did the Esplanade arts centre open?",
+    "answer": 2002,
+    "min": 1985,
+    "max": 2015,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Its spiky domes earned it the nickname \"The Durian\"."
+  },
+  {
+    "id": "sg_145",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Ang Mo Kio is usually explained as Hokkien for what?",
+    "answers": [
+      "Red-haired man's bridge",
+      "Red hill village",
+      "Western river mouth",
+      "Foreigners' market"
+    ],
+    "correct": 0,
+    "fact": "It is often linked to a bridge built by surveyor John Turnbull Thomson, though no one is quite sure."
+  },
+  {
+    "id": "sg_146",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Kallang is named after the Orang Kallang. Who were they?",
+    "answers": [
+      "Sea people living on boats",
+      "Pepper planters from Java",
+      "Tin miners from Malacca",
+      "Fishermen from Hainan"
+    ],
+    "correct": 0,
+    "fact": "They lived along the Kallang River and its estuary."
+  },
+  {
+    "id": "sg_147",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Seletar takes its name from the Orang Seletar. Who are they?",
+    "answers": [
+      "Indigenous sea people",
+      "Chinese gambier farmers",
+      "Indian boatmen",
+      "Bugis traders"
+    ],
+    "correct": 0,
+    "fact": "Orang Seletar communities still live around the Johor Strait."
+  },
+  {
+    "id": "sg_148",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Kranji is believed to be named after what?",
+    "answers": [
+      "A local tree",
+      "A river spirit",
+      "A Dutch captain",
+      "A type of crab"
+    ],
+    "correct": 0,
+    "fact": "The kranji or keranji tree is also called the velvet tamarind."
+  },
+  {
+    "id": "sg_149",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Sembawang is named after what?",
+    "answers": [
+      "A tree",
+      "A sultan",
+      "A shipyard owner",
+      "A sea snake"
+    ],
+    "correct": 0,
+    "fact": "Sembawang trees still grow in Sembawang Park."
+  },
+  {
+    "id": "sg_150",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Simei, near Tampines, comes from Mandarin for what?",
+    "answers": [
+      "Four beauties",
+      "Four rivers",
+      "Beautiful west",
+      "Plum blossom"
+    ],
+    "correct": 0,
+    "fact": "The four beauties of Chinese legend are Xi Shi, Wang Zhaojun, Diao Chan and Yang Guifei."
+  },
+  {
+    "id": "sg_151",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "The \"chu kang\" in Choa Chu Kang comes from riverside plantations growing which crops?",
+    "answers": [
+      "Gambier and pepper",
+      "Rubber and tea",
+      "Rice and sugarcane",
+      "Nutmeg and cloves"
+    ],
+    "correct": 0,
+    "fact": "A kangchu was the headman of a riverside gambier-and-pepper settlement."
+  },
+  {
+    "id": "sg_152",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Tan Kim Seng, of Kim Seng Road, gave money in 1857 towards what?",
+    "answers": [
+      "Singapore's first waterworks",
+      "The first Chinese school",
+      "A hospital for the poor",
+      "The first horse tram"
+    ],
+    "correct": 0,
+    "fact": "A fountain built in his honour now stands in Esplanade Park."
+  },
+  {
+    "id": "sg_153",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Eu Tong Sen Street honours a tin tycoon. Which family business is he linked to?",
+    "answers": [
+      "Eu Yan Sang",
+      "Tiger Balm",
+      "Yeo's",
+      "Eng Wah"
+    ],
+    "correct": 0,
+    "fact": "Eu Yan Sang is known for traditional Chinese medicine."
+  },
+  {
+    "id": "sg_154",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Collyer Quay is named after George Collyer. What was his job?",
+    "answers": [
+      "Chief engineer",
+      "Harbour master",
+      "Police inspector",
+      "Bishop"
+    ],
+    "correct": 0,
+    "fact": "The quay, built on reclaimed land, was completed in 1864."
+  },
+  {
+    "id": "sg_155",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Amoy Street is named after which Chinese port city?",
+    "answers": [
+      "Xiamen",
+      "Guangzhou",
+      "Shantou",
+      "Fuzhou"
+    ],
+    "correct": 0,
+    "fact": "Amoy is the old name for Xiamen, home city of many early Hokkien settlers."
+  },
+  {
+    "id": "sg_156",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Club Street in Chinatown got its name from what?",
+    "answers": [
+      "Chinese clubs and clan associations",
+      "A golf club",
+      "A cricket club",
+      "A dance hall"
+    ],
+    "correct": 0,
+    "fact": "Social clubs and clan associations lined the street from the late 1800s."
+  },
+  {
+    "id": "sg_157",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Pagoda Street is named after the tower of which nearby temple?",
+    "answers": [
+      "Sri Mariamman Temple",
+      "Thian Hock Keng",
+      "Buddha Tooth Relic Temple",
+      "Sri Veeramakaliamman"
+    ],
+    "correct": 0,
+    "fact": "The temple's tall gateway tower, a gopuram, reminded people of a pagoda."
+  },
+  {
+    "id": "sg_158",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Race Course Road is named after what?",
+    "answers": [
+      "An old horse-racing track",
+      "Rickshaw races",
+      "Bullock-cart races",
+      "An early car rally"
+    ],
+    "correct": 0,
+    "fact": "Horse racing was held at Farrer Park until it moved to Bukit Timah in 1933."
+  },
+  {
+    "id": "sg_159",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Farrer Park and Farrer Road honour R. J. Farrer, who led which body?",
+    "answers": [
+      "The Municipal Commission",
+      "A steamship company",
+      "The Cricket Club",
+      "The naval base"
+    ],
+    "correct": 0,
+    "fact": "He was President of the Municipal Commission from 1919 to 1931."
+  },
+  {
+    "id": "sg_160",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Buona Vista means \"beautiful view\" in which language?",
+    "answers": [
+      "Italian",
+      "Portuguese",
+      "Spanish",
+      "Latin"
+    ],
+    "correct": 0,
+    "fact": "In Spanish it would be \"buena vista\"."
+  },
+  {
+    "id": "sg_161",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "tf",
+    "question": "Holland Road and Holland Village are named after the Netherlands.",
+    "answer": false,
+    "fact": "They honour Hugh Holland, an early architect and amateur actor."
+  },
+  {
+    "id": "sg_162",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Dempsey Road is named after Sir Miles Dempsey. What was he?",
+    "answers": [
+      "A British army general",
+      "A governor",
+      "A poet",
+      "A railway engineer"
+    ],
+    "correct": 0,
+    "fact": "Dempsey Hill was part of the old Tanglin Barracks."
+  },
+  {
+    "id": "sg_163",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "The Novena area is named after what?",
+    "answers": [
+      "Prayers held at a church",
+      "A Roman empress",
+      "An old cinema",
+      "The ninth milestone"
+    ],
+    "correct": 0,
+    "fact": "Weekly novena devotions at the Church of St Alphonsus drew huge crowds."
+  },
+  {
+    "id": "sg_164",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Why was Lavender Street's pretty name a joke?",
+    "answers": [
+      "It was one of the smelliest streets",
+      "It was full of thorny bushes",
+      "It flooded every monsoon",
+      "Nothing would grow there"
+    ],
+    "correct": 0,
+    "fact": "Nightsoil on vegetable gardens, or a nearby gasworks, is usually blamed."
+  },
+  {
+    "id": "sg_165",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Pulau Ubin's name is often traced to \"ubin\", said to mean what?",
+    "answers": [
+      "Squared stone",
+      "Wild boar",
+      "Durian",
+      "Mangrove"
+    ],
+    "correct": 0,
+    "fact": "The island was quarried for granite for more than a century."
+  },
+  {
+    "id": "sg_166",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does \"Sentosa\" mean in Malay?",
+    "answers": [
+      "Peace and tranquillity",
+      "Island of gold",
+      "Sandy beach",
+      "Morning star"
+    ],
+    "correct": 0,
+    "fact": "It replaced the island's gloomier old name in 1972."
+  },
+  {
+    "id": "sg_167",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Bugis Street is named after the Bugis, seafaring traders from which island?",
+    "answers": [
+      "Sulawesi",
+      "Sumatra",
+      "Borneo",
+      "Java"
+    ],
+    "correct": 0,
+    "fact": "Bugis traders sailed in each year with the monsoon winds."
+  },
+  {
+    "id": "sg_168",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Potong Pasir means \"cut sand\" in Malay. Why?",
+    "answers": [
+      "Sand was quarried there",
+      "It was a sandy beach",
+      "A river cut through dunes",
+      "Sandbags were made there"
+    ],
+    "correct": 0,
+    "fact": "Sand quarries dominated the area from about 1910 to 1937."
+  },
+  {
+    "id": "sg_169",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does Kaki Bukit mean in Malay?",
+    "answers": [
+      "Foot of the hill",
+      "Top of the hill",
+      "Hill of legs",
+      "Steep hill"
+    ],
+    "correct": 0,
+    "fact": "\"Kaki\" means foot or leg."
+  },
+  {
+    "id": "sg_170",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does Tanah Merah mean in Malay?",
+    "answers": [
+      "Red earth",
+      "Red sea",
+      "Red sky",
+      "Rich land"
+    ],
+    "correct": 0,
+    "fact": "\"Tanah\" means earth or land."
+  },
+  {
+    "id": "sg_171",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Telok Kurau means a bay of kurau. What is a kurau?",
+    "answers": [
+      "A fish",
+      "A turtle",
+      "A crab",
+      "A sea eagle"
+    ],
+    "correct": 0,
+    "fact": "Kurau is the Malay name for the threadfin, sometimes called mango fish."
+  },
+  {
+    "id": "sg_172",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Whampoa is named after Hoo Ah Kay's nickname. Where did the nickname come from?",
+    "answers": [
+      "His birthplace in China",
+      "His ship",
+      "His favourite dish",
+      "His shop sign"
+    ],
+    "correct": 0,
+    "fact": "Whampoa (Huangpu) is near Guangzhou."
+  },
+  {
+    "id": "sg_173",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Change Alley got its name from whom?",
+    "answers": [
+      "Money changers",
+      "Clothes sellers",
+      "Fortune tellers",
+      "Rickshaw pullers"
+    ],
+    "correct": 0,
+    "fact": "The narrow lane ran between Raffles Place and the waterfront."
+  },
+  {
+    "id": "sg_174",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Sago Lane was once nicknamed what, because of its \"death houses\"?",
+    "answers": [
+      "Street of the Dead",
+      "Ghost Alley",
+      "Lantern Lane",
+      "Coffin Row"
+    ],
+    "correct": 0,
+    "fact": "Death houses there took in the dying until they were closed in the 1960s."
+  },
+  {
+    "id": "sg_175",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Sago Lane and Sago Street are named after what?",
+    "answers": [
+      "Sago factories",
+      "Sago dessert stalls",
+      "A trader called Sago",
+      "Palms planted by Raffles"
+    ],
+    "correct": 0,
+    "fact": "Sago flour was made from the pith of sago palms."
+  },
+  {
+    "id": "sg_176",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Cantonment Road recalls what?",
+    "answers": [
+      "Indian troops camped there",
+      "A Cantonese clan",
+      "A cannon foundry",
+      "A tea plantation"
+    ],
+    "correct": 0,
+    "fact": "A cantonment is a military camp; sepoy troops were stationed nearby."
+  },
+  {
+    "id": "sg_177",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Waterloo Street is named after what?",
+    "answers": [
+      "The Battle of Waterloo",
+      "A London railway station",
+      "A waterfront hotel",
+      "A Dutch admiral"
+    ],
+    "correct": 0,
+    "fact": "The 1815 battle ended Napoleon's rule."
+  },
+  {
+    "id": "sg_178",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Prinsep Street is named after Charles Prinsep, who owned a plantation of what?",
+    "answers": [
+      "Nutmeg",
+      "Rubber",
+      "Pepper",
+      "Coffee"
+    ],
+    "correct": 0,
+    "fact": "Nutmeg boomed in 1830s Singapore until disease wiped it out."
+  },
+  {
+    "id": "sg_179",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Bukit Pasoh means \"pot hill\". Why?",
+    "answers": [
+      "Kilns there made clay pots",
+      "It is shaped like a pot",
+      "Cooking pots were sold there",
+      "A pot of gold was found"
+    ],
+    "correct": 0,
+    "fact": "The kilns also fired bricks and tiles."
+  },
+  {
+    "id": "sg_180",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Elgin Bridge is named after Lord Elgin. What was he?",
+    "answers": [
+      "Governor-General of India",
+      "First Bishop of Singapore",
+      "A clipper ship captain",
+      "A Scottish engineer"
+    ],
+    "correct": 0,
+    "fact": "The current bridge was built in 1929."
+  },
+  {
+    "id": "sg_181",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "The Fullerton Hotel takes its name from Robert Fullerton. What was he?",
+    "answers": [
+      "First Straits Settlements governor",
+      "Founder of the post office",
+      "A whisky maker",
+      "An admiral"
+    ],
+    "correct": 0,
+    "fact": "The Fullerton Building once housed the General Post Office."
+  },
+  {
+    "id": "sg_182",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Empress Place is named after which empress?",
+    "answers": [
+      "Queen Victoria",
+      "Empress Dowager Cixi",
+      "Empress Josephine",
+      "Empress Wu"
+    ],
+    "correct": 0,
+    "fact": "Victoria also held the title Empress of India."
+  },
+  {
+    "id": "sg_183",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Why is Beach Road called Beach Road?",
+    "answers": [
+      "It once ran along the shore",
+      "Palm trees lined it",
+      "People bathed there",
+      "A Mr Beach built it"
+    ],
+    "correct": 0,
+    "fact": "Land reclamation has since pushed the sea far away."
+  },
+  {
+    "id": "sg_184",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "MacRitchie Reservoir is named after James MacRitchie, a municipal what?",
+    "answers": [
+      "Engineer",
+      "Mayor",
+      "Doctor",
+      "Treasurer"
+    ],
+    "correct": 0,
+    "fact": "He enlarged the reservoir in the 1890s."
+  },
+  {
+    "id": "sg_185",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Nicoll Highway is named after Sir John Nicoll. What was he?",
+    "answers": [
+      "Governor of Singapore",
+      "Chief Justice",
+      "Bishop",
+      "Admiral"
+    ],
+    "correct": 0,
+    "fact": "He was governor from 1952 to 1955."
+  },
+  {
+    "id": "sg_186",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Mountbatten Road honours Lord Mountbatten. What did he do in Singapore in 1945?",
+    "answers": [
+      "Accepted the Japanese surrender",
+      "Opened the Causeway",
+      "Founded the naval base",
+      "Became governor"
+    ],
+    "correct": 0,
+    "fact": "The ceremony took place at the Municipal Building, now part of National Gallery Singapore."
+  },
+  {
+    "id": "sg_187",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does Jalan Kayu mean in Malay?",
+    "answers": [
+      "Wooden road",
+      "Spice road",
+      "Long road",
+      "Forest path"
+    ],
+    "correct": 0,
+    "fact": "\"Kayu\" means wood or timber."
+  },
+  {
+    "id": "sg_188",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Kent Ridge was renamed in 1952 to mark a visit by whom?",
+    "answers": [
+      "The Duchess of Kent and her son",
+      "Queen Elizabeth II",
+      "Lord Mountbatten",
+      "Prince Charles"
+    ],
+    "correct": 0,
+    "fact": "It used to be called Pasir Panjang Ridge."
+  },
+  {
+    "id": "sg_189",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Alexandra Road is named after Princess Alexandra. Whose wife did she become?",
+    "answers": [
+      "King Edward VII",
+      "King George V",
+      "King George VI",
+      "King William IV"
+    ],
+    "correct": 0,
+    "fact": "She was born a Danish princess."
+  },
+  {
+    "id": "sg_190",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Scotts Road is named after Captain William Scott. What job did he hold?",
+    "answers": [
+      "Harbour master",
+      "Fire brigade chief",
+      "Police chief",
+      "Railway engineer"
+    ],
+    "correct": 0,
+    "fact": "Early Singapore depended on its busy harbour."
+  },
+  {
+    "id": "sg_191",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "tf",
+    "question": "Ann Siang Hill is named after Chia Ann Siang, a wealthy Hokkien merchant.",
+    "answer": true,
+    "fact": "He owned the hill in the 1800s."
+  },
+  {
+    "id": "sg_192",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "In Malay, what does \"ulu\", as in Ulu Pandan, mean?",
+    "answers": [
+      "Upper reaches of a river",
+      "Mouth of a river",
+      "Swamp",
+      "Village"
+    ],
+    "correct": 0,
+    "fact": "Pandan is also the fragrant leaf used in kaya."
+  },
+  {
+    "id": "sg_193",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does Sungei Buloh mean in Malay?",
+    "answers": [
+      "Bamboo river",
+      "Bird river",
+      "Mud river",
+      "Crocodile river"
+    ],
+    "correct": 0,
+    "fact": "Sungei Buloh Wetland Reserve is famous for migratory birds."
+  },
+  {
+    "id": "sg_194",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Jalan Sultan recalls Sultan Hussein Shah. What did he sign with Raffles in 1819?",
+    "answers": [
+      "A treaty for a British trading post",
+      "A tin-mining deal",
+      "A peace deal with Siam",
+      "A shipbuilding contract"
+    ],
+    "correct": 0,
+    "fact": "His istana stood in Kampong Glam."
+  },
+  {
+    "id": "sg_195",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Armenian Street is named after which building?",
+    "answers": [
+      "The Armenian Church",
+      "An Armenian bank",
+      "An Armenian school",
+      "A carpet shop"
+    ],
+    "correct": 0,
+    "fact": "Built in 1835, it is Singapore's oldest church."
+  },
+  {
+    "id": "sg_196",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "tf",
+    "question": "Boat Quay's curve was said to look like a carp's belly, a sign of wealth.",
+    "answer": true,
+    "fact": "That is one reason merchants were keen to set up there."
+  },
+  {
+    "id": "sg_197",
+    "category": "singapore",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Hill Street is named after which hill?",
+    "answers": [
+      "Fort Canning Hill",
+      "Pearl's Hill",
+      "Mount Faber",
+      "Bukit Timah"
+    ],
+    "correct": 0,
+    "fact": "Fort Canning was once known as Government Hill."
+  },
+  {
+    "id": "sg_198",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Pearl's Hill is named after James Pearl. Who was he?",
+    "answers": [
+      "A ship's captain",
+      "A pearl diver",
+      "A missionary",
+      "A governor's son"
+    ],
+    "correct": 0,
+    "fact": "He bought the hill in Singapore's early years."
+  },
+  {
+    "id": "sg_199",
+    "category": "singapore",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Boon Lay is named after Chew Boon Lay. What was he?",
+    "answers": [
+      "A businessman and landowner",
+      "A temple priest",
+      "A police chief",
+      "An opera singer"
+    ],
+    "correct": 0,
+    "fact": "His land lay in the west, near Jurong."
+  }
+]

@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "gen_001",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which animal is the largest living species of cat?",
+    "answers": [
+      "Tiger",
+      "Lion",
+      "Jaguar",
+      "Leopard"
+    ],
+    "correct": 0,
+    "fact": "Big male tigers can top 300 kg, beating lions."
+  },
+  {
+    "id": "gen_002",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In which sport would you perform a slam dunk?",
+    "answers": [
+      "Volleyball",
+      "Basketball",
+      "Netball",
+      "Handball"
+    ],
+    "correct": 1,
+    "fact": "Dunking was banned in US college basketball from 1967 to 1976."
+  },
+  {
+    "id": "gen_003",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who wrote the play \"Romeo and Juliet\"?",
+    "answers": [
+      "Charles Dickens",
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Oscar Wilde"
+    ],
+    "correct": 2,
+    "fact": "It was written in the mid-1590s."
+  },
+  {
+    "id": "gen_004",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the main ingredient of traditional hummus?",
+    "answers": [
+      "Lentils",
+      "Black beans",
+      "Soybeans",
+      "Chickpeas"
+    ],
+    "correct": 3,
+    "fact": "\"Hummus\" is simply the Arabic word for chickpeas."
+  },
+  {
+    "id": "gen_005",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which city hosted the 2008 Summer Olympics?",
+    "answers": [
+      "Beijing",
+      "Athens",
+      "Tokyo",
+      "Seoul"
+    ],
+    "correct": 0,
+    "fact": "The opening ceremony began at 8:08 pm on 08/08/08."
+  },
+  {
+    "id": "gen_006",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who is king of the gods in Greek mythology?",
+    "answers": [
+      "Poseidon",
+      "Zeus",
+      "Apollo",
+      "Hades"
+    ],
+    "correct": 1,
+    "fact": "His Roman counterpart is Jupiter."
+  },
+  {
+    "id": "gen_007",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the currency of Japan?",
+    "answers": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct": 2,
+    "fact": "The yen has been Japan's currency since 1871."
+  },
+  {
+    "id": "gen_008",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which is the tallest land animal?",
+    "answers": [
+      "African elephant",
+      "Ostrich",
+      "Camel",
+      "Giraffe"
+    ],
+    "correct": 3,
+    "fact": "An adult giraffe can stand about 5 metres tall."
+  },
+  {
+    "id": "gen_009",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which painter created \"The Starry Night\"?",
+    "answers": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Rembrandt"
+    ],
+    "correct": 0,
+    "fact": "Van Gogh painted it in 1889 from his asylum window."
+  },
+  {
+    "id": "gen_010",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which language has the most native speakers in the world?",
+    "answers": [
+      "English",
+      "Mandarin Chinese",
+      "Spanish",
+      "Hindi"
+    ],
+    "correct": 1,
+    "fact": "Mandarin has over 900 million native speakers."
+  },
+  {
+    "id": "gen_011",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which fruit is known as the \"king of fruits\" in Southeast Asia?",
+    "answers": [
+      "Mango",
+      "Mangosteen",
+      "Durian",
+      "Rambutan"
+    ],
+    "correct": 2,
+    "fact": "Mangosteen is jokingly called the \"queen of fruits\"."
+  },
+  {
+    "id": "gen_012",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which chess piece moves in an L-shape?",
+    "answers": [
+      "Bishop",
+      "Rook",
+      "Queen",
+      "Knight"
+    ],
+    "correct": 3,
+    "fact": "The knight is the only piece that can jump over others."
+  },
+  {
+    "id": "gen_013",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the Japanese art of paper folding called?",
+    "answers": [
+      "Origami",
+      "Ikebana",
+      "Kintsugi",
+      "Bonsai"
+    ],
+    "correct": 0,
+    "fact": "\"Ori\" means folding and \"kami\" means paper."
+  },
+  {
+    "id": "gen_014",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "A group of lions is called a what?",
+    "answers": [
+      "Pack",
+      "Pride",
+      "Herd",
+      "Troop"
+    ],
+    "correct": 1,
+    "fact": "Lions are the only truly social big cats."
+  },
+  {
+    "id": "gen_015",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "answers": [
+      "Paris",
+      "London",
+      "Athens",
+      "Rome"
+    ],
+    "correct": 2,
+    "fact": "The marathon was created for that 1896 Games."
+  },
+  {
+    "id": "gen_016",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who wrote \"Pride and Prejudice\"?",
+    "answers": [
+      "Charlotte Bronte",
+      "George Eliot",
+      "Mary Shelley",
+      "Jane Austen"
+    ],
+    "correct": 3,
+    "fact": "It was published in 1813."
+  },
+  {
+    "id": "gen_017",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which flightless bird is a national symbol of New Zealand?",
+    "answers": [
+      "Kiwi",
+      "Emu",
+      "Ostrich",
+      "Cassowary"
+    ],
+    "correct": 0,
+    "fact": "New Zealanders are nicknamed \"Kiwis\" after the bird."
+  },
+  {
+    "id": "gen_018",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the main ingredient of guacamole?",
+    "answers": [
+      "Tomato",
+      "Avocado",
+      "Green chilli",
+      "Cucumber"
+    ],
+    "correct": 1,
+    "fact": "The word comes from the Aztec \"ahuaca-mulli\"."
+  },
+  {
+    "id": "gen_019",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "How many players per side are on the pitch in football (soccer)?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 2,
+    "fact": "That count includes the goalkeeper."
+  },
+  {
+    "id": "gen_020",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who wrote \"The Art of War\"?",
+    "answers": [
+      "Confucius",
+      "Lao Tzu",
+      "Han Fei",
+      "Sun Tzu"
+    ],
+    "correct": 3,
+    "fact": "It dates from China's Spring and Autumn or Warring States era."
+  },
+  {
+    "id": "gen_021",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Korean dish's name roughly means \"mixed rice\"?",
+    "answers": [
+      "Bibimbap",
+      "Bulgogi",
+      "Kimbap",
+      "Japchae"
+    ],
+    "correct": 0,
+    "fact": "\"Bibim\" means mixed and \"bap\" means rice."
+  },
+  {
+    "id": "gen_022",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which invention is traditionally credited to Cai Lun of Han China?",
+    "answers": [
+      "Gunpowder",
+      "Paper",
+      "The compass",
+      "Porcelain"
+    ],
+    "correct": 1,
+    "fact": "Tradition dates his improved paper to AD 105."
+  },
+  {
+    "id": "gen_023",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answers": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "correct": 2,
+    "fact": "He painted it between 1508 and 1512."
+  },
+  {
+    "id": "gen_024",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In Norse mythology, what is the name of Thor's hammer?",
+    "answers": [
+      "Gungnir",
+      "Excalibur",
+      "Gram",
+      "Mjolnir"
+    ],
+    "correct": 3,
+    "fact": "Gungnir is Odin's spear."
+  },
+  {
+    "id": "gen_025",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the largest species of penguin?",
+    "answers": [
+      "Emperor penguin",
+      "King penguin",
+      "Adelie penguin",
+      "Gentoo penguin"
+    ],
+    "correct": 0,
+    "fact": "Emperors stand about 1.1 metres tall."
+  },
+  {
+    "id": "gen_026",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who wrote \"Don Quixote\"?",
+    "answers": [
+      "Lope de Vega",
+      "Miguel de Cervantes",
+      "Federico Garcia Lorca",
+      "Gabriel Garcia Marquez"
+    ],
+    "correct": 1,
+    "fact": "Its two parts were published in 1605 and 1615."
+  },
+  {
+    "id": "gen_027",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which spice is generally the world's most expensive by weight?",
+    "answers": [
+      "Cardamom",
+      "Cinnamon",
+      "Saffron",
+      "Black pepper"
+    ],
+    "correct": 2,
+    "fact": "Each crocus flower yields only three stigmas."
+  },
+  {
+    "id": "gen_028",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What do economists call a general rise in prices over time?",
+    "answers": [
+      "Deflation",
+      "Recession",
+      "Stagnation",
+      "Inflation"
+    ],
+    "correct": 3,
+    "fact": "Central banks usually target low, steady inflation."
+  },
+  {
+    "id": "gen_029",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which sport is the Ryder Cup contested in?",
+    "answers": [
+      "Golf",
+      "Tennis",
+      "Cricket",
+      "Rugby"
+    ],
+    "correct": 0,
+    "fact": "It pits teams from Europe against the United States."
+  },
+  {
+    "id": "gen_030",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In which sport might you see a \"googly\" delivery?",
+    "answers": [
+      "Baseball",
+      "Cricket",
+      "Golf",
+      "Rugby"
+    ],
+    "correct": 1,
+    "fact": "It is a leg spinner's delivery that turns the other way."
+  },
+  {
+    "id": "gen_031",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which art movement got its name from a Monet painting?",
+    "answers": [
+      "Cubism",
+      "Surrealism",
+      "Impressionism",
+      "Fauvism"
+    ],
+    "correct": 2,
+    "fact": "\"Impression, Sunrise\" (1872) gave the movement its name."
+  },
+  {
+    "id": "gen_032",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Chinese classic novel features the Monkey King?",
+    "answers": [
+      "Water Margin",
+      "Dream of the Red Chamber",
+      "Romance of the Three Kingdoms",
+      "Journey to the West"
+    ],
+    "correct": 3,
+    "fact": "Sun Wukong stars in this 16th-century novel."
+  },
+  {
+    "id": "gen_033",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Indian epic contains the Bhagavad Gita?",
+    "answers": [
+      "Mahabharata",
+      "Ramayana",
+      "Rigveda",
+      "Upanishads"
+    ],
+    "correct": 0,
+    "fact": "It sits in the epic's Bhishma Parva."
+  },
+  {
+    "id": "gen_034",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which country is credited with the first paper money?",
+    "answers": [
+      "Italy",
+      "China",
+      "Persia",
+      "Greece"
+    ],
+    "correct": 1,
+    "fact": "Paper notes appeared in Song-dynasty China."
+  },
+  {
+    "id": "gen_035",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which martial art originates in Korea?",
+    "answers": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Kendo"
+    ],
+    "correct": 2,
+    "fact": "It became an official Olympic sport in 2000."
+  },
+  {
+    "id": "gen_036",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which term describes a market with a single seller?",
+    "answers": [
+      "Oligopoly",
+      "Duopoly",
+      "Monopsony",
+      "Monopoly"
+    ],
+    "correct": 3,
+    "fact": "A monopsony is the reverse: a single buyer."
+  },
+  {
+    "id": "gen_037",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which language family does Malay belong to?",
+    "answers": [
+      "Austronesian",
+      "Sino-Tibetan",
+      "Dravidian",
+      "Austroasiatic"
+    ],
+    "correct": 0,
+    "fact": "Austronesian languages stretch from Madagascar to Easter Island."
+  },
+  {
+    "id": "gen_038",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who is traditionally credited with the Iliad and the Odyssey?",
+    "answers": [
+      "Virgil",
+      "Homer",
+      "Sophocles",
+      "Hesiod"
+    ],
+    "correct": 1,
+    "fact": "Whether Homer was one person is still debated."
+  },
+  {
+    "id": "gen_039",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who wrote \"The Tale of Genji\", often called the world's first novel?",
+    "answers": [
+      "Sei Shonagon",
+      "Matsuo Basho",
+      "Murasaki Shikibu",
+      "Natsume Soseki"
+    ],
+    "correct": 2,
+    "fact": "She wrote it at the Heian court around the year 1000."
+  },
+  {
+    "id": "gen_040",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Chess is thought to descend from which ancient Indian game?",
+    "answers": [
+      "Pachisi",
+      "Kabaddi",
+      "Carrom",
+      "Chaturanga"
+    ],
+    "correct": 3,
+    "fact": "Chaturanga reached Persia and then the Arab world."
+  },
+  {
+    "id": "gen_041",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which vertebrate has the longest known lifespan?",
+    "answers": [
+      "Greenland shark",
+      "Galapagos tortoise",
+      "Bowhead whale",
+      "Koi carp"
+    ],
+    "correct": 0,
+    "fact": "One study estimated a Greenland shark at over 250 years."
+  },
+  {
+    "id": "gen_042",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which ancient wonder stood on the island of Pharos?",
+    "answers": [
+      "Hanging Gardens",
+      "Lighthouse of Alexandria",
+      "Colossus of Rhodes",
+      "Temple of Artemis"
+    ],
+    "correct": 1,
+    "fact": "It stood for about 1,500 years before earthquakes felled it."
+  },
+  {
+    "id": "gen_043",
+    "category": "general",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "A tomato is botanically a fruit.",
+    "answer": true,
+    "fact": "It grows from a flower's ovary and holds seeds."
+  },
+  {
+    "id": "gen_044",
+    "category": "general",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Sharks are mammals.",
+    "answer": false,
+    "fact": "Sharks are cartilaginous fish; dolphins are mammals."
+  },
+  {
+    "id": "gen_045",
+    "category": "general",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Octopuses have three hearts.",
+    "answer": true,
+    "fact": "Two pump blood to the gills and one to the body."
+  },
+  {
+    "id": "gen_046",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The marathon race distance is 42.195 kilometres.",
+    "answer": true,
+    "fact": "The oddly precise distance was set at the 1908 London Olympics."
+  },
+  {
+    "id": "gen_047",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Bats are blind.",
+    "answer": false,
+    "fact": "All bat species can see, and many see well in dim light."
+  },
+  {
+    "id": "gen_048",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Goldfish only have a memory of about three seconds.",
+    "answer": false,
+    "fact": "Goldfish can remember things for months."
+  },
+  {
+    "id": "gen_049",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Great Wall of China is visible to the naked eye from the Moon.",
+    "answer": false,
+    "fact": "It is too narrow to see from the Moon, astronauts agree."
+  },
+  {
+    "id": "gen_050",
+    "category": "general",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The ancient Olympic Games were held every four years.",
+    "answer": true,
+    "fact": "They ran at Olympia from 776 BC until AD 393 by tradition."
+  },
+  {
+    "id": "gen_051",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Coffee beans are the seeds of a fruit called a coffee cherry.",
+    "answer": true,
+    "fact": "The red cherries are picked, then the seeds are dried and roasted."
+  },
+  {
+    "id": "gen_052",
+    "category": "general",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year were the first modern Olympic Games held?",
+    "answer": 1896,
+    "min": 1850,
+    "max": 1960,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "Athens, 1896, with 14 nations taking part."
+  },
+  {
+    "id": "gen_053",
+    "category": "general",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many keys does a standard modern piano have?",
+    "answer": 88,
+    "min": 20,
+    "max": 130,
+    "step": 1,
+    "tolerance": 4,
+    "unit": "keys",
+    "fact": "52 white keys and 36 black keys."
+  },
+  {
+    "id": "gen_054",
+    "category": "general",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many letters are in the modern Greek alphabet?",
+    "answer": 24,
+    "min": 8,
+    "max": 36,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "letters",
+    "fact": "It begins with alpha and ends with omega."
+  },
+  {
+    "id": "gen_055",
+    "category": "general",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many players per side play in a game of rugby union?",
+    "answer": 15,
+    "min": 5,
+    "max": 30,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "players",
+    "fact": "Rugby sevens, by contrast, has seven a side."
+  },
+  {
+    "id": "gen_056",
+    "category": "general",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many Olympic gold medals did swimmer Michael Phelps win?",
+    "answer": 23,
+    "min": 10,
+    "max": 40,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "golds",
+    "fact": "Phelps won 23 golds and 28 medals in total."
+  },
+  {
+    "id": "gen_057",
+    "category": "general",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "What is a perfect score in a game of ten-pin bowling?",
+    "answer": 300,
+    "min": 100,
+    "max": 400,
+    "step": 1,
+    "tolerance": 10,
+    "unit": "points",
+    "fact": "Twelve strikes in a row make a perfect game."
+  },
+  {
+    "id": "gen_058",
+    "category": "general",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was the first FIFA World Cup held?",
+    "answer": 1930,
+    "min": 1900,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "Uruguay hosted and won it."
+  },
+  {
+    "id": "gen_059",
+    "category": "general",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many pips are on all six faces of a standard die?",
+    "answer": 21,
+    "min": 10,
+    "max": 40,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "pips",
+    "fact": "Opposite faces always add to seven."
+  },
+  {
+    "id": "gen_060",
+    "category": "general",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "Around what year did Gutenberg print his famous Bible?",
+    "answer": 1455,
+    "min": 1350,
+    "max": 1600,
+    "step": 1,
+    "tolerance": 10,
+    "unit": "year",
+    "fact": "The Gutenberg Bible was printed in Mainz, Germany."
+  },
+  {
+    "id": "gen_061",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who wrote the play \"Waiting for Godot\"?",
+    "answers": [
+      "Harold Pinter",
+      "Eugene Ionesco",
+      "Samuel Beckett",
+      "Tom Stoppard"
+    ],
+    "correct": 2,
+    "fact": "It premiered in Paris in 1953."
+  },
+  {
+    "id": "gen_062",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who wrote the epic poem \"Paradise Lost\"?",
+    "answers": [
+      "John Donne",
+      "John Dryden",
+      "William Blake",
+      "John Milton"
+    ],
+    "correct": 3,
+    "fact": "It was first published in 1667."
+  },
+  {
+    "id": "gen_063",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The tulip mania of the 1630s took place in which country?",
+    "answers": [
+      "Netherlands",
+      "Turkey",
+      "Belgium",
+      "France"
+    ],
+    "correct": 0,
+    "fact": "Prices peaked in early 1637 before crashing."
+  },
+  {
+    "id": "gen_064",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which Dutch painter created \"Girl with a Pearl Earring\"?",
+    "answers": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "correct": 1,
+    "fact": "Vermeer painted it around 1665."
+  },
+  {
+    "id": "gen_065",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who proved Fermat's Last Theorem in the 1990s?",
+    "answers": [
+      "Terence Tao",
+      "Grigori Perelman",
+      "Andrew Wiles",
+      "John Nash"
+    ],
+    "correct": 2,
+    "fact": "The problem had stood unsolved for over 350 years."
+  },
+  {
+    "id": "gen_066",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who wrote the 1776 book \"The Wealth of Nations\"?",
+    "answers": [
+      "John Maynard Keynes",
+      "David Ricardo",
+      "Karl Marx",
+      "Adam Smith"
+    ],
+    "correct": 3,
+    "fact": "It is a founding text of modern economics."
+  },
+  {
+    "id": "gen_067",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "answers": [
+      "Uruguay",
+      "Brazil",
+      "Argentina",
+      "Italy"
+    ],
+    "correct": 0,
+    "fact": "Uruguay beat Argentina 4-2 in the final."
+  },
+  {
+    "id": "gen_068",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Hindu god, with an elephant's head, is the remover of obstacles?",
+    "answers": [
+      "Hanuman",
+      "Ganesha",
+      "Shiva",
+      "Vishnu"
+    ],
+    "correct": 1,
+    "fact": "Ganesha is widely worshipped before new ventures begin."
+  },
+  {
+    "id": "gen_069",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Vietnamese noodle soup is made with rice noodles in a fragrant broth?",
+    "answers": [
+      "Laksa",
+      "Ramen",
+      "Pho",
+      "Tom yum"
+    ],
+    "correct": 2,
+    "fact": "Pho is usually served with beef or chicken."
+  },
+  {
+    "id": "gen_070",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which animal is nicknamed the \"ship of the desert\"?",
+    "answers": [
+      "Camel",
+      "Horse",
+      "Elephant",
+      "Ostrich"
+    ],
+    "correct": 0,
+    "fact": "Camels can go days without drinking water."
+  },
+  {
+    "id": "gen_071",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In which sport do players score birdies and eagles?",
+    "answers": [
+      "Tennis",
+      "Cricket",
+      "Badminton",
+      "Golf"
+    ],
+    "correct": 3,
+    "fact": "Both terms mean finishing a hole under par."
+  },
+  {
+    "id": "gen_072",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Danish company makes colourful interlocking plastic bricks?",
+    "answers": [
+      "Playmobil",
+      "Meccano",
+      "Hasbro",
+      "LEGO"
+    ],
+    "correct": 3,
+    "fact": "The name comes from the Danish words \"leg godt\", meaning play well."
+  },
+  {
+    "id": "gen_073",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which country is the home of pizza?",
+    "answers": [
+      "Greece",
+      "France",
+      "Italy",
+      "United States"
+    ],
+    "correct": 2,
+    "fact": "Modern pizza is linked to the city of Naples."
+  },
+  {
+    "id": "gen_074",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which language is spoken in Brazil?",
+    "answers": [
+      "Portuguese",
+      "Spanish",
+      "French",
+      "Italian"
+    ],
+    "correct": 0,
+    "fact": "Brazil was once a Portuguese colony."
+  },
+  {
+    "id": "gen_075",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which animal is the fastest on land?",
+    "answers": [
+      "Lion",
+      "Cheetah",
+      "Horse",
+      "Greyhound"
+    ],
+    "correct": 1,
+    "fact": "It can sprint at over 100 kilometres per hour in short bursts."
+  },
+  {
+    "id": "gen_076",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which festival is known for mooncakes and colourful lanterns in autumn?",
+    "answers": [
+      "Qingming",
+      "Dragon Boat Festival",
+      "Chinese New Year",
+      "Mid-Autumn Festival"
+    ],
+    "correct": 3,
+    "fact": "Families gather to admire the full moon."
+  },
+  {
+    "id": "gen_077",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which artist painted the Mona Lisa?",
+    "answers": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Vincent van Gogh"
+    ],
+    "correct": 2,
+    "fact": "It hangs in the Louvre in Paris."
+  },
+  {
+    "id": "gen_078",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who wrote the Harry Potter books?",
+    "answers": [
+      "J. K. Rowling",
+      "Roald Dahl",
+      "C. S. Lewis",
+      "Enid Blyton"
+    ],
+    "correct": 0,
+    "fact": "The first book came out in 1997."
+  },
+  {
+    "id": "gen_079",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which festival in India and Singapore is known as the festival of lights?",
+    "answers": [
+      "Holi",
+      "Deepavali",
+      "Thaipusam",
+      "Pongal"
+    ],
+    "correct": 1,
+    "fact": "Little India glows with lights every year to celebrate it."
+  },
+  {
+    "id": "gen_080",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Spanish dance is known for stamping feet, clapping and castanets?",
+    "answers": [
+      "Flamenco",
+      "Tango",
+      "Samba",
+      "Waltz"
+    ],
+    "correct": 0,
+    "fact": "It grew from Andalusian traditions in southern Spain."
+  },
+  {
+    "id": "gen_081",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which composer kept writing music after losing his hearing?",
+    "answers": [
+      "Wolfgang Mozart",
+      "Ludwig van Beethoven",
+      "Johann Bach",
+      "Frederic Chopin"
+    ],
+    "correct": 1,
+    "fact": "His Ninth Symphony premiered when he was almost completely deaf."
+  },
+  {
+    "id": "gen_082",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who wrote the novel \"War and Peace\"?",
+    "answers": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Leo Tolstoy",
+      "Alexander Pushkin"
+    ],
+    "correct": 2,
+    "fact": "It runs to well over a thousand pages."
+  },
+  {
+    "id": "gen_083",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The haiku is a short poem from which country?",
+    "answers": [
+      "China",
+      "Korea",
+      "India",
+      "Japan"
+    ],
+    "correct": 3,
+    "fact": "Traditional haiku have 5, 7, and 5 syllables."
+  },
+  {
+    "id": "gen_084",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who is the Greek god of the sea?",
+    "answers": [
+      "Hades",
+      "Apollo",
+      "Ares",
+      "Poseidon"
+    ],
+    "correct": 3,
+    "fact": "He carries a three-pronged trident."
+  },
+  {
+    "id": "gen_085",
+    "category": "general",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Spanish rice dish is traditionally cooked in a wide, shallow pan?",
+    "answers": [
+      "Gazpacho",
+      "Paella",
+      "Churros",
+      "Tapas"
+    ],
+    "correct": 1,
+    "fact": "The dish comes from the Valencia region."
+  },
+  {
+    "id": "gen_086",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which spice gives most curries their yellow colour?",
+    "answers": [
+      "Cinnamon",
+      "Paprika",
+      "Turmeric",
+      "Cumin"
+    ],
+    "correct": 2,
+    "fact": "It is a root related to ginger."
+  },
+  {
+    "id": "gen_087",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Japanese wrestling sport takes place in a ring called a dohyo?",
+    "answers": [
+      "Sumo",
+      "Judo",
+      "Karate",
+      "Kendo"
+    ],
+    "correct": 0,
+    "fact": "Rikishi wrestlers toss salt before a bout to purify the ring."
+  },
+  {
+    "id": "gen_088",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which banana variety is the most commonly sold around the world?",
+    "answers": [
+      "Cavendish",
+      "Gros Michel",
+      "Lady Finger",
+      "Blue Java"
+    ],
+    "correct": 0,
+    "fact": "It replaced the Gros Michel, which was wiped out by a plant disease."
+  },
+  {
+    "id": "gen_089",
+    "category": "general",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Spanish artist painted the anti-war mural \"Guernica\"?",
+    "answers": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "Pablo Picasso",
+      "Francisco Goya"
+    ],
+    "correct": 2,
+    "fact": "He painted it in response to a 1937 bombing."
+  },
+  {
+    "id": "gen_090",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The word \"orangutan\" comes from Malay words meaning what?",
+    "answers": [
+      "Red ape",
+      "Tree climber",
+      "Jungle king",
+      "Person of the forest"
+    ],
+    "correct": 3,
+    "fact": "\"Orang\" means person and \"hutan\" means forest."
+  },
+  {
+    "id": "gen_091",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which Japanese art repairs broken pottery with gold-dusted lacquer?",
+    "answers": [
+      "Ikebana",
+      "Kintsugi",
+      "Origami",
+      "Bonsai"
+    ],
+    "correct": 1,
+    "fact": "The cracks are celebrated rather than hidden."
+  },
+  {
+    "id": "gen_092",
+    "category": "general",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The English word \"compound\", meaning a walled area, is thought to come from which Malay word?",
+    "answers": [
+      "Kampung",
+      "Pasar",
+      "Sungai",
+      "Bukit"
+    ],
+    "correct": 0,
+    "fact": "Kampung means village."
+  },
+  {
+    "id": "gen_093",
+    "category": "general",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Penguins live at the North Pole.",
+    "answer": false,
+    "fact": "They live mostly in the Southern Hemisphere, and polar bears are the Arctic icon."
+  },
+  {
+    "id": "gen_094",
+    "category": "general",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Peanuts are true nuts.",
+    "answer": false,
+    "fact": "They are legumes, like peas and beans."
+  },
+  {
+    "id": "gen_095",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Giraffes and humans have the same number of neck bones.",
+    "answer": true,
+    "fact": "Both have seven, but the giraffe's are enormous."
+  },
+  {
+    "id": "gen_096",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Butterflies taste with their feet.",
+    "answer": true,
+    "fact": "Sensors on their feet tell them if a leaf is good to eat."
+  },
+  {
+    "id": "gen_097",
+    "category": "general",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Olympic gold medals are made of solid gold.",
+    "answer": false,
+    "fact": "They are mostly silver, coated in a thin layer of gold."
+  },
+  {
+    "id": "gen_098",
+    "category": "general",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Botanically, a banana counts as a berry.",
+    "answer": true,
+    "fact": "Strawberries, on the other hand, do not."
+  },
+  {
+    "id": "gen_099",
+    "category": "general",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many days are in a leap year?",
+    "answer": 366,
+    "min": 300,
+    "max": 400,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "days",
+    "fact": "The extra day is 29 February."
+  },
+  {
+    "id": "gen_100",
+    "category": "general",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many minutes does a regular football (soccer) match last, not counting stoppage time?",
+    "answer": 90,
+    "min": 40,
+    "max": 150,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "minutes",
+    "fact": "It is two halves of 45 minutes."
+  },
+  {
+    "id": "gen_101",
+    "category": "general",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many squares are on a chessboard?",
+    "answer": 64,
+    "min": 16,
+    "max": 100,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "squares",
+    "fact": "They form an 8 by 8 grid."
+  },
+  {
+    "id": "gen_102",
+    "category": "general",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many players does a baseball team have on the field at once?",
+    "answer": 9,
+    "min": 4,
+    "max": 15,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "players",
+    "fact": "That includes the pitcher and the catcher."
+  },
+  {
+    "id": "gen_103",
+    "category": "general",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was the first Harry Potter book published in the UK?",
+    "answer": 1997,
+    "min": 1985,
+    "max": 2010,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It was called \"Harry Potter and the Philosopher's Stone\"."
+  },
+  {
+    "id": "gen_104",
+    "category": "general",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was the first Star Wars film released?",
+    "answer": 1977,
+    "min": 1960,
+    "max": 1995,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It was later renamed \"A New Hope\"."
+  },
+  {
+    "id": "gen_105",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which country produces the most coffee?",
+    "answers": [
+      "Brazil",
+      "Vietnam",
+      "Colombia",
+      "Ethiopia"
+    ],
+    "correct": 0,
+    "fact": "Vietnam is second, mostly growing robusta beans."
+  },
+  {
+    "id": "gen_106",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which country gave the world the board game Go?",
+    "answers": [
+      "China",
+      "Japan",
+      "Korea",
+      "Mongolia"
+    ],
+    "correct": 0,
+    "fact": "In Chinese it is called weiqi."
+  },
+  {
+    "id": "gen_107",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which letter is the only one not used in any US state name?",
+    "answers": [
+      "Q",
+      "Z",
+      "X",
+      "J"
+    ],
+    "correct": 0,
+    "fact": "Every other letter appears at least once."
+  },
+  {
+    "id": "gen_108",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "The concert harp has 47 strings and how many pedals?",
+    "answers": [
+      "7",
+      "5",
+      "4",
+      "12"
+    ],
+    "correct": 0,
+    "fact": "Each pedal shifts one note name in every octave."
+  },
+  {
+    "id": "gen_109",
+    "category": "general",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "What colour is a polar bear's skin?",
+    "answers": [
+      "Black",
+      "White",
+      "Pink",
+      "Grey"
+    ],
+    "correct": 0,
+    "fact": "Its fur is actually see-through, not white."
+  },
+  {
+    "id": "gen_110",
+    "category": "general",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Sushi began as a way of doing what?",
+    "answers": [
+      "Preserving fish in fermented rice",
+      "Serving raw fish at court",
+      "Using up leftover seaweed",
+      "Making rice last longer at sea"
+    ],
+    "correct": 0,
+    "fact": "The rice was thrown away; only the fish was eaten."
+  },
+  {
+    "id": "gen_111",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which Japanese word means \"empty orchestra\"?",
+    "answers": [
+      "Karaoke",
+      "Anime",
+      "Emoji",
+      "Origami"
+    ],
+    "correct": 0,
+    "fact": "Kara means empty; oke is short for orchestra."
+  },
+  {
+    "id": "gen_112",
+    "category": "general",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Roquefort cheese is made from which animal's milk?",
+    "answers": [
+      "Sheep",
+      "Goat",
+      "Cow",
+      "Buffalo"
+    ],
+    "correct": 0,
+    "fact": "It ripens in caves in southern France."
+  },
+  {
+    "id": "gen_113",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does a sommelier specialise in?",
+    "answers": [
+      "Wine",
+      "Cheese",
+      "Perfume",
+      "Tea"
+    ],
+    "correct": 0,
+    "fact": "Sommeliers advise diners on what to drink with their food."
+  },
+  {
+    "id": "gen_114",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which Shakespeare play has the line \"Out, damned spot!\"?",
+    "answers": [
+      "Macbeth",
+      "Hamlet",
+      "Othello",
+      "King Lear"
+    ],
+    "correct": 0,
+    "fact": "Lady Macbeth says it while sleepwalking."
+  },
+  {
+    "id": "gen_115",
+    "category": "general",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "The croissant's ancestor, the kipferl, came from which country?",
+    "answers": [
+      "Austria",
+      "France",
+      "Germany",
+      "Italy"
+    ],
+    "correct": 0,
+    "fact": "French bakers later made it with puff pastry."
+  },
+  {
+    "id": "gen_116",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "In which city is the Sagrada Família?",
+    "answers": [
+      "Barcelona",
+      "Madrid",
+      "Seville",
+      "Lisbon"
+    ],
+    "correct": 0,
+    "fact": "Gaudí began work on it in 1883, and it is still being finished."
+  },
+  {
+    "id": "gen_117",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "tf",
+    "question": "The word \"emoji\" comes from the English word \"emotion\".",
+    "answer": false,
+    "fact": "It is Japanese: e (picture) plus moji (character)."
+  },
+  {
+    "id": "gen_118",
+    "category": "general",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which bird can fly backwards?",
+    "answers": [
+      "Hummingbird",
+      "Swift",
+      "Kingfisher",
+      "Sparrow"
+    ],
+    "correct": 0,
+    "fact": "Its wings beat in a figure-of-eight."
+  },
+  {
+    "id": "gen_119",
+    "category": "general",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "In music, what does \"forte\" tell a player to do?",
+    "answers": [
+      "Play loudly",
+      "Play softly",
+      "Speed up",
+      "Hold the note"
+    ],
+    "correct": 0,
+    "fact": "\"Piano\" means softly, which is how the piano got its full name, pianoforte."
+  }
+]

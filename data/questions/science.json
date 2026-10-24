@@ -1,0 +1,1735 @@
+[
+  {
+    "id": "sci_001",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the chemical symbol for gold?",
+    "answers": [
+      "Au",
+      "Ag",
+      "Gd",
+      "Go"
+    ],
+    "correct": 0,
+    "fact": "Au comes from the Latin word \"aurum\"."
+  },
+  {
+    "id": "sci_002",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which planet is closest to the Sun?",
+    "answers": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "correct": 1,
+    "fact": "A year on Mercury lasts just 88 Earth days."
+  },
+  {
+    "id": "sci_003",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which gas do plants absorb for photosynthesis?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct": 2,
+    "fact": "Plants use sunlight to turn CO2 and water into sugar."
+  },
+  {
+    "id": "sci_004",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the largest organ of the human body?",
+    "answers": [
+      "Liver",
+      "Lungs",
+      "Small intestine",
+      "Skin"
+    ],
+    "correct": 3,
+    "fact": "An adult's skin covers about two square metres."
+  },
+  {
+    "id": "sci_005",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What force pulls objects towards the Earth?",
+    "answers": [
+      "Gravity",
+      "Magnetism",
+      "Friction",
+      "Inertia"
+    ],
+    "correct": 0,
+    "fact": "Gravity keeps the Moon in orbit too."
+  },
+  {
+    "id": "sci_006",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Mercury"
+    ],
+    "correct": 1,
+    "fact": "Iron oxide, or rust, gives Mars its colour."
+  },
+  {
+    "id": "sci_007",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "answers": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi body"
+    ],
+    "correct": 2,
+    "fact": "Mitochondria produce most of a cell's ATP."
+  },
+  {
+    "id": "sci_008",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the hardest natural substance?",
+    "answers": [
+      "Quartz",
+      "Topaz",
+      "Granite",
+      "Diamond"
+    ],
+    "correct": 3,
+    "fact": "Diamond scores 10 on the Mohs scale."
+  },
+  {
+    "id": "sci_009",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which blood cells carry oxygen around the body?",
+    "answers": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "correct": 0,
+    "fact": "Haemoglobin in them binds the oxygen."
+  },
+  {
+    "id": "sci_010",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which planet has a famous Great Red Spot?",
+    "answers": [
+      "Saturn",
+      "Jupiter",
+      "Neptune",
+      "Mars"
+    ],
+    "correct": 1,
+    "fact": "The storm has raged for at least 150 years."
+  },
+  {
+    "id": "sci_011",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which metal is liquid at room temperature?",
+    "answers": [
+      "Lead",
+      "Tin",
+      "Mercury",
+      "Zinc"
+    ],
+    "correct": 2,
+    "fact": "Mercury melts at about minus 39 degrees Celsius."
+  },
+  {
+    "id": "sci_012",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the chemical formula of table salt?",
+    "answers": [
+      "KCl",
+      "NaOH",
+      "CaCO3",
+      "NaCl"
+    ],
+    "correct": 3,
+    "fact": "It is sodium chloride."
+  },
+  {
+    "id": "sci_013",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In which part of a human cell is most DNA found?",
+    "answers": [
+      "Nucleus",
+      "Cytoplasm",
+      "Cell membrane",
+      "Lysosome"
+    ],
+    "correct": 0,
+    "fact": "Mitochondria carry a little DNA of their own."
+  },
+  {
+    "id": "sci_014",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which galaxy contains our Solar System?",
+    "answers": [
+      "Andromeda",
+      "Milky Way",
+      "Triangulum",
+      "Whirlpool"
+    ],
+    "correct": 1,
+    "fact": "Our galaxy holds hundreds of billions of stars."
+  },
+  {
+    "id": "sci_015",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who developed the theory of general relativity?",
+    "answers": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Albert Einstein",
+      "Max Planck"
+    ],
+    "correct": 2,
+    "fact": "He published it in 1915."
+  },
+  {
+    "id": "sci_016",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which mammal lays eggs?",
+    "answers": [
+      "Wombat",
+      "Pangolin",
+      "Armadillo",
+      "Platypus"
+    ],
+    "correct": 3,
+    "fact": "Platypuses and echidnas are called monotremes."
+  },
+  {
+    "id": "sci_017",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the SI unit of force?",
+    "answers": [
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Watt"
+    ],
+    "correct": 0,
+    "fact": "One newton accelerates 1 kg by 1 m/s squared."
+  },
+  {
+    "id": "sci_018",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "correct": 1,
+    "fact": "Nitrogen makes up about 78 percent of air."
+  },
+  {
+    "id": "sci_019",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which vitamin does skin produce in sunlight?",
+    "answers": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correct": 2,
+    "fact": "It helps the body absorb calcium."
+  },
+  {
+    "id": "sci_020",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Roughly how fast does light travel in a vacuum?",
+    "answers": [
+      "150,000 km/s",
+      "30,000 km/s",
+      "3,000,000 km/s",
+      "300,000 km/s"
+    ],
+    "correct": 3,
+    "fact": "Light takes about 8 minutes to travel from the Sun to Earth."
+  },
+  {
+    "id": "sci_021",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the pH of pure water at room temperature?",
+    "answers": [
+      "7",
+      "1",
+      "10",
+      "14"
+    ],
+    "correct": 0,
+    "fact": "Values below 7 are acidic and above 7 are basic."
+  },
+  {
+    "id": "sci_022",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Ring of Fire surrounds which ocean?",
+    "answers": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct": 1,
+    "fact": "About 90 percent of earthquakes occur along it."
+  },
+  {
+    "id": "sci_023",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which organ produces insulin?",
+    "answers": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Spleen"
+    ],
+    "correct": 2,
+    "fact": "Insulin controls blood sugar levels."
+  },
+  {
+    "id": "sci_024",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which type of rock forms from cooled magma or lava?",
+    "answers": [
+      "Sedimentary",
+      "Metamorphic",
+      "Fossiliferous",
+      "Igneous"
+    ],
+    "correct": 3,
+    "fact": "Granite and basalt are igneous rocks."
+  },
+  {
+    "id": "sci_025",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the SI unit of electrical resistance?",
+    "answers": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Farad"
+    ],
+    "correct": 0,
+    "fact": "It is named after Georg Ohm."
+  },
+  {
+    "id": "sci_026",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the atomic number of carbon?",
+    "answers": [
+      "8",
+      "6",
+      "12",
+      "14"
+    ],
+    "correct": 1,
+    "fact": "Carbon has six protons."
+  },
+  {
+    "id": "sci_027",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who discovered penicillin in 1928?",
+    "answers": [
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "correct": 2,
+    "fact": "Fleming noticed mould killing bacteria on a dish."
+  },
+  {
+    "id": "sci_028",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the most abundant element in the universe?",
+    "answers": [
+      "Helium",
+      "Oxygen",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "correct": 3,
+    "fact": "Hydrogen makes up roughly 75 percent of ordinary matter."
+  },
+  {
+    "id": "sci_029",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the SI unit of frequency?",
+    "answers": [
+      "Hertz",
+      "Decibel",
+      "Tesla",
+      "Candela"
+    ],
+    "correct": 0,
+    "fact": "One hertz is one cycle per second."
+  },
+  {
+    "id": "sci_030",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which organelle carries out photosynthesis?",
+    "answers": [
+      "Mitochondrion",
+      "Chloroplast",
+      "Vacuole",
+      "Nucleus"
+    ],
+    "correct": 1,
+    "fact": "Chlorophyll in chloroplasts makes leaves green."
+  },
+  {
+    "id": "sci_031",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the name of the supercontinent that existed about 300 million years ago?",
+    "answers": [
+      "Gondwana",
+      "Laurasia",
+      "Pangaea",
+      "Rodinia"
+    ],
+    "correct": 2,
+    "fact": "Pangaea began splitting apart around 200 million years ago."
+  },
+  {
+    "id": "sci_032",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which vitamin deficiency causes scurvy?",
+    "answers": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "correct": 3,
+    "fact": "Sailors once carried citrus fruit to prevent it."
+  },
+  {
+    "id": "sci_033",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which book by Charles Darwin was published in 1859?",
+    "answers": [
+      "On the Origin of Species",
+      "The Descent of Man",
+      "The Voyage of the Beagle",
+      "Principles of Geology"
+    ],
+    "correct": 0,
+    "fact": "Alfred Russel Wallace independently reached similar ideas."
+  },
+  {
+    "id": "sci_034",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Sun is classified as which type of star?",
+    "answers": [
+      "Red giant",
+      "Yellow dwarf",
+      "White dwarf",
+      "Neutron star"
+    ],
+    "correct": 1,
+    "fact": "It is a G-type main-sequence star."
+  },
+  {
+    "id": "sci_035",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which scale ranks the hardness of minerals?",
+    "answers": [
+      "Richter scale",
+      "Beaufort scale",
+      "Mohs scale",
+      "Kelvin scale"
+    ],
+    "correct": 2,
+    "fact": "Talc is 1 and diamond is 10."
+  },
+  {
+    "id": "sci_036",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which metal has the highest melting point?",
+    "answers": [
+      "Iron",
+      "Titanium",
+      "Platinum",
+      "Tungsten"
+    ],
+    "correct": 3,
+    "fact": "Tungsten melts at about 3,400 degrees Celsius."
+  },
+  {
+    "id": "sci_037",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which part of the brain coordinates balance and movement?",
+    "answers": [
+      "Cerebellum",
+      "Hippocampus",
+      "Medulla",
+      "Thalamus"
+    ],
+    "correct": 0,
+    "fact": "Cerebellum means \"little brain\" in Latin."
+  },
+  {
+    "id": "sci_038",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which blood type is the universal donor for red blood cells?",
+    "answers": [
+      "AB positive",
+      "O negative",
+      "A positive",
+      "B negative"
+    ],
+    "correct": 1,
+    "fact": "It lacks A, B and Rh antigens."
+  },
+  {
+    "id": "sci_039",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which particle carries the electromagnetic force?",
+    "answers": [
+      "Gluon",
+      "Neutrino",
+      "Photon",
+      "Graviton"
+    ],
+    "correct": 2,
+    "fact": "Photons are quanta of light."
+  },
+  {
+    "id": "sci_040",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is the smallest bone in the human body?",
+    "answers": [
+      "Hyoid",
+      "Patella",
+      "Coccyx",
+      "Stapes"
+    ],
+    "correct": 3,
+    "fact": "The stapes is in the middle ear and is about 3 mm long."
+  },
+  {
+    "id": "sci_041",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is the scientific study of fungi called?",
+    "answers": [
+      "Mycology",
+      "Phycology",
+      "Entomology",
+      "Virology"
+    ],
+    "correct": 0,
+    "fact": "Yeasts, moulds and mushrooms are fungi."
+  },
+  {
+    "id": "sci_042",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Where two tectonic plates move apart, the boundary is called what?",
+    "answers": [
+      "Convergent",
+      "Divergent",
+      "Transform",
+      "Subduction"
+    ],
+    "correct": 1,
+    "fact": "Mid-ocean ridges are divergent boundaries."
+  },
+  {
+    "id": "sci_043",
+    "category": "science",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Lightning never strikes the same place twice.",
+    "answer": false,
+    "fact": "Tall structures such as the Empire State Building are hit many times a year."
+  },
+  {
+    "id": "sci_044",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Sound travels faster in water than in air.",
+    "answer": true,
+    "fact": "It moves about four times faster in water."
+  },
+  {
+    "id": "sci_045",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Diamond and graphite are both made of pure carbon.",
+    "answer": true,
+    "fact": "Only the arrangement of their atoms differs."
+  },
+  {
+    "id": "sci_046",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Humans use only 10 percent of their brains.",
+    "answer": false,
+    "fact": "Brain imaging shows activity throughout the whole brain."
+  },
+  {
+    "id": "sci_047",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Venus is the hottest planet in the Solar System.",
+    "answer": true,
+    "fact": "Its thick CO2 atmosphere traps heat at about 465 degrees Celsius."
+  },
+  {
+    "id": "sci_048",
+    "category": "science",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "A proton is much heavier than an electron.",
+    "answer": true,
+    "fact": "A proton has about 1,836 times the mass of an electron."
+  },
+  {
+    "id": "sci_049",
+    "category": "science",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Antibiotics are effective against viral infections like the flu.",
+    "answer": false,
+    "fact": "Antibiotics kill bacteria, not viruses."
+  },
+  {
+    "id": "sci_050",
+    "category": "science",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Spiders are insects.",
+    "answer": false,
+    "fact": "Spiders are arachnids with eight legs; insects have six."
+  },
+  {
+    "id": "sci_051",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Water expands when it freezes.",
+    "answer": true,
+    "fact": "That is why ice floats and pipes can burst."
+  },
+  {
+    "id": "sci_052",
+    "category": "science",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "At sea level, at what temperature in Celsius does water boil?",
+    "answer": 100,
+    "min": 20,
+    "max": 150,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "C",
+    "fact": "Boiling point drops at higher altitudes."
+  },
+  {
+    "id": "sci_053",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many bones does an adult human have?",
+    "answer": 206,
+    "min": 100,
+    "max": 350,
+    "step": 1,
+    "tolerance": 10,
+    "unit": "bones",
+    "fact": "Babies are born with roughly 270 to 300 bones."
+  },
+  {
+    "id": "sci_054",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many elements are on the periodic table?",
+    "answer": 118,
+    "min": 60,
+    "max": 200,
+    "step": 1,
+    "tolerance": 4,
+    "unit": "elements",
+    "fact": "Oganesson, element 118, was named in 2016."
+  },
+  {
+    "id": "sci_055",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "What is the speed of light in a vacuum, in km per second?",
+    "answer": 299792,
+    "min": 100000,
+    "max": 400000,
+    "step": 1000,
+    "tolerance": 15000,
+    "unit": "km/s",
+    "fact": "It is exactly 299,792,458 metres per second."
+  },
+  {
+    "id": "sci_056",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How far is the Moon from Earth, on average, in kilometres?",
+    "answer": 384400,
+    "min": 100000,
+    "max": 600000,
+    "step": 1000,
+    "tolerance": 40000,
+    "unit": "km",
+    "fact": "The Moon drifts about 3.8 cm farther each year."
+  },
+  {
+    "id": "sci_057",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How old is Earth, in billions of years?",
+    "answer": 4.54,
+    "min": 1,
+    "max": 10,
+    "step": 0.1,
+    "tolerance": 0.3,
+    "unit": "billion years",
+    "fact": "Radiometric dating of meteorites gives this age."
+  },
+  {
+    "id": "sci_058",
+    "category": "science",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "What is normal human body temperature in degrees Celsius?",
+    "answer": 37,
+    "min": 28,
+    "max": 44,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "C",
+    "fact": "Normal readings vary from about 36.1 to 37.2."
+  },
+  {
+    "id": "sci_059",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How far is the Sun from Earth, in millions of kilometres?",
+    "answer": 150,
+    "min": 50,
+    "max": 300,
+    "step": 1,
+    "tolerance": 8,
+    "unit": "million km",
+    "fact": "Light takes about 8 minutes to cover it."
+  },
+  {
+    "id": "sci_060",
+    "category": "science",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many teeth does a typical adult human have, including wisdom teeth?",
+    "answer": 32,
+    "min": 12,
+    "max": 44,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "teeth",
+    "fact": "Many adults have fewer wisdom teeth."
+  },
+  {
+    "id": "sci_061",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who formulated the three laws of planetary motion in the early 1600s?",
+    "answers": [
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Johannes Kepler",
+      "Nicolaus Copernicus"
+    ],
+    "correct": 2,
+    "fact": "Kepler showed planets move in ellipses, not circles."
+  },
+  {
+    "id": "sci_062",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is the most abundant protein in the human body?",
+    "answers": [
+      "Keratin",
+      "Haemoglobin",
+      "Insulin",
+      "Collagen"
+    ],
+    "correct": 3,
+    "fact": "It makes up about a quarter of body protein."
+  },
+  {
+    "id": "sci_063",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who discovered the electron in 1897?",
+    "answers": [
+      "J. J. Thomson",
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "James Chadwick"
+    ],
+    "correct": 0,
+    "fact": "He won the 1906 Nobel Prize in Physics."
+  },
+  {
+    "id": "sci_064",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which gas makes up most of Mars's thin atmosphere?",
+    "answers": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Methane"
+    ],
+    "correct": 1,
+    "fact": "Over 95 percent of the Martian atmosphere is CO2."
+  },
+  {
+    "id": "sci_065",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is the SI unit of magnetic flux density?",
+    "answers": [
+      "Weber",
+      "Henry",
+      "Tesla",
+      "Gauss"
+    ],
+    "correct": 2,
+    "fact": "It is named after Nikola Tesla."
+  },
+  {
+    "id": "sci_066",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In which layer of the atmosphere is the ozone layer found?",
+    "answers": [
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere",
+      "Stratosphere"
+    ],
+    "correct": 3,
+    "fact": "It absorbs most of the Sun's harmful ultraviolet rays."
+  },
+  {
+    "id": "sci_067",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the largest moon of Saturn?",
+    "answers": [
+      "Titan",
+      "Europa",
+      "Ganymede",
+      "Enceladus"
+    ],
+    "correct": 0,
+    "fact": "Titan has a thick atmosphere and lakes of liquid methane."
+  },
+  {
+    "id": "sci_068",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is the SI base unit for the amount of a substance?",
+    "answers": [
+      "Gram",
+      "Mole",
+      "Candela",
+      "Kelvin"
+    ],
+    "correct": 1,
+    "fact": "One mole contains about 6.02 x 10^23 particles."
+  },
+  {
+    "id": "sci_069",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which element has the chemical symbol Fe?",
+    "answers": [
+      "Fluorine",
+      "Francium",
+      "Iron",
+      "Lead"
+    ],
+    "correct": 2,
+    "fact": "Fe comes from the Latin \"ferrum\"."
+  },
+  {
+    "id": "sci_070",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which organ filters blood to make urine?",
+    "answers": [
+      "Liver",
+      "Spleen",
+      "Pancreas",
+      "Kidney"
+    ],
+    "correct": 3,
+    "fact": "Each kidney holds about a million tiny filters."
+  },
+  {
+    "id": "sci_071",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What do we call animals that eat both plants and meat?",
+    "answers": [
+      "Omnivores",
+      "Herbivores",
+      "Carnivores",
+      "Insectivores"
+    ],
+    "correct": 0,
+    "fact": "Humans, bears and pigs are omnivores."
+  },
+  {
+    "id": "sci_072",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which planet is famous for its bright, wide rings?",
+    "answers": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Venus"
+    ],
+    "correct": 1,
+    "fact": "Its rings are made mostly of chunks of ice."
+  },
+  {
+    "id": "sci_073",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which part of a plant takes in water from the soil?",
+    "answers": [
+      "Leaves",
+      "Flowers",
+      "Roots",
+      "Seeds"
+    ],
+    "correct": 2,
+    "fact": "Roots also hold the plant firmly in place."
+  },
+  {
+    "id": "sci_074",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which gas do humans breathe out?",
+    "answers": [
+      "Carbon dioxide",
+      "Helium",
+      "Methane",
+      "Chlorine"
+    ],
+    "correct": 0,
+    "fact": "We breathe out water vapour too, which you can see on a cold day."
+  },
+  {
+    "id": "sci_075",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which state of matter has its own fixed shape?",
+    "answers": [
+      "Solid",
+      "Gas",
+      "Liquid",
+      "Plasma"
+    ],
+    "correct": 0,
+    "fact": "Liquids take the shape of their container, and gases fill it."
+  },
+  {
+    "id": "sci_076",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "How many legs does an insect have?",
+    "answers": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 1,
+    "fact": "Spiders have eight, so they are not insects."
+  },
+  {
+    "id": "sci_077",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the centre of an atom called?",
+    "answers": [
+      "Shell",
+      "Membrane",
+      "Nucleus",
+      "Orbit"
+    ],
+    "correct": 2,
+    "fact": "It holds protons and neutrons."
+  },
+  {
+    "id": "sci_078",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which of these is a renewable source of energy?",
+    "answers": [
+      "Coal",
+      "Natural gas",
+      "Oil",
+      "Wind"
+    ],
+    "correct": 3,
+    "fact": "Wind turbines turn moving air into electricity."
+  },
+  {
+    "id": "sci_079",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which scientist is famous for the laws of motion and universal gravitation?",
+    "answers": [
+      "Galileo Galilei",
+      "Charles Darwin",
+      "Michael Faraday",
+      "Isaac Newton"
+    ],
+    "correct": 3,
+    "fact": "He also helped invent calculus."
+  },
+  {
+    "id": "sci_080",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "A dolphin is what type of animal?",
+    "answers": [
+      "Mammal",
+      "Fish",
+      "Reptile",
+      "Amphibian"
+    ],
+    "correct": 0,
+    "fact": "Dolphins breathe air through a blowhole on top of the head."
+  },
+  {
+    "id": "sci_081",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which element has the atomic number 1?",
+    "answers": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "correct": 1,
+    "fact": "It is the lightest element."
+  },
+  {
+    "id": "sci_082",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which planet spins tilted almost on its side?",
+    "answers": [
+      "Neptune",
+      "Saturn",
+      "Uranus",
+      "Mars"
+    ],
+    "correct": 2,
+    "fact": "Its axis is tilted by about 98 degrees."
+  },
+  {
+    "id": "sci_083",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the name of the cell division that makes two identical copies of a cell?",
+    "answers": [
+      "Osmosis",
+      "Fusion",
+      "Digestion",
+      "Mitosis"
+    ],
+    "correct": 3,
+    "fact": "Your skin cells divide this way to repair cuts."
+  },
+  {
+    "id": "sci_084",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the SI unit of electric current?",
+    "answers": [
+      "Volt",
+      "Watt",
+      "Ampere",
+      "Ohm"
+    ],
+    "correct": 2,
+    "fact": "It is named after the French physicist André-Marie Ampère."
+  },
+  {
+    "id": "sci_085",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which part of the eye controls how much light gets in?",
+    "answers": [
+      "Iris",
+      "Retina",
+      "Cornea",
+      "Optic nerve"
+    ],
+    "correct": 0,
+    "fact": "The iris is the coloured ring around the pupil."
+  },
+  {
+    "id": "sci_086",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which layer of the Earth lies between the crust and the core?",
+    "answers": [
+      "Biosphere",
+      "Mantle",
+      "Stratosphere",
+      "Hydrosphere"
+    ],
+    "correct": 1,
+    "fact": "It makes up most of the planet's volume."
+  },
+  {
+    "id": "sci_087",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which star is the closest to our Sun?",
+    "answers": [
+      "Sirius",
+      "Betelgeuse",
+      "Proxima Centauri",
+      "Polaris"
+    ],
+    "correct": 2,
+    "fact": "Its light takes over four years to reach us."
+  },
+  {
+    "id": "sci_088",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which animal was the first mammal cloned from an adult cell?",
+    "answers": [
+      "Dolly the sheep",
+      "Laika the dog",
+      "Koko the gorilla",
+      "Wilbur the pig"
+    ],
+    "correct": 0,
+    "fact": "Dolly was born in Scotland in 1996."
+  },
+  {
+    "id": "sci_089",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who developed the first successful polio vaccine in the 1950s?",
+    "answers": [
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Alexander Fleming",
+      "Edward Jenner"
+    ],
+    "correct": 1,
+    "fact": "Salk famously chose not to patent it."
+  },
+  {
+    "id": "sci_090",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who discovered radioactivity in 1896?",
+    "answers": [
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "J. J. Thomson",
+      "Henri Becquerel"
+    ],
+    "correct": 3,
+    "fact": "He noticed uranium salts fogging photographic plates."
+  },
+  {
+    "id": "sci_091",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Plants lose water vapour through tiny pores on their leaves. What are these pores called?",
+    "answers": [
+      "Stamens",
+      "Stomata",
+      "Spores",
+      "Pistils"
+    ],
+    "correct": 1,
+    "fact": "Each pore is flanked by two guard cells that open and close it."
+  },
+  {
+    "id": "sci_092",
+    "category": "science",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which cell organelle contains enzymes that break down waste?",
+    "answers": [
+      "Ribosome",
+      "Chloroplast",
+      "Lysosome",
+      "Centriole"
+    ],
+    "correct": 2,
+    "fact": "Lysosomes work like the cell's recycling bins."
+  },
+  {
+    "id": "sci_093",
+    "category": "science",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which gas gives rotten eggs their smell?",
+    "answers": [
+      "Hydrogen sulfide",
+      "Methane",
+      "Ammonia",
+      "Chlorine"
+    ],
+    "correct": 0,
+    "fact": "Even tiny amounts are easy for our noses to detect."
+  },
+  {
+    "id": "sci_094",
+    "category": "science",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What causes the seasons on Earth?",
+    "answers": [
+      "Its distance from the Sun",
+      "The phases of the Moon",
+      "Sunspots",
+      "The tilt of its axis"
+    ],
+    "correct": 3,
+    "fact": "The tilt means each hemisphere leans towards the Sun at different times of year."
+  },
+  {
+    "id": "sci_095",
+    "category": "science",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "The Moon makes its own light.",
+    "answer": false,
+    "fact": "It shines by reflecting sunlight."
+  },
+  {
+    "id": "sci_096",
+    "category": "science",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Sound can travel through the vacuum of space.",
+    "answer": false,
+    "fact": "Sound needs a medium such as air or water to travel through."
+  },
+  {
+    "id": "sci_097",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Lightning can be hotter than the surface of the Sun.",
+    "answer": true,
+    "fact": "A bolt can heat the air around it to about 30,000 degrees Celsius."
+  },
+  {
+    "id": "sci_098",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Adults have fewer bones than newborn babies.",
+    "answer": true,
+    "fact": "Many of a baby's bones fuse together as they grow."
+  },
+  {
+    "id": "sci_099",
+    "category": "science",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Different parts of the tongue detect only one taste each.",
+    "answer": false,
+    "fact": "The \"tongue map\" is a myth, as all tastes can be sensed across the tongue."
+  },
+  {
+    "id": "sci_100",
+    "category": "science",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "A day on Venus is longer than its year.",
+    "answer": true,
+    "fact": "Venus spins so slowly that one rotation takes longer than one trip round the Sun."
+  },
+  {
+    "id": "sci_101",
+    "category": "science",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Bananas are slightly radioactive.",
+    "answer": true,
+    "fact": "They contain potassium, a tiny part of which is radioactive, and it is harmless."
+  },
+  {
+    "id": "sci_102",
+    "category": "science",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many planets are in our Solar System?",
+    "answer": 8,
+    "min": 4,
+    "max": 12,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "planets",
+    "fact": "Pluto was reclassified as a dwarf planet in 2006."
+  },
+  {
+    "id": "sci_103",
+    "category": "science",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many chambers does a human heart have?",
+    "answer": 4,
+    "min": 1,
+    "max": 8,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "chambers",
+    "fact": "Two upper atria and two lower ventricles."
+  },
+  {
+    "id": "sci_104",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many chromosomes are in a typical human cell?",
+    "answer": 46,
+    "min": 20,
+    "max": 80,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "chromosomes",
+    "fact": "They come in 23 pairs, one from each parent."
+  },
+  {
+    "id": "sci_105",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "About how many minutes does sunlight take to reach Earth?",
+    "answer": 8,
+    "min": 1,
+    "max": 30,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "minutes",
+    "fact": "Sunlight travels roughly 150 million kilometres to get here."
+  },
+  {
+    "id": "sci_106",
+    "category": "science",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "About what percentage of Earth's air is oxygen?",
+    "answer": 21,
+    "min": 5,
+    "max": 50,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "%",
+    "fact": "Most of the rest is nitrogen."
+  },
+  {
+    "id": "sci_107",
+    "category": "science",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "At what temperature in Celsius is absolute zero?",
+    "answer": -273,
+    "min": -400,
+    "max": 0,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "C",
+    "fact": "It is the coldest temperature possible, where particles have almost no motion."
+  },
+  {
+    "id": "sci_108",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the main gas in natural gas?",
+    "answers": [
+      "Methane",
+      "Propane",
+      "Butane",
+      "Hydrogen"
+    ],
+    "correct": 0,
+    "fact": "Methane is a powerful greenhouse gas when it leaks."
+  },
+  {
+    "id": "sci_109",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which part of a cell builds proteins?",
+    "answers": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi body"
+    ],
+    "correct": 0,
+    "fact": "Ribosomes read instructions copied from DNA."
+  },
+  {
+    "id": "sci_110",
+    "category": "science",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which planet has the shortest day?",
+    "answers": [
+      "Jupiter",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "correct": 0,
+    "fact": "It spins once in under 10 hours."
+  },
+  {
+    "id": "sci_111",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What gas makes up most of the Sun?",
+    "answers": [
+      "Hydrogen",
+      "Helium",
+      "Oxygen",
+      "Carbon"
+    ],
+    "correct": 0,
+    "fact": "About three quarters of the Sun's mass is hydrogen."
+  },
+  {
+    "id": "sci_112",
+    "category": "science",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the most common element in Earth's crust?",
+    "answers": [
+      "Oxygen",
+      "Silicon",
+      "Iron",
+      "Aluminium"
+    ],
+    "correct": 0,
+    "fact": "It is locked up in rocks and minerals."
+  },
+  {
+    "id": "sci_113",
+    "category": "science",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which part of the brain mainly controls balance and coordination?",
+    "answers": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correct": 0,
+    "fact": "Its name means \"little brain\"."
+  },
+  {
+    "id": "sci_114",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the chemical symbol for potassium?",
+    "answers": [
+      "K",
+      "P",
+      "Po",
+      "Pt"
+    ],
+    "correct": 0,
+    "fact": "K comes from its Latin name, kalium."
+  },
+  {
+    "id": "sci_115",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the edge around a black hole, beyond which nothing escapes, called?",
+    "answers": [
+      "Event horizon",
+      "Photon ring",
+      "Singularity",
+      "Accretion disc"
+    ],
+    "correct": 0,
+    "fact": "Not even light can come back out."
+  },
+  {
+    "id": "sci_116",
+    "category": "science",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which vitamin helps blood to clot?",
+    "answers": [
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin A"
+    ],
+    "correct": 0,
+    "fact": "The K comes from \"Koagulation\", German for clotting."
+  },
+  {
+    "id": "sci_117",
+    "category": "science",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "What do we call animals that are most active at dawn and dusk?",
+    "answers": [
+      "Crepuscular",
+      "Nocturnal",
+      "Diurnal",
+      "Matutinal"
+    ],
+    "correct": 0,
+    "fact": "Cats and rabbits are crepuscular."
+  },
+  {
+    "id": "sci_118",
+    "category": "science",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which animal has the largest eyes of any living creature?",
+    "answers": [
+      "Colossal squid",
+      "Blue whale",
+      "Ostrich",
+      "Great horned owl"
+    ],
+    "correct": 0,
+    "fact": "Each eye is about the size of a football."
+  },
+  {
+    "id": "sci_119",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What are the tiny air sacs in the lungs called?",
+    "answers": [
+      "Alveoli",
+      "Bronchi",
+      "Villi",
+      "Capillaries"
+    ],
+    "correct": 0,
+    "fact": "Spread flat, they would cover around 70 square metres."
+  },
+  {
+    "id": "sci_120",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which element is named after the Greek word for the Sun?",
+    "answers": [
+      "Helium",
+      "Hydrogen",
+      "Neon",
+      "Selenium"
+    ],
+    "correct": 0,
+    "fact": "It was found in sunlight before it was found on Earth."
+  },
+  {
+    "id": "sci_121",
+    "category": "science",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "estimate",
+    "question": "About how fast does sound travel in air at 20 °C, in metres per second?",
+    "answer": 343,
+    "min": 200,
+    "max": 500,
+    "step": 1,
+    "tolerance": 10,
+    "unit": "m/s",
+    "fact": "That is roughly one kilometre every three seconds."
+  },
+  {
+    "id": "sci_122",
+    "category": "science",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which is the longest bone in the human body?",
+    "answers": [
+      "Femur",
+      "Tibia",
+      "Humerus",
+      "Spine"
+    ],
+    "correct": 0,
+    "fact": "The femur is the thigh bone."
+  }
+]

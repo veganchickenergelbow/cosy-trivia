@@ -1,0 +1,23 @@
+{
+  "_comment": "Questions taken out of the game as too easy (near-universal knowledge for adults, especially in Singapore). Reviewed 2026-10-22 after the owner flagged pizza / Deepavali / Australia / nitrogen. The question files are untouched; delete an id here to bring it back.",
+  "ids": [
+    "gen_001", "gen_002", "gen_003", "gen_006", "gen_007", "gen_008", "gen_011", "gen_013", "gen_014", "gen_017", "gen_018", "gen_019",
+    "gen_043", "gen_044", "gen_070", "gen_071", "gen_072", "gen_073", "gen_075", "gen_076", "gen_077", "gen_078", "gen_079", "gen_084",
+    "gen_093", "gen_099", "gen_100",
+    "geo_001", "geo_003", "geo_006", "geo_008", "geo_014", "geo_015", "geo_016", "geo_050", "geo_063", "geo_064", "geo_065", "geo_066",
+    "geo_067", "geo_068", "geo_069", "geo_086", "geo_087", "geo_092", "geo_093",
+    "sci_003", "sci_005", "sci_006", "sci_007", "sci_008", "sci_009", "sci_014", "sci_015", "sci_016", "sci_018", "sci_050", "sci_052",
+    "sci_058", "sci_070", "sci_071", "sci_072", "sci_073", "sci_074", "sci_075", "sci_076", "sci_078", "sci_079", "sci_080", "sci_095",
+    "sci_102",
+    "his_002", "his_003", "his_005", "his_011", "his_012", "his_054", "his_063", "his_066", "his_067", "his_068", "his_069", "his_071",
+    "his_072", "his_073", "his_076", "his_079", "his_092", "his_099",
+    "pol_003", "pol_008", "pol_028", "pol_062", "pol_063", "pol_064", "pol_065", "pol_066", "pol_067", "pol_070", "pol_071", "pol_072",
+    "pol_074", "pol_082", "pol_085", "pol_086",
+    "sg_002", "sg_003", "sg_004", "sg_005", "sg_006", "sg_007", "sg_008", "sg_009", "sg_010", "sg_011", "sg_012", "sg_014", "sg_016",
+    "sg_017", "sg_020", "sg_021", "sg_022", "sg_041", "sg_044", "sg_060", "sg_065", "sg_067", "sg_069", "sg_070", "sg_084", "sg_087",
+    "sg_088", "sg_090", "sg_109", "sg_110", "sg_111", "sg_125", "sg_126", "sg_127", "sg_128", "sg_129",
+    "tech_004", "tech_009", "tech_029", "tech_034", "tech_056", "tech_059", "tech_065", "tech_068", "tech_074", "tech_075", "tech_078",
+    "tech_080", "tech_081", "tech_082", "tech_086", "tech_104", "tech_109", "tech_110", "tech_127", "tech_128", "tech_135", "tech_140",
+    "tech_146", "tech_147", "tech_162", "tech_163"
+  ]
+}
