@@ -1,0 +1,8 @@
+{
+  "_comment": "Which ChatGPT art is integrated. tools/art/slice.py flips these to true. Cat art flags live in data/cats.json; accessories and balcony stay hidden or use stand-ins until their art is in.",
+  "room": false,
+  "icons": true,
+  "logo": true,
+  "accessories": true,
+  "balcony": true
+}

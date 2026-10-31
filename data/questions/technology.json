@@ -1,0 +1,3058 @@
+[
+  {
+    "id": "tech_001",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The word 'robot' comes from a Czech play.",
+    "answer": true,
+    "fact": "Karel Capek's 1920 play R.U.R. used it, from Czech 'robota', meaning labour."
+  },
+  {
+    "id": "tech_002",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In which year was Singapore's first National AI Strategy released?",
+    "answers": [
+      "2014",
+      "2019",
+      "2017",
+      "2022"
+    ],
+    "correct": 1,
+    "fact": "It was updated as NAIS 2.0 in December 2023."
+  },
+  {
+    "id": "tech_003",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What was the ancestor of the internet, launched in 1969, called?",
+    "answers": [
+      "NSFNET",
+      "Ethernet",
+      "Skynet",
+      "ARPANET"
+    ],
+    "correct": 3,
+    "fact": "Its first message in 1969 was meant to be 'LOGIN' but crashed after 'LO'."
+  },
+  {
+    "id": "tech_004",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is a CAPTCHA designed to do?",
+    "answers": [
+      "Speed up logins",
+      "Compress images",
+      "Tell humans from bots",
+      "Block pop-ups"
+    ],
+    "correct": 2,
+    "fact": "It stands for a 'Completely Automated Public Turing test'."
+  },
+  {
+    "id": "tech_005",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "AI Singapore, launched in 2017, is hosted by which university?",
+    "answers": [
+      "NUS",
+      "NTU",
+      "SMU",
+      "SUTD"
+    ],
+    "correct": 0,
+    "fact": "It is a national programme backed by the National Research Foundation."
+  },
+  {
+    "id": "tech_006",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The original 2007 iPhone could connect to 3G mobile networks.",
+    "answer": false,
+    "fact": "It used 2G EDGE; 3G arrived with the iPhone 3G in 2008."
+  },
+  {
+    "id": "tech_007",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many lines run in each direction on a standard Go board?",
+    "answer": 19,
+    "min": 9,
+    "max": 31,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "lines",
+    "fact": "A 19x19 board has 361 points to play."
+  },
+  {
+    "id": "tech_008",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which chip, first built for video games, became the workhorse for training AI models?",
+    "answers": [
+      "CPU",
+      "SSD",
+      "BIOS",
+      "GPU"
+    ],
+    "correct": 3,
+    "fact": "GPUs run many calculations at once, ideal for neural nets."
+  },
+  {
+    "id": "tech_009",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "A GPU can only be used for playing video games.",
+    "answer": false,
+    "fact": "GPUs also train AI models and render graphics."
+  },
+  {
+    "id": "tech_010",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Diffusion models like Stable Diffusion create images by gradually removing what?",
+    "answers": [
+      "Shadows",
+      "Compression",
+      "Noise",
+      "Watermarks"
+    ],
+    "correct": 2,
+    "fact": "They learn to turn random static into a picture."
+  },
+  {
+    "id": "tech_011",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was the Dartmouth workshop, which launched AI as a field, held?",
+    "answer": 1956,
+    "min": 1940,
+    "max": 2010,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "John McCarthy coined 'artificial intelligence' for it."
+  },
+  {
+    "id": "tech_012",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year did ChatGPT launch?",
+    "answer": 2022,
+    "min": 2012,
+    "max": 2026,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "It launched on 30 November 2022."
+  },
+  {
+    "id": "tech_013",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Learning from labelled examples, like photos tagged 'cat', is called what?",
+    "answers": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Transfer learning"
+    ],
+    "correct": 0,
+    "fact": "Unsupervised learning finds patterns without labels."
+  },
+  {
+    "id": "tech_014",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "ENIAC, completed in 1945, used what in place of transistors?",
+    "answers": [
+      "Mechanical gears",
+      "Silicon chips",
+      "Vacuum tubes",
+      "Magnetic tape"
+    ],
+    "correct": 2,
+    "fact": "ENIAC had roughly 18,000 vacuum tubes."
+  },
+  {
+    "id": "tech_015",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In AI, what does LLM stand for?",
+    "answers": [
+      "Long Learning Machine",
+      "Logical Language Matrix",
+      "Linear Logic Module",
+      "Large Language Model"
+    ],
+    "correct": 3,
+    "fact": "LLMs learn patterns in text to predict what comes next."
+  },
+  {
+    "id": "tech_016",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which company makes the Claude AI assistant?",
+    "answers": [
+      "OpenAI",
+      "Anthropic",
+      "Nvidia",
+      "Netflix"
+    ],
+    "correct": 1,
+    "fact": "Anthropic was founded in 2021."
+  },
+  {
+    "id": "tech_017",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Moore's law is a law of physics.",
+    "answer": false,
+    "fact": "It is an observation by Gordon Moore, not a law of nature."
+  },
+  {
+    "id": "tech_018",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was Google founded?",
+    "answer": 1998,
+    "min": 1990,
+    "max": 2015,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Larry Page and Sergey Brin founded it in September 1998."
+  },
+  {
+    "id": "tech_019",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 2012 neural network, trained on GPUs, won ImageNet and sparked the deep learning boom?",
+    "answers": [
+      "AlexNet",
+      "LeNet",
+      "ResNet",
+      "GoogLeNet"
+    ],
+    "correct": 0,
+    "fact": "AlexNet was built by Krizhevsky, Sutskever and Hinton."
+  },
+  {
+    "id": "tech_020",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does the 'GPT' in ChatGPT stand for?",
+    "answers": [
+      "Generative Pre-trained Transformer",
+      "General Purpose Technology",
+      "Graphical Processing Tool",
+      "Generated Prompt Text"
+    ],
+    "correct": 0,
+    "fact": "It names the type of model, not the chat app."
+  },
+  {
+    "id": "tech_021",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The world's first website was created at CERN.",
+    "answer": true,
+    "fact": "Tim Berners-Lee built it there to explain the Web itself."
+  },
+  {
+    "id": "tech_022",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who is often called the first computer programmer, for her notes on the Analytical Engine?",
+    "answers": [
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Hedy Lamarr",
+      "Katherine Johnson"
+    ],
+    "correct": 0,
+    "fact": "Her 1843 notes included an algorithm for Babbage's machine."
+  },
+  {
+    "id": "tech_023",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which programming language, created by Guido van Rossum, is named after a comedy troupe?",
+    "answers": [
+      "Python",
+      "Java",
+      "Ruby",
+      "Perl"
+    ],
+    "correct": 0,
+    "fact": "It is named after Monty Python; first released in 1991."
+  },
+  {
+    "id": "tech_024",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The 'Y2K bug' worried people because old programs often stored the year using how many digits?",
+    "answers": [
+      "One",
+      "Two",
+      "Four",
+      "Six"
+    ],
+    "correct": 1,
+    "fact": "'00 could be read as 1900 instead of 2000."
+  },
+  {
+    "id": "tech_025",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many bits make up an IPv4 address?",
+    "answer": 32,
+    "min": 8,
+    "max": 128,
+    "step": 1,
+    "tolerance": 4,
+    "unit": "bits",
+    "fact": "IPv4 allows about 4.3 billion addresses; IPv6 uses 128 bits."
+  },
+  {
+    "id": "tech_026",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "A moth found in a Harvard computer in 1947 helped popularise which term?",
+    "answers": [
+      "Virus",
+      "Cookie",
+      "Worm",
+      "Bug"
+    ],
+    "correct": 3,
+    "fact": "The moth was taped into the log, but 'bug' was already engineering slang."
+  },
+  {
+    "id": "tech_027",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which IBM computer beat world chess champion Garry Kasparov in 1997?",
+    "answers": [
+      "Watson",
+      "Deep Blue",
+      "AlphaGo",
+      "Deep Fritz"
+    ],
+    "correct": 1,
+    "fact": "Deep Blue won the six-game rematch 3.5 to 2.5."
+  },
+  {
+    "id": "tech_028",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who created the Linux kernel as a student in 1991?",
+    "answers": [
+      "Linus Torvalds",
+      "Richard Stallman",
+      "Dennis Ritchie",
+      "Bill Joy"
+    ],
+    "correct": 0,
+    "fact": "Torvalds was a Finnish student when he released it."
+  },
+  {
+    "id": "tech_029",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "How many bits are in one byte?",
+    "answers": [
+      "4",
+      "8",
+      "10",
+      "16"
+    ],
+    "correct": 1,
+    "fact": "A byte can hold 256 different values."
+  },
+  {
+    "id": "tech_030",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The QR code was invented in 1994 by engineers at which company?",
+    "answers": [
+      "Sony",
+      "Nokia",
+      "Samsung",
+      "Denso Wave"
+    ],
+    "correct": 3,
+    "fact": "It was first used to track car parts in Japan."
+  },
+  {
+    "id": "tech_031",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which company owns the AI lab DeepMind, creator of AlphaGo?",
+    "answers": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Amazon"
+    ],
+    "correct": 0,
+    "fact": "Google bought DeepMind in 2014."
+  },
+  {
+    "id": "tech_032",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What are the adjustable numbers inside a neural network, tuned during training, called?",
+    "answers": [
+      "Cookies",
+      "Pixels",
+      "Bookmarks",
+      "Weights"
+    ],
+    "correct": 3,
+    "fact": "Large models have billions of weights, also called parameters."
+  },
+  {
+    "id": "tech_033",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is a 'token' in a large language model?",
+    "answers": [
+      "A password for the AI",
+      "A paid login credit",
+      "A chunk of text, like a word piece",
+      "One layer of the network"
+    ],
+    "correct": 2,
+    "fact": "Models read and write text as sequences of tokens."
+  },
+  {
+    "id": "tech_034",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does CPU stand for?",
+    "answers": [
+      "Computer Personal Unit",
+      "Central Processing Unit",
+      "Central Program Utility",
+      "Core Power Unit"
+    ],
+    "correct": 1,
+    "fact": "The CPU is often called the brain of a computer."
+  },
+  {
+    "id": "tech_035",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "In machine learning, 'training' means using a finished model to answer questions.",
+    "answer": false,
+    "fact": "That is inference; training is how the model learns."
+  },
+  {
+    "id": "tech_036",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What are the periods of cut funding and fading hype in AI, like the 1970s and late 1980s, called?",
+    "answers": [
+      "Silicon droughts",
+      "Turing freezes",
+      "Dartmouth lulls",
+      "AI winters"
+    ],
+    "correct": 3,
+    "fact": "The first chill followed critical reports such as Britain's 1973 Lighthill report."
+  },
+  {
+    "id": "tech_037",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does 'AGI' stand for in AI discussions?",
+    "answers": [
+      "Automated Graphics Interface",
+      "Advanced Gaming Intelligence",
+      "Artificial General Intelligence",
+      "Applied Genetic Engineering"
+    ],
+    "correct": 2,
+    "fact": "It means AI that can handle any task a human can."
+  },
+  {
+    "id": "tech_038",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Singapore's National AI Strategy was first released before ChatGPT launched.",
+    "answer": true,
+    "fact": "The strategy appeared in 2019; ChatGPT launched in 2022."
+  },
+  {
+    "id": "tech_039",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "IBM's famous question-answering AI from 2011 was named after the company's first leader. What was it called?",
+    "answers": [
+      "Deep Blue",
+      "Hal",
+      "Watson",
+      "Sherlock"
+    ],
+    "correct": 2,
+    "fact": "Watson was named after Thomas J. Watson, IBM's first CEO."
+  },
+  {
+    "id": "tech_040",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What do we call it when an AI confidently states something false?",
+    "answers": [
+      "Hallucination",
+      "Daydreaming",
+      "Overclocking",
+      "Buffering"
+    ],
+    "correct": 0,
+    "fact": "Chatbots produce plausible text, not guaranteed truth."
+  },
+  {
+    "id": "tech_041",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who invented the World Wide Web while working at CERN?",
+    "answers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee",
+      "Vint Cerf"
+    ],
+    "correct": 2,
+    "fact": "He proposed it in 1989 while working at CERN."
+  },
+  {
+    "id": "tech_042",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The Wi-Fi brand covers which family of wireless standards?",
+    "answers": [
+      "IEEE 1394",
+      "USB 3.0",
+      "IEEE 802.11",
+      "HDMI 2.1"
+    ],
+    "correct": 2,
+    "fact": "The Wi-Fi Alliance certifies devices using the 802.11 standards."
+  },
+  {
+    "id": "tech_043",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is it called when a model memorises its training data and flops on new data?",
+    "answers": [
+      "Underfitting",
+      "Pre-training",
+      "Overfitting",
+      "Fine-tuning"
+    ],
+    "correct": 2,
+    "fact": "It aces the practice test and fails the real exam."
+  },
+  {
+    "id": "tech_044",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In computing, what does RAM stand for?",
+    "answers": [
+      "Rapid Application Manager",
+      "Read-Aloud Module",
+      "Random Access Memory",
+      "Run All Memory"
+    ],
+    "correct": 2,
+    "fact": "RAM is short-term memory and empties when power is cut."
+  },
+  {
+    "id": "tech_045",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is it called when a trained AI model is used to produce answers?",
+    "answers": [
+      "Inference",
+      "Training",
+      "Compiling",
+      "Debugging"
+    ],
+    "correct": 0,
+    "fact": "Training builds the model; inference is using it."
+  },
+  {
+    "id": "tech_046",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What was ELIZA, created at MIT in the 1960s?",
+    "answers": [
+      "A chess-playing program",
+      "An early chatbot mimicking a therapist",
+      "A robotic arm",
+      "A programming language"
+    ],
+    "correct": 1,
+    "fact": "Joseph Weizenbaum's ELIZA (1966) used simple pattern matching."
+  },
+  {
+    "id": "tech_047",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who built the perceptron, an early artificial neural network, in 1958?",
+    "answers": [
+      "Geoffrey Hinton",
+      "John McCarthy",
+      "Frank Rosenblatt",
+      "Marvin Minsky"
+    ],
+    "correct": 2,
+    "fact": "Rosenblatt's perceptron learned to sort simple patterns."
+  },
+  {
+    "id": "tech_048",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is SEA-LION, built under AI Singapore?",
+    "answers": [
+      "A Merlion-themed robot",
+      "A data centre in Jurong",
+      "An LLM for Southeast Asian languages",
+      "A facial-recognition camera"
+    ],
+    "correct": 2,
+    "fact": "It stands for Southeast Asian Languages In One Network."
+  },
+  {
+    "id": "tech_049",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was the transistor invented at Bell Labs?",
+    "answer": 1947,
+    "min": 1925,
+    "max": 1975,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "It replaced bulky vacuum tubes in electronics."
+  },
+  {
+    "id": "tech_050",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 2017 Google paper introduced the transformer architecture behind modern chatbots?",
+    "answers": [
+      "Deep Residual Learning",
+      "Attention Is All You Need",
+      "Playing Atari with Deep RL",
+      "Generative Adversarial Nets"
+    ],
+    "correct": 1,
+    "fact": "It replaced older recurrent designs with self-attention."
+  },
+  {
+    "id": "tech_051",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "ChatGPT was released before AlphaGo beat Lee Sedol.",
+    "answer": false,
+    "fact": "AlphaGo won in 2016; ChatGPT arrived in 2022."
+  },
+  {
+    "id": "tech_052",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In reinforcement learning, what does an agent learn from?",
+    "answers": [
+      "Labelled photo albums",
+      "Rewards and penalties",
+      "Pure random guessing",
+      "Copying other agents"
+    ],
+    "correct": 1,
+    "fact": "It is how AIs learn games like Go by playing."
+  },
+  {
+    "id": "tech_053",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did AlphaGo beat Go champion Lee Sedol?",
+    "answer": 2016,
+    "min": 2005,
+    "max": 2022,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "AlphaGo won the five-game match 4 to 1."
+  },
+  {
+    "id": "tech_054",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does 'HTTP' stand for?",
+    "answers": [
+      "HyperText Transfer Protocol",
+      "HyperText Transmission Process",
+      "High-Tech Transfer Program",
+      "Hyperlink Text Tracking Page"
+    ],
+    "correct": 0,
+    "fact": "The 'S' in HTTPS means secure."
+  },
+  {
+    "id": "tech_055",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which trio shared the 2018 Turing Award for their work on deep learning?",
+    "answers": [
+      "Ng, Hassabis and Sutskever",
+      "Minsky, Newell and Simon",
+      "Hinton, LeCun and Bengio",
+      "Goodfellow, Karpathy and Li"
+    ],
+    "correct": 2,
+    "fact": "The Turing Award is often called computing's Nobel Prize."
+  },
+  {
+    "id": "tech_056",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Alan Turing proposed the 'imitation game' test in 1950.",
+    "answer": true,
+    "fact": "Now called the Turing test, it asks if a machine can pass as human."
+  },
+  {
+    "id": "tech_057",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 1971 program, which displayed 'I'M THE CREEPER: CATCH ME IF YOU CAN', is often called the first computer worm?",
+    "answers": [
+      "Creeper",
+      "Melissa",
+      "ILOVEYOU",
+      "Stuxnet"
+    ],
+    "correct": 0,
+    "fact": "It crawled across ARPANET; a program called Reaper deleted it."
+  },
+  {
+    "id": "tech_058",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who proposed a famous 'imitation game' test of machine intelligence in 1950?",
+    "answers": [
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann",
+      "Claude Shannon"
+    ],
+    "correct": 0,
+    "fact": "His 1950 paper opened with the question 'Can machines think?'"
+  },
+  {
+    "id": "tech_059",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "PayNow, launched in Singapore in 2017, is a service for what?",
+    "answers": [
+      "Renting bicycles",
+      "Booking taxis",
+      "Checking bus times",
+      "Instant person-to-person money transfers"
+    ],
+    "correct": 3,
+    "fact": "Transfers use a mobile number or NRIC; it launched in July 2017."
+  },
+  {
+    "id": "tech_060",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Moore's law, named for Intel co-founder Gordon Moore, concerns the count of what on a chip?",
+    "answers": [
+      "Pixels",
+      "Pins",
+      "Programmers",
+      "Transistors"
+    ],
+    "correct": 3,
+    "fact": "In 1965 he predicted chip transistor counts would keep doubling."
+  },
+  {
+    "id": "tech_061",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did Tim Berners-Lee propose the World Wide Web?",
+    "answer": 1989,
+    "min": 1970,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "He wrote the proposal while working at CERN."
+  },
+  {
+    "id": "tech_062",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which 1947 Bell Labs invention replaced bulky vacuum tubes in computers?",
+    "answers": [
+      "The microchip",
+      "The transistor",
+      "The laser",
+      "The capacitor"
+    ],
+    "correct": 1,
+    "fact": "Bardeen, Brattain and Shockley won the 1956 Physics Nobel."
+  },
+  {
+    "id": "tech_063",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "IBM's Deep Blue won a six-game match against Garry Kasparov in 1997.",
+    "answer": true,
+    "fact": "It was the first computer to beat a reigning world champion in a match."
+  },
+  {
+    "id": "tech_064",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "GPT-3 (2020) had how many billions of parameters?",
+    "answer": 175,
+    "min": 50,
+    "max": 400,
+    "step": 5,
+    "tolerance": 25,
+    "unit": "billion",
+    "fact": "Its predecessor GPT-2 had 1.5 billion."
+  },
+  {
+    "id": "tech_065",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Singapore app, launched in March 2020, used Bluetooth to help trace COVID-19 contacts?",
+    "answers": [
+      "Singpass",
+      "TraceTogether",
+      "PayNow",
+      "HealthHub"
+    ],
+    "correct": 1,
+    "fact": "It later also came as a physical token."
+  },
+  {
+    "id": "tech_066",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What two parts make up a GAN, or generative adversarial network?",
+    "answers": [
+      "A compiler and a debugger",
+      "A generator and a discriminator",
+      "An encoder and a firewall",
+      "A teacher and a proxy server"
+    ],
+    "correct": 1,
+    "fact": "Ian Goodfellow and colleagues introduced GANs in 2014."
+  },
+  {
+    "id": "tech_067",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did Alan Turing publish his paper 'Computing Machinery and Intelligence'?",
+    "answer": 1950,
+    "min": 1930,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "The paper introduced what we now call the Turing test."
+  },
+  {
+    "id": "tech_068",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "The Linux kernel was created by Bill Gates.",
+    "answer": false,
+    "fact": "Linus Torvalds released it in 1991."
+  },
+  {
+    "id": "tech_069",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What mechanism lets a transformer weigh how relevant each word is to every other word?",
+    "answers": [
+      "Backtracking",
+      "Self-attention",
+      "Garbage collection",
+      "Caching"
+    ],
+    "correct": 1,
+    "fact": "It is the key idea in the 2017 transformer paper."
+  },
+  {
+    "id": "tech_070",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In AI, what is an 'embedding'?",
+    "answers": [
+      "A hidden backdoor in the code",
+      "A watermark inside an image",
+      "A copy of the model on a phone",
+      "A list of numbers capturing meaning"
+    ],
+    "correct": 3,
+    "fact": "Words with similar meanings get nearby embeddings."
+  },
+  {
+    "id": "tech_071",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year did the first iPhone go on sale?",
+    "answer": 2007,
+    "min": 1998,
+    "max": 2020,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Steve Jobs unveiled it in January 2007."
+  },
+  {
+    "id": "tech_072",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "Roughly how many tons did the ENIAC computer weigh?",
+    "answer": 30,
+    "min": 5,
+    "max": 80,
+    "step": 1,
+    "tolerance": 5,
+    "unit": "tons",
+    "fact": "ENIAC filled a large room at the University of Pennsylvania."
+  },
+  {
+    "id": "tech_073",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who coined the term 'artificial intelligence' for the 1956 Dartmouth workshop?",
+    "answers": [
+      "John McCarthy",
+      "Marvin Minsky",
+      "Alan Turing",
+      "Herbert Simon"
+    ],
+    "correct": 0,
+    "fact": "McCarthy, Minsky, Rochester and Shannon proposed the workshop."
+  },
+  {
+    "id": "tech_074",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the name of Singapore's national digital ID login for government services?",
+    "answers": [
+      "PayLah",
+      "MyRepublic",
+      "Singpass",
+      "EZ-Link"
+    ],
+    "correct": 2,
+    "fact": "Singpass began in 2003 and now has a mobile app."
+  },
+  {
+    "id": "tech_075",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which OpenAI chatbot, launched in November 2022, made generative AI a household topic?",
+    "answers": [
+      "Siri",
+      "Alexa",
+      "Cortana",
+      "ChatGPT"
+    ],
+    "correct": 3,
+    "fact": "ChatGPT launched on 30 November 2022."
+  },
+  {
+    "id": "tech_076",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The Turing test was proposed before the term 'artificial intelligence' was coined.",
+    "answer": true,
+    "fact": "Turing's paper was 1950; the term was coined for the 1956 Dartmouth workshop."
+  },
+  {
+    "id": "tech_077",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "AlphaFold, from Google DeepMind, made a breakthrough in predicting what?",
+    "answers": [
+      "Tomorrow's weather",
+      "3D shapes of proteins",
+      "Stock prices",
+      "Chess endgames"
+    ],
+    "correct": 1,
+    "fact": "Hassabis and Jumper shared the 2024 Chemistry Nobel for it."
+  },
+  {
+    "id": "tech_078",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the text instruction you type to a chatbot called?",
+    "answers": [
+      "A patch",
+      "A prompt",
+      "A packet",
+      "A pointer"
+    ],
+    "correct": 1,
+    "fact": "Better prompts often get better answers."
+  },
+  {
+    "id": "tech_079",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Training an existing model further on specialised data is called what?",
+    "answers": [
+      "Fine-tuning",
+      "Overclocking",
+      "Debugging",
+      "Jailbreaking"
+    ],
+    "correct": 0,
+    "fact": "It adapts a general model to a specific job."
+  },
+  {
+    "id": "tech_080",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Artificial neural networks are loosely inspired by what?",
+    "answers": [
+      "Spider webs",
+      "Subway maps",
+      "Telephone exchanges",
+      "The brain's neurons"
+    ],
+    "correct": 3,
+    "fact": "Real brains have roughly 86 billion neurons."
+  },
+  {
+    "id": "tech_081",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does GPU stand for?",
+    "answers": [
+      "General Processing Utility",
+      "Graphical Power Unit",
+      "Game Playing Utility",
+      "Graphics Processing Unit"
+    ],
+    "correct": 3,
+    "fact": "It was originally built to draw game graphics quickly."
+  },
+  {
+    "id": "tech_082",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which board game did DeepMind's AlphaGo play to beat champion Lee Sedol in 2016?",
+    "answers": [
+      "Chess",
+      "Shogi",
+      "Checkers",
+      "Go"
+    ],
+    "correct": 3,
+    "fact": "AlphaGo won the five-game match 4 to 1."
+  },
+  {
+    "id": "tech_083",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which training method, popularised in 1986 by Rumelhart, Hinton and Williams, passes errors backwards through a network?",
+    "answers": [
+      "K-means clustering",
+      "Random forests",
+      "Backpropagation",
+      "Genetic algorithms"
+    ],
+    "correct": 2,
+    "fact": "Backprop nudges each weight to shrink the error."
+  },
+  {
+    "id": "tech_084",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Singapore launch its Smart Nation initiative?",
+    "answer": 2014,
+    "min": 2000,
+    "max": 2025,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It was announced by PM Lee Hsien Loong in November 2014."
+  },
+  {
+    "id": "tech_085",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does a chatbot like ChatGPT mostly do, one small step at a time?",
+    "answers": [
+      "Looks answers up in a library",
+      "Translates everything into binary",
+      "Predicts the next word piece",
+      "Draws a picture first"
+    ],
+    "correct": 2,
+    "fact": "It repeats that guess again and again to build whole sentences."
+  },
+  {
+    "id": "tech_086",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"AI\" stand for?",
+    "answers": [
+      "Artificial intelligence",
+      "Automatic interface",
+      "Advanced internet",
+      "Applied instruction"
+    ],
+    "correct": 0,
+    "fact": "The name dates from the 1950s."
+  },
+  {
+    "id": "tech_087",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In image-recognition AI, what does \"CNN\" stand for?",
+    "answers": [
+      "Connected node network",
+      "Convolutional neural network",
+      "Computed number notation",
+      "Cascading neuron net"
+    ],
+    "correct": 1,
+    "fact": "Its filters slide across a picture to spot edges, then shapes."
+  },
+  {
+    "id": "tech_088",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What does turning up the \"temperature\" on a chatbot do?",
+    "answers": [
+      "Makes the computer run hotter",
+      "Speeds up its typing",
+      "Switches it to another language",
+      "Makes replies more random and varied"
+    ],
+    "correct": 3,
+    "fact": "A low temperature gives steadier, more predictable answers."
+  },
+  {
+    "id": "tech_089",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is a chatbot's \"context window\"?",
+    "answers": [
+      "The screen it appears on",
+      "The time it takes to reply",
+      "Its list of banned words",
+      "How much text it can consider at once"
+    ],
+    "correct": 3,
+    "fact": "A bigger window lets it read longer documents."
+  },
+  {
+    "id": "tech_090",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "RLHF helps polish chatbots. What does the \"HF\" stand for?",
+    "answers": [
+      "High fidelity",
+      "Hidden features",
+      "Human feedback",
+      "Hyper filtering"
+    ],
+    "correct": 2,
+    "fact": "People rank answers, and the model learns to prefer the ones people like."
+  },
+  {
+    "id": "tech_091",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which Google language model from 2018 reads text in both directions at once?",
+    "answers": [
+      "ELIZA",
+      "BERT",
+      "SHRDLU",
+      "AlexNet"
+    ],
+    "correct": 1,
+    "fact": "The name stands for Bidirectional Encoder Representations from Transformers."
+  },
+  {
+    "id": "tech_092",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 2013 Google technique turned words into vectors, so \"king\" and \"queen\" sit close together?",
+    "answers": [
+      "Word2vec",
+      "Perceptron",
+      "Deep Blue",
+      "Wolfram Alpha"
+    ],
+    "correct": 0,
+    "fact": "Famously, king minus man plus woman lands near queen."
+  },
+  {
+    "id": "tech_093",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who led the creation of ImageNet, the huge labelled photo set that fuelled deep learning?",
+    "answers": [
+      "Fei-Fei Li",
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Margaret Hamilton"
+    ],
+    "correct": 0,
+    "fact": "Its yearly contest gave researchers a shared test to beat."
+  },
+  {
+    "id": "tech_094",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which two researchers wrote the 1969 book \"Perceptrons\", which cooled interest in neural nets?",
+    "answers": [
+      "Hinton and LeCun",
+      "Turing and Shannon",
+      "Minsky and Papert",
+      "McCarthy and Newell"
+    ],
+    "correct": 2,
+    "fact": "It showed the limits of the simplest one-layer networks."
+  },
+  {
+    "id": "tech_095",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who coined the phrase \"machine learning\" in 1959 while teaching a computer to play checkers?",
+    "answers": [
+      "Bill Joy",
+      "Arthur Samuel",
+      "Larry Page",
+      "Steve Wozniak"
+    ],
+    "correct": 1,
+    "fact": "His checkers program improved by playing against itself."
+  },
+  {
+    "id": "tech_096",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Why did AlphaGo's \"Move 37\" against Lee Sedol become so famous?",
+    "answers": [
+      "It broke the rules of Go",
+      "It was a typing mistake",
+      "It ended the game instantly",
+      "Experts found it bold and unexpected"
+    ],
+    "correct": 3,
+    "fact": "Commentators first thought it was a blunder, then saw it was brilliant."
+  },
+  {
+    "id": "tech_097",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Google builds its own AI chips called what?",
+    "answers": [
+      "DVDs",
+      "SSDs",
+      "USBs",
+      "TPUs"
+    ],
+    "correct": 3,
+    "fact": "TPU stands for Tensor Processing Unit."
+  },
+  {
+    "id": "tech_098",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "A neural network is called \"deep\" when it has what?",
+    "answers": [
+      "A very large screen",
+      "Hidden source code",
+      "Many layers",
+      "Slow answers"
+    ],
+    "correct": 2,
+    "fact": "Deep learning gets its name from stacks of layers."
+  },
+  {
+    "id": "tech_099",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Geoffrey Hinton shared the 2024 Nobel Prize in which subject?",
+    "answers": [
+      "Physics",
+      "Chemistry",
+      "Literature",
+      "Medicine"
+    ],
+    "correct": 0,
+    "fact": "He shared it with John Hopfield for work on artificial neural networks."
+  },
+  {
+    "id": "tech_100",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What do we call software that can plan steps and use tools to finish a task for you?",
+    "answers": [
+      "A screensaver",
+      "An AI agent",
+      "A firewall",
+      "A compiler"
+    ],
+    "correct": 1,
+    "fact": "Agents often pair a language model with tools like search or code."
+  },
+  {
+    "id": "tech_101",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "An AI that can handle text, images and audio together is called what?",
+    "answers": [
+      "Multicore",
+      "Multithreaded",
+      "Multiplayer",
+      "Multimodal"
+    ],
+    "correct": 3,
+    "fact": "Here, \"mode\" means a type of input, like pictures or sound."
+  },
+  {
+    "id": "tech_102",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In training an AI, what does gradient descent do?",
+    "answers": [
+      "Nudges settings downhill to cut errors",
+      "Deletes bad data",
+      "Compresses the model",
+      "Draws a graph of results"
+    ],
+    "correct": 0,
+    "fact": "Imagine walking downhill in fog, feeling for the steepest slope."
+  },
+  {
+    "id": "tech_103",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Meta's family of open-weights language models is named after which animal?",
+    "answers": [
+      "Tiger",
+      "Llama",
+      "Otter",
+      "Heron"
+    ],
+    "correct": 1,
+    "fact": "Open weights means anyone can download the trained model."
+  },
+  {
+    "id": "tech_104",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Voice assistants first turn your speech into what, so software can work with it?",
+    "answers": [
+      "Colours",
+      "Shapes",
+      "Text",
+      "Smells"
+    ],
+    "correct": 2,
+    "fact": "Speech recognition turns sounds into written words."
+  },
+  {
+    "id": "tech_105",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which of these is an AI image generator?",
+    "answers": [
+      "Midjourney",
+      "Notepad",
+      "Calculator",
+      "Excel"
+    ],
+    "correct": 0,
+    "fact": "You type a description and it paints a picture for you."
+  },
+  {
+    "id": "tech_106",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Self-driving cars measure distance by bouncing laser pulses off objects. What is this sensor called?",
+    "answers": [
+      "Sonar",
+      "Barometer",
+      "Walkie-talkie",
+      "LiDAR"
+    ],
+    "correct": 3,
+    "fact": "LiDAR stands for light detection and ranging."
+  },
+  {
+    "id": "tech_107",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"USB\" stand for?",
+    "answers": [
+      "Ultra Speed Base",
+      "Universal Serial Bus",
+      "Unified Signal Box",
+      "United System Board"
+    ],
+    "correct": 1,
+    "fact": "It was designed in the 1990s to replace a jumble of different ports."
+  },
+  {
+    "id": "tech_108",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Bluetooth is named after a medieval king of which country?",
+    "answers": [
+      "Sweden",
+      "Scotland",
+      "Denmark",
+      "Iceland"
+    ],
+    "correct": 2,
+    "fact": "Its logo combines the old Nordic runes for Harald Bluetooth's initials."
+  },
+  {
+    "id": "tech_109",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which game stacks falling blocks called tetrominoes?",
+    "answers": [
+      "Pong",
+      "Snake",
+      "Pac-Man",
+      "Tetris"
+    ],
+    "correct": 3,
+    "fact": "It was created by Alexey Pajitnov in the Soviet Union."
+  },
+  {
+    "id": "tech_110",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which company makes the PlayStation?",
+    "answers": [
+      "Nintendo",
+      "Sega",
+      "Sony",
+      "Microsoft"
+    ],
+    "correct": 2,
+    "fact": "The first PlayStation grew from a failed Nintendo partnership."
+  },
+  {
+    "id": "tech_111",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Satoshi Nakamoto is the name used by the creator of which digital currency?",
+    "answers": [
+      "Bitcoin",
+      "Ethereum",
+      "Dogecoin",
+      "Litecoin"
+    ],
+    "correct": 0,
+    "fact": "The real identity behind the name has never been confirmed."
+  },
+  {
+    "id": "tech_112",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who built Apple's early computers alongside co-founder Steve Jobs?",
+    "answers": [
+      "Bill Gates",
+      "Steve Wozniak",
+      "Paul Allen",
+      "Larry Ellison"
+    ],
+    "correct": 1,
+    "fact": "Wozniak designed the circuit boards while Jobs handled the vision."
+  },
+  {
+    "id": "tech_113",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What was the first text message ever sent, in December 1992?",
+    "answers": [
+      "Hello world",
+      "Merry Christmas",
+      "Can you hear me?",
+      "Happy birthday"
+    ],
+    "correct": 1,
+    "fact": "Engineer Neil Papworth sent it to a colleague's phone."
+  },
+  {
+    "id": "tech_114",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which symbol did Ray Tomlinson pick for email addresses in the early 1970s?",
+    "answers": [
+      "#",
+      "&",
+      "@",
+      "%"
+    ],
+    "correct": 2,
+    "fact": "It separates the user's name from the computer's name."
+  },
+  {
+    "id": "tech_115",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who invented the computer mouse in the 1960s?",
+    "answers": [
+      "Douglas Engelbart",
+      "Steve Jobs",
+      "Alan Turing",
+      "Tim Berners-Lee"
+    ],
+    "correct": 0,
+    "fact": "The first mouse had a wooden shell."
+  },
+  {
+    "id": "tech_116",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In web pages, what does \"HTML\" stand for?",
+    "answers": [
+      "High Tech Machine Language",
+      "Home Tool Markup Language",
+      "HyperText Machine Logic",
+      "HyperText Markup Language"
+    ],
+    "correct": 3,
+    "fact": "It describes the structure of a web page."
+  },
+  {
+    "id": "tech_117",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which operating system has a penguin mascot named Tux?",
+    "answers": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "correct": 1,
+    "fact": "Tux has been the mascot since the 1990s."
+  },
+  {
+    "id": "tech_118",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which tool, created by Linus Torvalds in 2005, tracks changes to code?",
+    "answers": [
+      "Docker",
+      "Excel",
+      "Slack",
+      "Git"
+    ],
+    "correct": 3,
+    "fact": "Most software teams use it today."
+  },
+  {
+    "id": "tech_119",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Nintendo, maker of the Switch, began in 1889 making what?",
+    "answers": [
+      "Tea sets",
+      "Bicycles",
+      "Playing cards",
+      "Silk kimonos"
+    ],
+    "correct": 2,
+    "fact": "Its first products were hanafuda, Japanese flower cards."
+  },
+  {
+    "id": "tech_120",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Singapore company created the Sound Blaster sound card?",
+    "answers": [
+      "Creative Technology",
+      "Dell",
+      "Garmin",
+      "Logitech"
+    ],
+    "correct": 0,
+    "fact": "Creative, founded in 1981, helped put sound into PCs."
+  },
+  {
+    "id": "tech_121",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Grab began in 2012 as a taxi app in which country?",
+    "answers": [
+      "Singapore",
+      "Indonesia",
+      "Thailand",
+      "Malaysia"
+    ],
+    "correct": 3,
+    "fact": "It started life under the name MyTeksi."
+  },
+  {
+    "id": "tech_122",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which engineer designed the first emoji set for a Japanese phone company in the late 1990s?",
+    "answers": [
+      "Satoshi Tajiri",
+      "Shigetaka Kurita",
+      "Hideo Kojima",
+      "Masayoshi Son"
+    ],
+    "correct": 1,
+    "fact": "That first set had 176 tiny pictures, each just 12 by 12 pixels."
+  },
+  {
+    "id": "tech_123",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Raspberry Pi is a tiny, low-cost computer first made in which country?",
+    "answers": [
+      "United Kingdom",
+      "Japan",
+      "Sweden",
+      "South Korea"
+    ],
+    "correct": 0,
+    "fact": "It was designed to help students learn coding."
+  },
+  {
+    "id": "tech_124",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What number is the binary value 101 in everyday counting?",
+    "answers": [
+      "3",
+      "6",
+      "5",
+      "10"
+    ],
+    "correct": 2,
+    "fact": "Binary counts in twos: 4 plus 0 plus 1."
+  },
+  {
+    "id": "tech_125",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is a web \"cookie\"?",
+    "answers": [
+      "A kind of computer virus",
+      "A pop-up advert",
+      "A password manager",
+      "A small file saved by a website"
+    ],
+    "correct": 3,
+    "fact": "Some cookies keep you logged in."
+  },
+  {
+    "id": "tech_126",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What does the padlock beside a web address mainly show?",
+    "answers": [
+      "The connection is encrypted",
+      "The site is definitely trustworthy",
+      "Adverts are blocked",
+      "It belongs to a bank"
+    ],
+    "correct": 0,
+    "fact": "It says the connection is private, not that the site is honest."
+  },
+  {
+    "id": "tech_127",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which habit best protects your online accounts?",
+    "answers": [
+      "Reusing one favourite password",
+      "Sharing codes with friends",
+      "A unique password for each account",
+      "Posting your password hints"
+    ],
+    "correct": 2,
+    "fact": "A password manager can remember them all for you."
+  },
+  {
+    "id": "tech_128",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What do phishing messages try to do?",
+    "answers": [
+      "Speed up your phone",
+      "Trick you into giving away private info",
+      "Delete spam for you",
+      "Update your apps"
+    ],
+    "correct": 1,
+    "fact": "The name is a pun on fishing."
+  },
+  {
+    "id": "tech_129",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does the DNS do on the internet?",
+    "answers": [
+      "Stores your passwords",
+      "Turns site names into numeric addresses",
+      "Blocks viruses",
+      "Compresses photos"
+    ],
+    "correct": 1,
+    "fact": "It works like the internet's phone book."
+  },
+  {
+    "id": "tech_130",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Alan Turing helped break which German wartime cipher machine?",
+    "answers": [
+      "Morse",
+      "Navajo",
+      "Colossus",
+      "Enigma"
+    ],
+    "correct": 3,
+    "fact": "The work was done at Bletchley Park."
+  },
+  {
+    "id": "tech_131",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Admiral Grace Hopper helped create which early business programming language?",
+    "answers": [
+      "FORTRAN",
+      "BASIC",
+      "COBOL",
+      "Pascal"
+    ],
+    "correct": 2,
+    "fact": "COBOL still runs in many banks today."
+  },
+  {
+    "id": "tech_132",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which programming language did Dennis Ritchie create at Bell Labs in the early 1970s?",
+    "answers": [
+      "C",
+      "Java",
+      "Ruby",
+      "Swift"
+    ],
+    "correct": 0,
+    "fact": "The Unix operating system was rewritten in it."
+  },
+  {
+    "id": "tech_133",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What was the first widely used graphical web browser, released in 1993?",
+    "answers": [
+      "Netscape",
+      "Opera",
+      "Lynx",
+      "Mosaic"
+    ],
+    "correct": 3,
+    "fact": "It helped put pictures on the web."
+  },
+  {
+    "id": "tech_134",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "AlphaZero taught itself chess by playing against itself.",
+    "answer": true,
+    "fact": "It started knowing only the rules, then trained through self-play."
+  },
+  {
+    "id": "tech_135",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "An AI trained on biased data can give biased answers.",
+    "answer": true,
+    "fact": "Garbage in, garbage out applies to AI too."
+  },
+  {
+    "id": "tech_136",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Email existed before the World Wide Web.",
+    "answer": true,
+    "fact": "The first email was sent in the early 1970s, nearly two decades earlier."
+  },
+  {
+    "id": "tech_137",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The @ sign was invented for email.",
+    "answer": false,
+    "fact": "Merchants used @ for centuries before email adopted it."
+  },
+  {
+    "id": "tech_138",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The internet and the World Wide Web are exactly the same thing.",
+    "answer": false,
+    "fact": "The web is just one service that runs on the internet."
+  },
+  {
+    "id": "tech_139",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Private or incognito browsing makes you invisible to the websites you visit.",
+    "answer": false,
+    "fact": "It mainly stops your own browser from saving your history."
+  },
+  {
+    "id": "tech_140",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Computers made by Apple cannot get viruses.",
+    "answer": false,
+    "fact": "No system is immune, so updates still matter."
+  },
+  {
+    "id": "tech_141",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Wi-Fi officially stands for \"wireless fidelity\".",
+    "answer": false,
+    "fact": "It is just a brand name, and the phrase was never official."
+  },
+  {
+    "id": "tech_142",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The first domain name ever registered was symbolics.com.",
+    "answer": true,
+    "fact": "It was registered in 1985, long before most people were online."
+  },
+  {
+    "id": "tech_143",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Early computers were often programmed using punched cards.",
+    "answer": true,
+    "fact": "Holes in stiff paper cards stood for instructions and data."
+  },
+  {
+    "id": "tech_144",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Google's search engine was originally called BackRub.",
+    "answer": true,
+    "fact": "It was renamed Google in 1997, a play on the number googol."
+  },
+  {
+    "id": "tech_145",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Amazon began as an online bookstore.",
+    "answer": true,
+    "fact": "It later added almost everything else."
+  },
+  {
+    "id": "tech_146",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Snake came pre-installed on many Nokia phones.",
+    "answer": true,
+    "fact": "It was a hit on the Nokia 6110 in the late 1990s."
+  },
+  {
+    "id": "tech_147",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "In binary, 0 and 1 stand for off and on.",
+    "answer": true,
+    "fact": "Everything on a computer is built from those two states."
+  },
+  {
+    "id": "tech_148",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "Roughly how many chess positions per second could Deep Blue examine, in millions?",
+    "answer": 200,
+    "min": 10,
+    "max": 1000,
+    "step": 5,
+    "tolerance": 40,
+    "unit": "million",
+    "fact": "Deep Blue used special chips built for chess."
+  },
+  {
+    "id": "tech_149",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was the first handheld mobile phone call made?",
+    "answer": 1973,
+    "min": 1940,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "Martin Cooper of Motorola made it from a New York street."
+  },
+  {
+    "id": "tech_150",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was Microsoft founded?",
+    "answer": 1975,
+    "min": 1950,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Bill Gates and Paul Allen started it in Albuquerque."
+  },
+  {
+    "id": "tech_151",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year was Facebook launched?",
+    "answer": 2004,
+    "min": 1990,
+    "max": 2015,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It began as a site for students at one university."
+  },
+  {
+    "id": "tech_152",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "In what year was YouTube founded?",
+    "answer": 2005,
+    "min": 1995,
+    "max": 2015,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "The first video was uploaded in April 2005."
+  },
+  {
+    "id": "tech_153",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did Wikipedia launch?",
+    "answer": 2001,
+    "min": 1990,
+    "max": 2015,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It now exists in hundreds of languages."
+  },
+  {
+    "id": "tech_154",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was Amazon founded?",
+    "answer": 1994,
+    "min": 1980,
+    "max": 2005,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Jeff Bezos started it in his garage in Washington state."
+  },
+  {
+    "id": "tech_155",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did the first Apple Macintosh go on sale?",
+    "answer": 1984,
+    "min": 1970,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Its launch ad aired during the Super Bowl."
+  },
+  {
+    "id": "tech_156",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Sony's original PlayStation launch in Japan?",
+    "answer": 1994,
+    "min": 1980,
+    "max": 2005,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It sold over 100 million units."
+  },
+  {
+    "id": "tech_157",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was the first email sent over a network?",
+    "answer": 1971,
+    "min": 1950,
+    "max": 1990,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "year",
+    "fact": "Ray Tomlinson sent it between two computers in the same room."
+  },
+  {
+    "id": "tech_158",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many bits make up an IPv6 address?",
+    "answer": 128,
+    "min": 32,
+    "max": 256,
+    "step": 1,
+    "tolerance": 4,
+    "unit": "bits",
+    "fact": "IPv6 has far more addresses than IPv4."
+  },
+  {
+    "id": "tech_159",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many bytes are in one kilobyte in the traditional binary sense?",
+    "answer": 1024,
+    "min": 500,
+    "max": 2000,
+    "step": 5,
+    "tolerance": 5,
+    "unit": "bytes",
+    "fact": "It comes from 2 multiplied by itself ten times."
+  },
+  {
+    "id": "tech_160",
+    "category": "technology",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year did Atari release the arcade game Pong?",
+    "answer": 1972,
+    "min": 1955,
+    "max": 1990,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "It was one of the first commercially successful video games."
+  },
+  {
+    "id": "tech_161",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year did Apple launch the Apple I computer?",
+    "answer": 1976,
+    "min": 1960,
+    "max": 1995,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Steve Wozniak designed it and Steve Jobs helped sell it."
+  },
+  {
+    "id": "tech_162",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which company created the Windows operating system?",
+    "answers": [
+      "Apple",
+      "Google",
+      "IBM",
+      "Microsoft"
+    ],
+    "correct": 3,
+    "fact": "Windows 1.0 appeared in 1985."
+  },
+  {
+    "id": "tech_163",
+    "category": "technology",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In \"cloud storage\", where are your files actually kept?",
+    "answers": [
+      "In the sky",
+      "Inside your phone case",
+      "On a satellite dish",
+      "On computers in remote data centres"
+    ],
+    "correct": 3,
+    "fact": "Your files live on someone else's servers, reached over the internet."
+  },
+  {
+    "id": "tech_164",
+    "category": "technology",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Quantum computers store information in units called what?",
+    "answers": [
+      "Bytes",
+      "Pixels",
+      "Qubits",
+      "Tokens"
+    ],
+    "correct": 2,
+    "fact": "A qubit can be in a blend of 0 and 1 at once."
+  },
+  {
+    "id": "tech_165",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does \"PDF\" stand for?",
+    "answers": [
+      "Portable Document Format",
+      "Printed Data File",
+      "Public Document Form",
+      "Page Design Format"
+    ],
+    "correct": 0,
+    "fact": "Adobe created it in 1993."
+  },
+  {
+    "id": "tech_166",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Who made Android before Google bought it in 2005?",
+    "answers": [
+      "Android Inc.",
+      "Nokia",
+      "Samsung",
+      "HTC"
+    ],
+    "correct": 0,
+    "fact": "It was first meant for digital cameras."
+  },
+  {
+    "id": "tech_167",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does \"VPN\" stand for?",
+    "answers": [
+      "Virtual Private Network",
+      "Verified Public Node",
+      "Video Playback Network",
+      "Virtual Proxy Number"
+    ],
+    "correct": 0,
+    "fact": "It sends your traffic through an encrypted tunnel."
+  },
+  {
+    "id": "tech_168",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which programming language runs directly in web browsers?",
+    "answers": [
+      "JavaScript",
+      "Java",
+      "Python",
+      "C#"
+    ],
+    "correct": 0,
+    "fact": "Despite the name, it has little to do with Java."
+  },
+  {
+    "id": "tech_169",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which 1972 arcade game was the first big video game hit?",
+    "answers": [
+      "Pong",
+      "Space Invaders",
+      "Pac-Man",
+      "Tetris"
+    ],
+    "correct": 0,
+    "fact": "It was a simple game of electronic table tennis."
+  },
+  {
+    "id": "tech_170",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which company launched the Walkman in 1979?",
+    "answers": [
+      "Sony",
+      "Panasonic",
+      "Philips",
+      "Toshiba"
+    ],
+    "correct": 0,
+    "fact": "It made music portable for millions."
+  },
+  {
+    "id": "tech_171",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "In \"4G\" and \"5G\", what does the G stand for?",
+    "answers": [
+      "Generation",
+      "Gigabit",
+      "Global",
+      "Gateway"
+    ],
+    "correct": 0,
+    "fact": "Each generation brought faster mobile data."
+  },
+  {
+    "id": "tech_172",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Who co-founded Microsoft with Bill Gates?",
+    "answers": [
+      "Paul Allen",
+      "Steve Ballmer",
+      "Steve Wozniak",
+      "Larry Ellison"
+    ],
+    "correct": 0,
+    "fact": "They were childhood friends from Seattle."
+  },
+  {
+    "id": "tech_173",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is malware that locks your files and demands payment called?",
+    "answers": [
+      "Ransomware",
+      "Spyware",
+      "Adware",
+      "A worm"
+    ],
+    "correct": 0,
+    "fact": "Backups are the best protection."
+  },
+  {
+    "id": "tech_174",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "In 1969, the first message sent over ARPANET was what?",
+    "answers": [
+      "\"LO\"",
+      "\"HELLO\"",
+      "\"TEST\"",
+      "\"LOGIN OK\""
+    ],
+    "correct": 0,
+    "fact": "It was meant to be \"LOGIN\", but the system crashed after two letters."
+  },
+  {
+    "id": "tech_175",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What does \"SSD\" stand for?",
+    "answers": [
+      "Solid-state drive",
+      "Super speed disk",
+      "Secure storage device",
+      "System software drive"
+    ],
+    "correct": 0,
+    "fact": "It has no moving parts, unlike a hard disk."
+  },
+  {
+    "id": "tech_176",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is two-factor authentication?",
+    "answers": [
+      "Proving who you are two different ways",
+      "Logging in twice",
+      "A two-word password",
+      "Two people approving a login"
+    ],
+    "correct": 0,
+    "fact": "A password plus a code on your phone is a common pair."
+  },
+  {
+    "id": "tech_177",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "tf",
+    "question": "IBM's first gigabyte hard drive, from 1980, weighed over 200 kg.",
+    "answer": true,
+    "fact": "It was about the size of a fridge."
+  },
+  {
+    "id": "tech_178",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which company created the DALL-E image models?",
+    "answers": [
+      "OpenAI",
+      "Google",
+      "Anthropic",
+      "Midjourney"
+    ],
+    "correct": 0,
+    "fact": "The name mixes Salvador Dalí and the robot WALL-E."
+  },
+  {
+    "id": "tech_179",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is an AI-made video that realistically fakes a real person called?",
+    "answers": [
+      "A deepfake",
+      "A deep dream",
+      "A clone cut",
+      "A face swap ad"
+    ],
+    "correct": 0,
+    "fact": "Spotting them is a growing part of online safety."
+  },
+  {
+    "id": "tech_180",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What does \"URL\" stand for?",
+    "answers": [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Unified Routing Location",
+      "User Resource Locator"
+    ],
+    "correct": 0,
+    "fact": "It is the address of a page on the web."
+  },
+  {
+    "id": "tech_181",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which web browser, released in 1994, helped make the web popular?",
+    "answers": [
+      "Netscape Navigator",
+      "Internet Explorer",
+      "Opera",
+      "Firefox"
+    ],
+    "correct": 0,
+    "fact": "Firefox later grew out of its code."
+  },
+  {
+    "id": "tech_182",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which company created the Java programming language?",
+    "answers": [
+      "Sun Microsystems",
+      "Microsoft",
+      "IBM",
+      "Oracle"
+    ],
+    "correct": 0,
+    "fact": "Oracle bought Sun in 2010."
+  },
+  {
+    "id": "tech_183",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What does \"GIF\" stand for?",
+    "answers": [
+      "Graphics Interchange Format",
+      "Graphic Image File",
+      "General Image Format",
+      "Graphics In Frames"
+    ],
+    "correct": 0,
+    "fact": "People still argue about whether it is pronounced with a hard or soft G."
+  },
+  {
+    "id": "tech_184",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is \"open source\" software?",
+    "answers": [
+      "Code anyone can read, change and share",
+      "Free software with secret code",
+      "Software made by governments",
+      "Software only for schools"
+    ],
+    "correct": 0,
+    "fact": "Linux and Firefox are open source."
+  },
+  {
+    "id": "tech_185",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which company makes Snapdragon chips for phones?",
+    "answers": [
+      "Qualcomm",
+      "Intel",
+      "AMD",
+      "MediaTek"
+    ],
+    "correct": 0,
+    "fact": "They power many Android phones."
+  },
+  {
+    "id": "tech_186",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What does a network firewall do?",
+    "answers": [
+      "Filters traffic to block unwanted access",
+      "Keeps the computer cool",
+      "Backs up files",
+      "Speeds up downloads"
+    ],
+    "correct": 0,
+    "fact": "The name comes from walls that stop fires spreading."
+  },
+  {
+    "id": "tech_187",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What does \"SaaS\" stand for?",
+    "answers": [
+      "Software as a Service",
+      "Storage and Access System",
+      "Secure App and Server",
+      "System as a Solution"
+    ],
+    "correct": 0,
+    "fact": "Email in your browser is a SaaS example."
+  },
+  {
+    "id": "tech_188",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which language is mainly used to style the look of web pages?",
+    "answers": [
+      "CSS",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "correct": 0,
+    "fact": "HTML gives a page its structure; CSS its looks."
+  },
+  {
+    "id": "tech_189",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which company made the first commercial microprocessor, the 4004, in 1971?",
+    "answers": [
+      "Intel",
+      "IBM",
+      "Texas Instruments",
+      "Motorola"
+    ],
+    "correct": 0,
+    "fact": "It was designed for a calculator."
+  },
+  {
+    "id": "tech_190",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "In AI, what does \"RAG\" stand for?",
+    "answers": [
+      "Retrieval-augmented generation",
+      "Random answer generator",
+      "Robot automation grid",
+      "Recursive attention graph"
+    ],
+    "correct": 0,
+    "fact": "The model looks things up before it answers."
+  },
+  {
+    "id": "tech_191",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which company created the game Pokémon Go?",
+    "answers": [
+      "Niantic",
+      "Nintendo",
+      "Game Freak",
+      "Sony"
+    ],
+    "correct": 0,
+    "fact": "It launched in 2016 and got people walking everywhere."
+  },
+  {
+    "id": "tech_192",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "tf",
+    "question": "The first computer mouse had a wooden case.",
+    "answer": true,
+    "fact": "Douglas Engelbart's 1960s prototype was a wooden block on two wheels."
+  },
+  {
+    "id": "tech_193",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "tf",
+    "question": "The word \"bit\" is short for \"binary digit\".",
+    "answer": true,
+    "fact": "A bit is a single 0 or 1."
+  },
+  {
+    "id": "tech_194",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which family of AI models is made by Google DeepMind?",
+    "answers": [
+      "Gemini",
+      "Claude",
+      "Llama",
+      "GPT"
+    ],
+    "correct": 0,
+    "fact": "Claude is made by Anthropic."
+  },
+  {
+    "id": "tech_195",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What was the very first YouTube video about?",
+    "answers": [
+      "A trip to the zoo",
+      "A cat playing piano",
+      "A birthday party",
+      "A skateboard trick"
+    ],
+    "correct": 0,
+    "fact": "\"Me at the zoo\" is 19 seconds long, mostly about elephants."
+  },
+  {
+    "id": "tech_196",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What was one of the first items sold on eBay?",
+    "answers": [
+      "A broken laser pointer",
+      "A used toothbrush",
+      "A signed photo",
+      "A teddy bear"
+    ],
+    "correct": 0,
+    "fact": "The buyer said he collected broken laser pointers."
+  },
+  {
+    "id": "tech_197",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "When the iMac launched in 1998, what did the \"i\" first stand for?",
+    "answers": [
+      "Internet",
+      "Intel",
+      "Idea",
+      "Image"
+    ],
+    "correct": 0,
+    "fact": "Steve Jobs said it also meant things like \"individual\" and \"inspire\"."
+  },
+  {
+    "id": "tech_198",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What animal is the mascot of the Go programming language?",
+    "answers": [
+      "A gopher",
+      "A goat",
+      "A gorilla",
+      "A goose"
+    ],
+    "correct": 0,
+    "fact": "It was drawn by the artist Renée French."
+  },
+  {
+    "id": "tech_199",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "A \"firefox\" is another name for which animal?",
+    "answers": [
+      "The red panda",
+      "The red fox",
+      "The fennec fox",
+      "The raccoon"
+    ],
+    "correct": 0,
+    "fact": "The browser's logo looks more like a fox, though."
+  },
+  {
+    "id": "tech_200",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Brain, an early PC virus from 1986, was written in which country?",
+    "answers": [
+      "Pakistan",
+      "United States",
+      "Russia",
+      "Germany"
+    ],
+    "correct": 0,
+    "fact": "Two brothers in Lahore wrote it."
+  },
+  {
+    "id": "tech_201",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "In Minecraft, what is the green mob that sneaks up and explodes?",
+    "answers": [
+      "A Creeper",
+      "A Zombie",
+      "An Enderman",
+      "A Slime"
+    ],
+    "correct": 0,
+    "fact": "It began as a coding slip while making a pig."
+  },
+  {
+    "id": "tech_202",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which Nokia phone is often called the best-selling phone ever?",
+    "answers": [
+      "Nokia 1100",
+      "Nokia 3310",
+      "Nokia 6600",
+      "Nokia N95"
+    ],
+    "correct": 0,
+    "fact": "Over 250 million were sold."
+  },
+  {
+    "id": "tech_203",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Junk email is called \"spam\" after what?",
+    "answers": [
+      "A Monty Python sketch",
+      "A computer virus",
+      "An internet company",
+      "A typing error"
+    ],
+    "correct": 0,
+    "fact": "In the sketch, diners cannot escape the canned meat."
+  },
+  {
+    "id": "tech_204",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "What does \"LED\" stand for?",
+    "answers": [
+      "Light-emitting diode",
+      "Low-energy display",
+      "Linear electric device",
+      "Laser emission diode"
+    ],
+    "correct": 0,
+    "fact": "Inventing the blue LED earned a Nobel Prize in 2014."
+  },
+  {
+    "id": "tech_205",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "Where does the QWERTY keyboard layout come from?",
+    "answers": [
+      "Typewriters",
+      "Telegraphs",
+      "Early computers",
+      "Pianos"
+    ],
+    "correct": 0,
+    "fact": "It was made for typewriters in the 1870s."
+  },
+  {
+    "id": "tech_206",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Shopee belongs to which Singapore-based company?",
+    "answers": [
+      "Sea",
+      "Grab",
+      "Razer",
+      "Creative"
+    ],
+    "correct": 0,
+    "fact": "Sea also runs the gaming company Garena."
+  },
+  {
+    "id": "tech_207",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Gaming brand Razer has its headquarters in Singapore and which city?",
+    "answers": [
+      "Irvine",
+      "Tokyo",
+      "Seoul",
+      "Taipei"
+    ],
+    "correct": 0,
+    "fact": "Its logo is a three-headed snake."
+  },
+  {
+    "id": "tech_208",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "tf",
+    "question": "The first webcam watched a coffee pot.",
+    "answer": true,
+    "fact": "Cambridge scientists used it in 1991 to avoid walking to an empty pot."
+  },
+  {
+    "id": "tech_209",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "tf",
+    "question": "Apple's first logo showed Isaac Newton sitting under a tree.",
+    "answer": true,
+    "fact": "The rainbow apple replaced it in 1977."
+  },
+  {
+    "id": "tech_210",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "estimate",
+    "question": "Roughly how much did the Apple I cost in 1976, in US dollars?",
+    "answer": 666,
+    "min": 100,
+    "max": 2000,
+    "step": 1,
+    "tolerance": 60,
+    "unit": "dollars",
+    "fact": "It was $666.66; Wozniak just liked repeating digits."
+  },
+  {
+    "id": "tech_211",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "Who first suggested using :-) online, in 1982?",
+    "answers": [
+      "Scott Fahlman",
+      "Tim Berners-Lee",
+      "Ray Tomlinson",
+      "Shigetaka Kurita"
+    ],
+    "correct": 0,
+    "fact": "He wanted a way to mark jokes on a university message board."
+  },
+  {
+    "id": "tech_212",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "Which Android version was the first named after a sweet treat?",
+    "answers": [
+      "Cupcake",
+      "Donut",
+      "KitKat",
+      "Eclair"
+    ],
+    "correct": 0,
+    "fact": "The names after it went alphabetically."
+  },
+  {
+    "id": "tech_213",
+    "category": "technology",
+    "difficulty": 2,
+    "batch": 6,
+    "type": "mc",
+    "question": "What does a \"404\" error on a web page mean?",
+    "answers": [
+      "Page not found",
+      "Server is busy",
+      "Wrong password",
+      "No internet"
+    ],
+    "correct": 0,
+    "fact": "A joke \"418\" error says the server is a teapot."
+  },
+  {
+    "id": "tech_214",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "What was the official name of Microsoft Office's paperclip helper?",
+    "answers": [
+      "Clippit",
+      "Clippy",
+      "Paperboy",
+      "Mr Clip"
+    ],
+    "correct": 0,
+    "fact": "Everyone called it Clippy anyway."
+  },
+  {
+    "id": "tech_215",
+    "category": "technology",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "tf",
+    "question": "A Game Boy that survived a bombing in the 1991 Gulf War still works.",
+    "answer": true,
+    "fact": "It was put on show at Nintendo's New York store."
+  }
+]

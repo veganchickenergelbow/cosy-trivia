@@ -1,0 +1,40 @@
+{
+  "_comment": "Head accessories unlocked by friendship hearts. Sprites in assets/img/accessories/<id>.png once ChatGPT's art (request 008) is in (data/art.json accessories); until then the emoji stands in. w = width in cat-sprite pixels; the bottom centre sits on the cat's head anchor (data/cat_anchors.json).",
+  "items": [
+    {
+      "id": "bow",
+      "name": "Red bow",
+      "hearts": 1,
+      "emoji": "🎀",
+      "w": 12
+    },
+    {
+      "id": "flower",
+      "name": "Flower crown",
+      "hearts": 2,
+      "emoji": "🌸",
+      "w": 14
+    },
+    {
+      "id": "grad_cap",
+      "name": "Graduation cap",
+      "hearts": 3,
+      "emoji": "🎓",
+      "w": 14
+    },
+    {
+      "id": "top_hat",
+      "name": "Tiny top hat",
+      "hearts": 4,
+      "emoji": "🎩",
+      "w": 12
+    },
+    {
+      "id": "crown",
+      "name": "Golden crown",
+      "hearts": 5,
+      "emoji": "👑",
+      "w": 13
+    }
+  ]
+}

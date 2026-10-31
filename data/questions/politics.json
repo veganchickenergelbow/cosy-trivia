@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "pol_001",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In which city is the headquarters of the United Nations?",
+    "answers": [
+      "New York City",
+      "Geneva",
+      "Brussels",
+      "Washington, D.C."
+    ],
+    "correct": 0,
+    "fact": "The UN complex sits on land along the East River."
+  },
+  {
+    "id": "pol_002",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which international organisation sets and enforces rules of global trade?",
+    "answers": [
+      "World Health Organization",
+      "World Trade Organization",
+      "UNESCO",
+      "International Monetary Fund"
+    ],
+    "correct": 1,
+    "fact": "The WTO started in 1995 and is based in Geneva."
+  },
+  {
+    "id": "pol_003",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The United States Congress consists of the House of Representatives and which other chamber?",
+    "answers": [
+      "Supreme Court",
+      "Cabinet",
+      "Senate",
+      "Electoral College"
+    ],
+    "correct": 2,
+    "fact": "Each state elects two senators."
+  },
+  {
+    "id": "pol_004",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which document begins with the words \"We the People\"?",
+    "answers": [
+      "Magna Carta",
+      "Declaration of Independence",
+      "Bill of Rights",
+      "US Constitution"
+    ],
+    "correct": 3,
+    "fact": "It was drafted in Philadelphia in 1787."
+  },
+  {
+    "id": "pol_005",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The Bundestag is the national parliament of which country?",
+    "answers": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Netherlands"
+    ],
+    "correct": 0,
+    "fact": "Its seat is the Reichstag building in Berlin."
+  },
+  {
+    "id": "pol_006",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Who was the first Prime Minister of independent India?",
+    "answers": [
+      "Sardar Patel",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "correct": 1,
+    "fact": "He took office on 15 August 1947."
+  },
+  {
+    "id": "pol_007",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does IMF stand for?",
+    "answers": [
+      "International Market Federation",
+      "Internal Money Forum",
+      "International Monetary Fund",
+      "Industrial Monetary Fund"
+    ],
+    "correct": 2,
+    "fact": "It was set up in 1944 at the Bretton Woods conference."
+  },
+  {
+    "id": "pol_008",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which UN agency works for children's rights and welfare?",
+    "answers": [
+      "UNESCO",
+      "UNHCR",
+      "WHO",
+      "UNICEF"
+    ],
+    "correct": 3,
+    "fact": "It began in 1946 to help children after World War II."
+  },
+  {
+    "id": "pol_009",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "A government led by religious authorities is called what?",
+    "answers": [
+      "Theocracy",
+      "Oligarchy",
+      "Aristocracy",
+      "Democracy"
+    ],
+    "correct": 0,
+    "fact": "Vatican City and Iran are often cited examples."
+  },
+  {
+    "id": "pol_010",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which of these is NOT a permanent member of the UN Security Council?",
+    "answers": [
+      "France",
+      "India",
+      "China",
+      "Russia"
+    ],
+    "correct": 1,
+    "fact": "The permanent five are China, France, Russia, the UK and the US."
+  },
+  {
+    "id": "pol_011",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "A system where a monarch is head of state but a constitution limits their power is called what?",
+    "answers": [
+      "Absolute monarchy",
+      "Republic",
+      "Constitutional monarchy",
+      "Theocracy"
+    ],
+    "correct": 2,
+    "fact": "Examples include Japan, Thailand and the United Kingdom."
+  },
+  {
+    "id": "pol_012",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In which city is the ASEAN Secretariat headquartered?",
+    "answers": [
+      "Singapore",
+      "Bangkok",
+      "Kuala Lumpur",
+      "Jakarta"
+    ],
+    "correct": 3,
+    "fact": "The ASEAN Secretariat was set up in 1976."
+  },
+  {
+    "id": "pol_013",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In which city is the headquarters of the European Commission?",
+    "answers": [
+      "Brussels",
+      "Strasbourg",
+      "Luxembourg City",
+      "Paris"
+    ],
+    "correct": 0,
+    "fact": "The European Parliament also meets in Strasbourg."
+  },
+  {
+    "id": "pol_014",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Diet is the national legislature of which country?",
+    "answers": [
+      "South Korea",
+      "Japan",
+      "Thailand",
+      "Indonesia"
+    ],
+    "correct": 1,
+    "fact": "It has two houses: the House of Representatives and the House of Councillors."
+  },
+  {
+    "id": "pol_015",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the lower house of India's Parliament called?",
+    "answers": [
+      "Rajya Sabha",
+      "Vidhan Sabha",
+      "Lok Sabha",
+      "Sansad Bhavan"
+    ],
+    "correct": 2,
+    "fact": "It has 543 elected members."
+  },
+  {
+    "id": "pol_016",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In which voting system does the candidate with the most votes in a constituency win?",
+    "answers": [
+      "Proportional representation",
+      "Single transferable vote",
+      "Alternative vote",
+      "First-past-the-post"
+    ],
+    "correct": 3,
+    "fact": "The UK and India both use it for national elections."
+  },
+  {
+    "id": "pol_017",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What term describes dividing government into legislative, executive and judicial branches?",
+    "answers": [
+      "Separation of powers",
+      "Federalism",
+      "Checks on trade",
+      "Devolution"
+    ],
+    "correct": 0,
+    "fact": "Montesquieu helped popularise the idea."
+  },
+  {
+    "id": "pol_018",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The National People's Congress is the national legislature of which country?",
+    "answers": [
+      "Vietnam",
+      "China",
+      "Mongolia",
+      "North Korea"
+    ],
+    "correct": 1,
+    "fact": "It meets annually in Beijing."
+  },
+  {
+    "id": "pol_019",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Renaissance writer authored the political treatise \"The Prince\"?",
+    "answers": [
+      "Thomas More",
+      "Thomas Hobbes",
+      "Niccolo Machiavelli",
+      "Dante Alighieri"
+    ],
+    "correct": 2,
+    "fact": "It was written around 1513."
+  },
+  {
+    "id": "pol_020",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who was the first Prime Minister of independent Malaya?",
+    "answers": [
+      "Tun Abdul Razak",
+      "Tun Hussein Onn",
+      "Mahathir Mohamad",
+      "Tunku Abdul Rahman"
+    ],
+    "correct": 3,
+    "fact": "Malaya became independent on 31 August 1957."
+  },
+  {
+    "id": "pol_021",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the title of Malaysia's constitutional head of state?",
+    "answers": [
+      "Yang di-Pertuan Agong",
+      "Sultan of Johor",
+      "Tun Yang di-Pertua",
+      "Yang di-Pertua Negeri"
+    ],
+    "correct": 0,
+    "fact": "The post rotates among nine state rulers every five years."
+  },
+  {
+    "id": "pol_022",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which ASEAN member is an absolute monarchy?",
+    "answers": [
+      "Malaysia",
+      "Brunei",
+      "Thailand",
+      "Cambodia"
+    ],
+    "correct": 1,
+    "fact": "Brunei's Sultan is both head of state and head of government."
+  },
+  {
+    "id": "pol_023",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which body formally elects the President of the United States?",
+    "answers": [
+      "Supreme Court",
+      "Senate",
+      "Electoral College",
+      "House of Representatives"
+    ],
+    "correct": 2,
+    "fact": "Each state has electors equal to its seats in Congress."
+  },
+  {
+    "id": "pol_024",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Government by a small group of powerful people is called what?",
+    "answers": [
+      "Democracy",
+      "Anarchy",
+      "Meritocracy",
+      "Oligarchy"
+    ],
+    "correct": 3,
+    "fact": "\"Oligarchy\" comes from Greek for \"rule by few\"."
+  },
+  {
+    "id": "pol_025",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Commonwealth of Nations is mostly made up of former territories of which empire?",
+    "answers": [
+      "British Empire",
+      "French Empire",
+      "Ottoman Empire",
+      "Dutch Empire"
+    ],
+    "correct": 0,
+    "fact": "It has 56 member countries."
+  },
+  {
+    "id": "pol_026",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Asian country is a member of the G7?",
+    "answers": [
+      "China",
+      "Japan",
+      "India",
+      "South Korea"
+    ],
+    "correct": 1,
+    "fact": "The G7 also includes Canada, France, Germany, Italy, the UK and the US."
+  },
+  {
+    "id": "pol_027",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What does OPEC coordinate among its members?",
+    "answers": [
+      "Fishing quotas",
+      "Space missions",
+      "Petroleum policies",
+      "Arms control"
+    ],
+    "correct": 2,
+    "fact": "It was founded in Baghdad in 1960."
+  },
+  {
+    "id": "pol_028",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Paris Agreement of 2015 is about which issue?",
+    "answers": [
+      "Nuclear weapons",
+      "Trade tariffs",
+      "Refugees",
+      "Climate change"
+    ],
+    "correct": 3,
+    "fact": "Countries pledged to limit warming to well below 2 degrees Celsius."
+  },
+  {
+    "id": "pol_029",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In which city is the World Health Organization headquartered?",
+    "answers": [
+      "Geneva",
+      "New York City",
+      "Vienna",
+      "Paris"
+    ],
+    "correct": 0,
+    "fact": "The WHO was founded in 1948."
+  },
+  {
+    "id": "pol_030",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What do the Geneva Conventions mainly set rules about?",
+    "answers": [
+      "Global trade tariffs",
+      "Treatment of people in war",
+      "Maritime borders",
+      "Nuclear testing"
+    ],
+    "correct": 1,
+    "fact": "The first convention dates back to 1864."
+  },
+  {
+    "id": "pol_031",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Who became UN Secretary-General in January 2017?",
+    "answers": [
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "Antonio Guterres",
+      "Boutros Boutros-Ghali"
+    ],
+    "correct": 2,
+    "fact": "Guterres took office in January 2017; his term ends in 2026.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "pol_032",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 1957 treaty founded the European Economic Community?",
+    "answers": [
+      "Treaty of Maastricht",
+      "Treaty of Lisbon",
+      "Treaty of Paris",
+      "Treaty of Rome"
+    ],
+    "correct": 3,
+    "fact": "Six countries signed it, including France and West Germany."
+  },
+  {
+    "id": "pol_033",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 1992 treaty created the European Union?",
+    "answers": [
+      "Maastricht Treaty",
+      "Treaty of Rome",
+      "Schengen Agreement",
+      "Treaty of Versailles"
+    ],
+    "correct": 0,
+    "fact": "It also paved the way for the euro."
+  },
+  {
+    "id": "pol_034",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which UN court in The Hague settles disputes between states?",
+    "answers": [
+      "International Criminal Court",
+      "International Court of Justice",
+      "Permanent Court of Arbitration",
+      "European Court of Justice"
+    ],
+    "correct": 1,
+    "fact": "It is the UN's principal judicial organ."
+  },
+  {
+    "id": "pol_035",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which philosopher wrote \"The Social Contract\" in 1762?",
+    "answers": [
+      "John Locke",
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Montesquieu"
+    ],
+    "correct": 2,
+    "fact": "It begins \"Man is born free, and everywhere he is in chains.\""
+  },
+  {
+    "id": "pol_036",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which 1789 French document proclaimed the rights of man?",
+    "answers": [
+      "Napoleonic Code",
+      "Edict of Nantes",
+      "Charter of Liberties",
+      "Declaration of the Rights of Man"
+    ],
+    "correct": 3,
+    "fact": "It influenced later human rights charters."
+  },
+  {
+    "id": "pol_037",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which country is a federation of cantons?",
+    "answers": [
+      "Switzerland",
+      "Austria",
+      "Belgium",
+      "Luxembourg"
+    ],
+    "correct": 0,
+    "fact": "Switzerland has 26 cantons."
+  },
+  {
+    "id": "pol_038",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Where is NATO's headquarters?",
+    "answers": [
+      "Washington, D.C.",
+      "Brussels",
+      "London",
+      "Geneva"
+    ],
+    "correct": 1,
+    "fact": "NATO was founded in 1949."
+  },
+  {
+    "id": "pol_039",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who was the first Secretary-General of the United Nations?",
+    "answers": [
+      "Dag Hammarskjold",
+      "U Thant",
+      "Trygve Lie",
+      "Kurt Waldheim"
+    ],
+    "correct": 2,
+    "fact": "The Norwegian served from 1946 to 1952."
+  },
+  {
+    "id": "pol_040",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which country was first to give women the vote in national elections, in 1893?",
+    "answers": [
+      "United Kingdom",
+      "United States",
+      "Australia",
+      "New Zealand"
+    ],
+    "correct": 3,
+    "fact": "Women there could vote but not stand for election until 1919."
+  },
+  {
+    "id": "pol_041",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Who is often called the \"Father of the US Constitution\"?",
+    "answers": [
+      "James Madison",
+      "Thomas Jefferson",
+      "Alexander Hamilton",
+      "Benjamin Franklin"
+    ],
+    "correct": 0,
+    "fact": "Madison was also the fourth US president."
+  },
+  {
+    "id": "pol_042",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "In which city is the African Union headquartered?",
+    "answers": [
+      "Nairobi",
+      "Addis Ababa",
+      "Abuja",
+      "Cairo"
+    ],
+    "correct": 1,
+    "fact": "It replaced the Organisation of African Unity in 2002."
+  },
+  {
+    "id": "pol_043",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which country holds the ASEAN chairmanship in 2026?",
+    "answers": [
+      "Myanmar",
+      "Laos",
+      "Philippines",
+      "Singapore"
+    ],
+    "correct": 2,
+    "fact": "The chair rotates annually, in alphabetical order of member names.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "pol_044",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The UN Security Council has five permanent members.",
+    "answer": true,
+    "fact": "Each one holds a veto on substantive resolutions."
+  },
+  {
+    "id": "pol_045",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Switzerland is a member of the European Union.",
+    "answer": false,
+    "fact": "It has bilateral agreements with the EU but is not a member."
+  },
+  {
+    "id": "pol_046",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The United Kingdom has a single written constitutional document.",
+    "answer": false,
+    "fact": "Its constitution is spread across statutes, conventions and case law."
+  },
+  {
+    "id": "pol_047",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Voting is compulsory in federal elections in Australia.",
+    "answer": true,
+    "fact": "Non-voters can be fined, and turnout is typically over 90 percent."
+  },
+  {
+    "id": "pol_048",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "India is the world's most populous democracy.",
+    "answer": true,
+    "fact": "Its general elections involve hundreds of millions of voters."
+  },
+  {
+    "id": "pol_049",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Brunei's head of state is a Sultan.",
+    "answer": true,
+    "fact": "The current Sultan has reigned since 1967."
+  },
+  {
+    "id": "pol_050",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "All European Union members use the euro as their currency.",
+    "answer": false,
+    "fact": "Several members, such as Poland and Sweden, keep their own currency."
+  },
+  {
+    "id": "pol_051",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "ASEAN was founded in Bangkok in 1967.",
+    "answer": true,
+    "fact": "Its five founding members signed the Bangkok Declaration."
+  },
+  {
+    "id": "pol_052",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "The World Trade Organization replaced GATT in 1995.",
+    "answer": true,
+    "fact": "GATT had governed world trade since 1948."
+  },
+  {
+    "id": "pol_053",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was ASEAN founded?",
+    "answer": 1967,
+    "min": 1930,
+    "max": 1995,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "Founded by Indonesia, Malaysia, the Philippines, Singapore and Thailand."
+  },
+  {
+    "id": "pol_054",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many member states does the United Nations have?",
+    "answer": 193,
+    "min": 120,
+    "max": 250,
+    "step": 1,
+    "tolerance": 5,
+    "unit": "countries",
+    "fact": "South Sudan became the 193rd member in 2011.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "pol_055",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many member states does the European Union have?",
+    "answer": 27,
+    "min": 10,
+    "max": 40,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "countries",
+    "fact": "The UK left the EU in January 2020.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "pol_056",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many US Senators are there in total?",
+    "answer": 100,
+    "min": 40,
+    "max": 200,
+    "step": 1,
+    "tolerance": 5,
+    "unit": "senators",
+    "fact": "Two from each of the 50 states."
+  },
+  {
+    "id": "pol_057",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many voting members are in the US House of Representatives?",
+    "answer": 435,
+    "min": 100,
+    "max": 700,
+    "step": 5,
+    "tolerance": 15,
+    "unit": "members",
+    "fact": "The number has been set at 435 by law since 1929."
+  },
+  {
+    "id": "pol_058",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "In what year was the Universal Declaration of Human Rights adopted?",
+    "answer": 1948,
+    "min": 1920,
+    "max": 1990,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "year",
+    "fact": "The UN General Assembly adopted it in Paris on 10 December 1948."
+  },
+  {
+    "id": "pol_059",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many amendments does the US Constitution have?",
+    "answer": 27,
+    "min": 10,
+    "max": 50,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "amendments",
+    "fact": "The first ten are known as the Bill of Rights."
+  },
+  {
+    "id": "pol_060",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many elected seats are there in India's Lok Sabha?",
+    "answer": 543,
+    "min": 200,
+    "max": 800,
+    "step": 5,
+    "tolerance": 20,
+    "unit": "seats",
+    "fact": "Members are chosen from single-member constituencies."
+  },
+  {
+    "id": "pol_061",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many member countries does NATO have?",
+    "answer": 32,
+    "min": 10,
+    "max": 45,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "countries",
+    "fact": "Sweden became the 32nd member in 2024.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "pol_062",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the term for a country's supreme set of laws and principles?",
+    "answers": [
+      "Manifesto",
+      "Referendum",
+      "Treaty",
+      "Constitution"
+    ],
+    "correct": 3,
+    "fact": "Singapore's came into force in 1965 after separation."
+  },
+  {
+    "id": "pol_063",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Through what do citizens in a democracy choose their leaders?",
+    "answers": [
+      "Elections",
+      "Censuses",
+      "Tariffs",
+      "Treaties"
+    ],
+    "correct": 0,
+    "fact": "Most democracies hold them every few years."
+  },
+  {
+    "id": "pol_064",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the official residence of the US President?",
+    "answers": [
+      "Capitol",
+      "White House",
+      "Pentagon",
+      "Camp David"
+    ],
+    "correct": 1,
+    "fact": "It is at 1600 Pennsylvania Avenue in Washington, D.C."
+  },
+  {
+    "id": "pol_065",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In which city does the UK Parliament sit?",
+    "answers": [
+      "Edinburgh",
+      "Manchester",
+      "London",
+      "Cardiff"
+    ],
+    "correct": 2,
+    "fact": "It meets in the Palace of Westminster."
+  },
+  {
+    "id": "pol_066",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "In a parliamentary system, who normally leads the government?",
+    "answers": [
+      "Chief Justice",
+      "Speaker",
+      "Monarch",
+      "Prime Minister"
+    ],
+    "correct": 3,
+    "fact": "The PM is usually the leader of the largest party or coalition."
+  },
+  {
+    "id": "pol_067",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does ASEAN stand for?",
+    "answers": [
+      "Association of Southeast Asian Nations",
+      "Alliance of South-East Asian Nations",
+      "Association of Southern Asian Nations",
+      "Association of Southeast Asian Navies"
+    ],
+    "correct": 0,
+    "fact": "It began with five members in 1967."
+  },
+  {
+    "id": "pol_068",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The UK Parliament has the House of Commons and which other house?",
+    "answers": [
+      "House of Keys",
+      "House of Lords",
+      "Senate",
+      "House of Representatives"
+    ],
+    "correct": 1,
+    "fact": "Together they make laws for the United Kingdom."
+  },
+  {
+    "id": "pol_069",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which ancient Greek city is often called the birthplace of democracy?",
+    "answers": [
+      "Sparta",
+      "Corinth",
+      "Athens",
+      "Thebes"
+    ],
+    "correct": 2,
+    "fact": "Citizens there voted directly on laws in an open assembly."
+  },
+  {
+    "id": "pol_070",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is a vote that lets citizens decide a single question directly called?",
+    "answers": [
+      "Census",
+      "Caucus",
+      "Filibuster",
+      "Referendum"
+    ],
+    "correct": 3,
+    "fact": "The word comes from Latin for \"to be referred\"."
+  },
+  {
+    "id": "pol_071",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What do we call a person who stands for election?",
+    "answers": [
+      "Lobbyist",
+      "Candidate",
+      "Delegate",
+      "Referee"
+    ],
+    "correct": 1,
+    "fact": "The word comes from the Latin for \"dressed in white\", after Roman office seekers."
+  },
+  {
+    "id": "pol_072",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the usual title for the head of state in a republic?",
+    "answers": [
+      "Emperor",
+      "Duke",
+      "President",
+      "Sultan"
+    ],
+    "correct": 2,
+    "fact": "Singapore, India, France and the United States are all republics."
+  },
+  {
+    "id": "pol_073",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "A country whose regions share power with a central government is called what?",
+    "answers": [
+      "A federation",
+      "A monarchy",
+      "A theocracy",
+      "A colony"
+    ],
+    "correct": 0,
+    "fact": "Australia, Malaysia and Germany are examples."
+  },
+  {
+    "id": "pol_074",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does it mean to \"veto\" a law?",
+    "answers": [
+      "To count votes for it",
+      "To start a debate on it",
+      "To print it",
+      "To block it"
+    ],
+    "correct": 3,
+    "fact": "The word is Latin for \"I forbid\"."
+  },
+  {
+    "id": "pol_075",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which UN body gives every member country one vote?",
+    "answers": [
+      "The Security Council",
+      "The Secretariat",
+      "The Trusteeship Council",
+      "The General Assembly"
+    ],
+    "correct": 3,
+    "fact": "It meets every September in New York."
+  },
+  {
+    "id": "pol_076",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What does \"suffrage\" mean?",
+    "answers": [
+      "A tax on goods",
+      "The right to vote",
+      "A type of court",
+      "A trade treaty"
+    ],
+    "correct": 1,
+    "fact": "Many countries expanded it in the 20th century, especially to women."
+  },
+  {
+    "id": "pol_077",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is a coalition government?",
+    "answers": [
+      "Several parties governing together",
+      "One run by the army",
+      "One chosen by lottery",
+      "One led by a single party"
+    ],
+    "correct": 0,
+    "fact": "It often happens when no party wins a clear majority."
+  },
+  {
+    "id": "pol_078",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is Hansard, used in parliaments such as Singapore's?",
+    "answers": [
+      "A type of voting machine",
+      "A seat in the chamber",
+      "The official record of debates",
+      "A style of ballot paper"
+    ],
+    "correct": 2,
+    "fact": "It is named after printer Thomas Hansard, who published early parliamentary reports."
+  },
+  {
+    "id": "pol_079",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which body of the European Union is directly elected by its citizens?",
+    "answers": [
+      "The European Parliament",
+      "The European Commission",
+      "The European Council",
+      "The Court of Justice"
+    ],
+    "correct": 0,
+    "fact": "Its members are elected every five years."
+  },
+  {
+    "id": "pol_080",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which organisation awards the Nobel Peace Prize?",
+    "answers": [
+      "The Swedish Academy",
+      "The United Nations",
+      "The Red Cross",
+      "The Norwegian Nobel Committee"
+    ],
+    "correct": 3,
+    "fact": "The other Nobel prizes are awarded in Sweden."
+  },
+  {
+    "id": "pol_081",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "A \"bicameral\" parliament has what?",
+    "answers": [
+      "One chamber",
+      "Two chambers",
+      "Members elected for life",
+      "A monarch as speaker"
+    ],
+    "correct": 1,
+    "fact": "The US Congress and UK Parliament are both examples."
+  },
+  {
+    "id": "pol_082",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "The European Union is a single country.",
+    "answer": false,
+    "fact": "It is a group of independent member states."
+  },
+  {
+    "id": "pol_083",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "In the United Kingdom, voters do not directly elect the Prime Minister.",
+    "answer": true,
+    "fact": "They elect local MPs, and the leader of the governing party becomes PM."
+  },
+  {
+    "id": "pol_084",
+    "category": "politics",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Women in Switzerland won the right to vote in national elections only in 1971.",
+    "answer": true,
+    "fact": "Switzerland was one of the last European countries to extend it."
+  },
+  {
+    "id": "pol_085",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "At what age can people vote in most countries?",
+    "answer": 18,
+    "min": 14,
+    "max": 25,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "years",
+    "fact": "A few countries allow 16-year-olds to vote."
+  },
+  {
+    "id": "pol_086",
+    "category": "politics",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many years is a single term for a US president?",
+    "answer": 4,
+    "min": 1,
+    "max": 10,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "years",
+    "fact": "A president can serve at most two elected terms."
+  },
+  {
+    "id": "pol_087",
+    "category": "politics",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "In what year was the United Nations founded?",
+    "answer": 1945,
+    "min": 1900,
+    "max": 1990,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "year",
+    "fact": "It began with 51 member states."
+  },
+  {
+    "id": "pol_088",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the central bank of the United States called?",
+    "answers": [
+      "The Federal Reserve",
+      "The Treasury",
+      "The Mint",
+      "Wall Street Bank"
+    ],
+    "correct": 0,
+    "fact": "It was set up in 1913."
+  },
+  {
+    "id": "pol_089",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Who co-wrote The Communist Manifesto with Karl Marx?",
+    "answers": [
+      "Friedrich Engels",
+      "Vladimir Lenin",
+      "Leon Trotsky",
+      "Adam Smith"
+    ],
+    "correct": 0,
+    "fact": "It was published in 1848."
+  },
+  {
+    "id": "pol_090",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is Denmark's parliament called?",
+    "answers": [
+      "Folketing",
+      "Storting",
+      "Riksdag",
+      "Althing"
+    ],
+    "correct": 0,
+    "fact": "Iceland's Althing is one of the oldest parliaments in the world."
+  },
+  {
+    "id": "pol_091",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "How long is the term of the President of Singapore?",
+    "answers": [
+      "Six years",
+      "Four years",
+      "Five years",
+      "Seven years"
+    ],
+    "correct": 0,
+    "fact": "The President has been directly elected since 1993."
+  },
+  {
+    "id": "pol_092",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "In which city is NATO headquartered?",
+    "answers": [
+      "Brussels",
+      "Geneva",
+      "The Hague",
+      "Paris"
+    ],
+    "correct": 0,
+    "fact": "NATO was founded in 1949."
+  },
+  {
+    "id": "pol_093",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "The International Court of Justice sits in which city?",
+    "answers": [
+      "The Hague",
+      "Geneva",
+      "New York",
+      "Vienna"
+    ],
+    "correct": 0,
+    "fact": "It meets in the Peace Palace."
+  },
+  {
+    "id": "pol_094",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is Israel's parliament called?",
+    "answers": [
+      "Knesset",
+      "Majlis",
+      "Sejm",
+      "Duma"
+    ],
+    "correct": 0,
+    "fact": "It has 120 members."
+  },
+  {
+    "id": "pol_095",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the lower house of Russia's parliament called?",
+    "answers": [
+      "State Duma",
+      "Federation Council",
+      "Supreme Soviet",
+      "Rada"
+    ],
+    "correct": 0,
+    "fact": "The upper house is the Federation Council."
+  },
+  {
+    "id": "pol_096",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which country calls its head of government the Taoiseach?",
+    "answers": [
+      "Ireland",
+      "Iceland",
+      "Scotland",
+      "Wales"
+    ],
+    "correct": 0,
+    "fact": "The word is Irish for \"chief\" or \"leader\"."
+  },
+  {
+    "id": "pol_097",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is \"gerrymandering\"?",
+    "answers": [
+      "Drawing voting areas to favour a party",
+      "Buying votes",
+      "Delaying a vote with speeches",
+      "Switching parties"
+    ],
+    "correct": 0,
+    "fact": "It is named after US governor Elbridge Gerry."
+  },
+  {
+    "id": "pol_098",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is a \"filibuster\"?",
+    "answers": [
+      "Delaying a vote with very long speeches",
+      "A secret ballot",
+      "A vote of no confidence",
+      "A surprise election"
+    ],
+    "correct": 0,
+    "fact": "One US senator spoke for over 24 hours in 1957."
+  },
+  {
+    "id": "pol_099",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which country has the longest written national constitution?",
+    "answers": [
+      "India",
+      "United States",
+      "Brazil",
+      "Nigeria"
+    ],
+    "correct": 0,
+    "fact": "It has hundreds of articles and many schedules."
+  },
+  {
+    "id": "pol_100",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which country's parliament is called the Storting?",
+    "answers": [
+      "Norway",
+      "Sweden",
+      "Denmark",
+      "Finland"
+    ],
+    "correct": 0,
+    "fact": "Sweden's is the Riksdag."
+  },
+  {
+    "id": "pol_101",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the minimum voting age in Singapore?",
+    "answers": [
+      "21",
+      "18",
+      "20",
+      "16"
+    ],
+    "correct": 0,
+    "fact": "Many countries use 18 instead."
+  },
+  {
+    "id": "pol_102",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which body chooses a new Pope?",
+    "answers": [
+      "The College of Cardinals",
+      "The Synod of Bishops",
+      "The Vatican Senate",
+      "The Swiss Guard"
+    ],
+    "correct": 0,
+    "fact": "White smoke from the Sistine Chapel means they have decided."
+  },
+  {
+    "id": "pol_103",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which country's parliament is called the Sejm?",
+    "answers": [
+      "Poland",
+      "Hungary",
+      "Czechia",
+      "Lithuania"
+    ],
+    "correct": 0,
+    "fact": "It is the lower house; the upper house is the Senate."
+  },
+  {
+    "id": "pol_104",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is the official London residence of the UK Prime Minister?",
+    "answers": [
+      "10 Downing Street",
+      "Buckingham Palace",
+      "Chequers",
+      "Lambeth Palace"
+    ],
+    "correct": 0,
+    "fact": "Chequers is the country home."
+  },
+  {
+    "id": "pol_105",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Who formally appoints Singapore's Prime Minister?",
+    "answers": [
+      "The President",
+      "Parliament",
+      "The Chief Justice",
+      "The voters directly"
+    ],
+    "correct": 0,
+    "fact": "The President appoints the MP who has the confidence of most MPs."
+  },
+  {
+    "id": "pol_106",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "In Singapore politics, what does NCMP stand for?",
+    "answers": [
+      "Non-Constituency Member of Parliament",
+      "National Council Member of Parliament",
+      "Nominated Civic MP",
+      "New Constituency MP"
+    ],
+    "correct": 0,
+    "fact": "NCMPs are top-scoring opposition candidates who did not win a seat."
+  },
+  {
+    "id": "pol_107",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "How many times can a person be elected US president?",
+    "answers": [
+      "Twice",
+      "Once",
+      "Three times",
+      "Any number"
+    ],
+    "correct": 0,
+    "fact": "The limit has been in the Constitution since 1951."
+  },
+  {
+    "id": "pol_108",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which UN agency keeps the list of World Heritage Sites?",
+    "answers": [
+      "UNESCO",
+      "UNICEF",
+      "WHO",
+      "UNDP"
+    ],
+    "correct": 0,
+    "fact": "Singapore's Botanic Gardens joined the list in 2015."
+  },
+  {
+    "id": "pol_109",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which of these countries is led by a Chancellor?",
+    "answers": [
+      "Germany",
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "correct": 0,
+    "fact": "Austria's head of government is also called Chancellor."
+  },
+  {
+    "id": "pol_110",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "In which city is the European Central Bank?",
+    "answers": [
+      "Frankfurt",
+      "Brussels",
+      "Paris",
+      "Luxembourg"
+    ],
+    "correct": 0,
+    "fact": "It sets interest rates for the euro."
+  },
+  {
+    "id": "pol_111",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which philosopher wrote \"Leviathan\" in 1651?",
+    "answers": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Niccolò Machiavelli"
+    ],
+    "correct": 0,
+    "fact": "He argued that life without government would be \"nasty, brutish, and short\"."
+  },
+  {
+    "id": "pol_112",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which document begins \"When in the Course of human events\"?",
+    "answers": [
+      "US Declaration of Independence",
+      "US Constitution",
+      "Bill of Rights",
+      "Gettysburg Address"
+    ],
+    "correct": 0,
+    "fact": "It was adopted on 4 July 1776."
+  },
+  {
+    "id": "pol_113",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What colour is the background of the United Nations flag?",
+    "answers": [
+      "Light blue",
+      "White",
+      "Dark blue",
+      "Green"
+    ],
+    "correct": 0,
+    "fact": "The emblem shows a world map framed by olive branches."
+  },
+  {
+    "id": "pol_114",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which country is ruled by a Grand Duke?",
+    "answers": [
+      "Luxembourg",
+      "Liechtenstein",
+      "Monaco",
+      "Andorra"
+    ],
+    "correct": 0,
+    "fact": "It is the world's only remaining grand duchy."
+  },
+  {
+    "id": "pol_115",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is an election held to fill a single empty seat called?",
+    "answers": [
+      "A by-election",
+      "A referendum",
+      "A primary",
+      "A recall"
+    ],
+    "correct": 0,
+    "fact": "It happens between general elections."
+  },
+  {
+    "id": "pol_116",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is the call sign of the US president's plane?",
+    "answers": [
+      "Air Force One",
+      "Marine One",
+      "Eagle One",
+      "Executive One"
+    ],
+    "correct": 0,
+    "fact": "Marine One is the president's helicopter."
+  },
+  {
+    "id": "pol_117",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Members of which alliance promise to defend each other under \"Article 5\"?",
+    "answers": [
+      "NATO",
+      "United Nations",
+      "ASEAN",
+      "European Union"
+    ],
+    "correct": 0,
+    "fact": "It has been used once, after the 11 September 2001 attacks."
+  },
+  {
+    "id": "pol_118",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "In US politics, what does the number 538 refer to?",
+    "answers": [
+      "Electoral College votes",
+      "Members of Congress",
+      "Federal judges",
+      "Days in a term"
+    ],
+    "correct": 0,
+    "fact": "A candidate needs 270 to win."
+  },
+  {
+    "id": "pol_119",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which leader was nicknamed the \"Iron Lady\"?",
+    "answers": [
+      "Margaret Thatcher",
+      "Indira Gandhi",
+      "Golda Meir",
+      "Angela Merkel"
+    ],
+    "correct": 0,
+    "fact": "A Soviet newspaper gave her the nickname in 1976."
+  },
+  {
+    "id": "pol_120",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "tf",
+    "question": "Singapore's President can block the government from drawing on past reserves.",
+    "answer": true,
+    "fact": "It is one of the President's custodial powers."
+  },
+  {
+    "id": "pol_121",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "tf",
+    "question": "The UN General Assembly chooses the Secretary-General without the Security Council.",
+    "answer": false,
+    "fact": "The Assembly appoints them on the Security Council's recommendation."
+  },
+  {
+    "id": "pol_122",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is the upper house of Japan's Diet called?",
+    "answers": [
+      "House of Councillors",
+      "House of Representatives",
+      "Senate",
+      "House of Peers"
+    ],
+    "correct": 0,
+    "fact": "The House of Peers existed before 1947."
+  },
+  {
+    "id": "pol_123",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Who was Singapore's first President?",
+    "answers": [
+      "Yusof Ishak",
+      "Benjamin Sheares",
+      "Devan Nair",
+      "Wee Kim Wee"
+    ],
+    "correct": 0,
+    "fact": "He served from 1965 to 1970."
+  },
+  {
+    "id": "pol_124",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is the lower house of Malaysia's Parliament called?",
+    "answers": [
+      "Dewan Rakyat",
+      "Dewan Negara",
+      "Majlis",
+      "Lok Sabha"
+    ],
+    "correct": 0,
+    "fact": "Dewan Rakyat means \"House of the People\"."
+  },
+  {
+    "id": "pol_125",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is the parliament of Iceland called?",
+    "answers": [
+      "Althing",
+      "Storting",
+      "Riksdag",
+      "Folketing"
+    ],
+    "correct": 0,
+    "fact": "Founded in 930, it is one of the oldest parliaments still going."
+  },
+  {
+    "id": "pol_126",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which country has two co-princes as its heads of state?",
+    "answers": [
+      "Andorra",
+      "Monaco",
+      "Liechtenstein",
+      "San Marino"
+    ],
+    "correct": 0,
+    "fact": "They are the French president and a Spanish bishop."
+  },
+  {
+    "id": "pol_127",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Who became the world's first woman prime minister, in 1960?",
+    "answers": [
+      "Sirimavo Bandaranaike",
+      "Indira Gandhi",
+      "Golda Meir",
+      "Margaret Thatcher"
+    ],
+    "correct": 0,
+    "fact": "She led Ceylon, now Sri Lanka."
+  },
+  {
+    "id": "pol_128",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is the US president's country retreat called?",
+    "answers": [
+      "Camp David",
+      "Fort Knox",
+      "Mar-a-Lago",
+      "Blair House"
+    ],
+    "correct": 0,
+    "fact": "Franklin Roosevelt first called it Shangri-La."
+  },
+  {
+    "id": "pol_129",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "In politics, what is a \"lame duck\"?",
+    "answers": [
+      "A leader near the end of their term",
+      "A failed law",
+      "A tiny party",
+      "An empty seat"
+    ],
+    "correct": 0,
+    "fact": "They often have less sway once a successor is on the way."
+  },
+  {
+    "id": "pol_130",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is a \"hung parliament\"?",
+    "answers": [
+      "One where no party has a majority",
+      "One that has been suspended",
+      "One with no Speaker",
+      "One that cannot meet"
+    ],
+    "correct": 0,
+    "fact": "It often leads to a coalition or a minority government."
+  },
+  {
+    "id": "pol_131",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is the main job of a parliament's Speaker?",
+    "answers": [
+      "Keeping order in debates",
+      "Writing the budget",
+      "Leading the government",
+      "Counting the votes"
+    ],
+    "correct": 0,
+    "fact": "In the UK, a new Speaker is traditionally \"dragged\" to the chair."
+  },
+  {
+    "id": "pol_132",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "Who is the Supreme Governor of the Church of England?",
+    "answers": [
+      "The British monarch",
+      "The Prime Minister",
+      "The Archbishop of Canterbury",
+      "The Speaker"
+    ],
+    "correct": 0,
+    "fact": "The Archbishop of Canterbury is its senior bishop."
+  },
+  {
+    "id": "pol_133",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "In a parliament, what does a party \"whip\" do?",
+    "answers": [
+      "Keeps members voting with the party",
+      "Times the speeches",
+      "Writes new laws",
+      "Guards the chamber"
+    ],
+    "correct": 0,
+    "fact": "The name comes from the \"whipper-in\" who kept hounds together on a hunt."
+  },
+  {
+    "id": "pol_134",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is an \"ombudsman\"?",
+    "answers": [
+      "An official who looks into complaints",
+      "A vote counter",
+      "A royal advisor",
+      "A party whip"
+    ],
+    "correct": 0,
+    "fact": "The word comes from Swedish."
+  },
+  {
+    "id": "pol_135",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which organisation's flag shows a circle of 12 gold stars on blue?",
+    "answers": [
+      "The European Union",
+      "The United Nations",
+      "ASEAN",
+      "NATO"
+    ],
+    "correct": 0,
+    "fact": "Twelve stands for unity, not the number of members."
+  },
+  {
+    "id": "pol_136",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "tf",
+    "question": "New Zealand's parliament has only one chamber.",
+    "answer": true,
+    "fact": "Its upper house was abolished in 1950."
+  },
+  {
+    "id": "pol_137",
+    "category": "politics",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "tf",
+    "question": "Bhutan measures its progress by Gross National Happiness.",
+    "answer": true,
+    "fact": "Its fourth king came up with the idea in the 1970s."
+  },
+  {
+    "id": "pol_138",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "estimate",
+    "question": "How many seats are in the UK House of Commons?",
+    "answer": 650,
+    "min": 300,
+    "max": 1000,
+    "step": 10,
+    "tolerance": 20,
+    "unit": "seats",
+    "fact": "There is not enough bench space for every MP to sit at once."
+  },
+  {
+    "id": "pol_139",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "estimate",
+    "question": "How many seats are in Malaysia's Dewan Rakyat?",
+    "answer": 222,
+    "min": 100,
+    "max": 400,
+    "step": 1,
+    "tolerance": 15,
+    "unit": "seats",
+    "fact": "Members are elected for up to five years."
+  },
+  {
+    "id": "pol_140",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "Which country appointed a Minister of State for Happiness in 2016?",
+    "answers": [
+      "United Arab Emirates",
+      "Bhutan",
+      "Denmark",
+      "Finland"
+    ],
+    "correct": 0,
+    "fact": "The job came with a Minister for Tolerance too."
+  },
+  {
+    "id": "pol_141",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "What is the official title of the cat at 10 Downing Street?",
+    "answers": [
+      "Chief Mouser to the Cabinet Office",
+      "First Cat",
+      "Keeper of the Door",
+      "Royal Ratcatcher"
+    ],
+    "correct": 0,
+    "fact": "Larry has held the job since 2011."
+  },
+  {
+    "id": "pol_142",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "Which is the smallest member of the UN by area?",
+    "answers": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Nauru"
+    ],
+    "correct": 0,
+    "fact": "Vatican City is smaller, but it is not a UN member."
+  },
+  {
+    "id": "pol_143",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "tf",
+    "question": "A US presidential candidate once won nearly a million votes from prison.",
+    "answer": true,
+    "fact": "Eugene Debs did it in 1920."
+  },
+  {
+    "id": "pol_144",
+    "category": "politics",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "tf",
+    "question": "A US president was once sworn in on a plane.",
+    "answer": true,
+    "fact": "Lyndon Johnson took the oath on Air Force One in 1963."
+  }
+]

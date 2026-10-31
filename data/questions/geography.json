@@ -1,0 +1,2398 @@
+[
+  {
+    "id": "geo_001",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which is the largest ocean on Earth?",
+    "answers": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct": 0,
+    "fact": "The Pacific covers about a third of the planet's surface."
+  },
+  {
+    "id": "geo_002",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of Australia?",
+    "answers": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Perth"
+    ],
+    "correct": 1,
+    "fact": "Canberra was purpose-built as a compromise between Sydney and Melbourne."
+  },
+  {
+    "id": "geo_003",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which country has the largest land area in the world?",
+    "answers": [
+      "Canada",
+      "China",
+      "Russia",
+      "United States"
+    ],
+    "correct": 2,
+    "fact": "Russia covers about 17 million square kilometres."
+  },
+  {
+    "id": "geo_004",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Mount Everest sits on the border of Nepal and which country?",
+    "answers": [
+      "India",
+      "Bhutan",
+      "Pakistan",
+      "China"
+    ],
+    "correct": 3,
+    "fact": "The northern side lies in Tibet, China."
+  },
+  {
+    "id": "geo_005",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which country is home to the temple complex of Angkor Wat?",
+    "answers": [
+      "Cambodia",
+      "Thailand",
+      "Vietnam",
+      "Laos"
+    ],
+    "correct": 0,
+    "fact": "Angkor Wat is on Cambodia's national flag."
+  },
+  {
+    "id": "geo_006",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which river flows through Cairo?",
+    "answers": [
+      "Tigris",
+      "Nile",
+      "Niger",
+      "Congo"
+    ],
+    "correct": 1,
+    "fact": "The Nile flows north into the Mediterranean."
+  },
+  {
+    "id": "geo_007",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of Canada?",
+    "answers": [
+      "Toronto",
+      "Montreal",
+      "Ottawa",
+      "Vancouver"
+    ],
+    "correct": 2,
+    "fact": "Queen Victoria chose Ottawa as capital in 1857."
+  },
+  {
+    "id": "geo_008",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which European country is shaped like a boot?",
+    "answers": [
+      "Greece",
+      "Portugal",
+      "Spain",
+      "Italy"
+    ],
+    "correct": 3,
+    "fact": "Sicily sits at the \"toe\" of the boot."
+  },
+  {
+    "id": "geo_009",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Machu Picchu is a famous Inca site in which country?",
+    "answers": [
+      "Peru",
+      "Bolivia",
+      "Chile",
+      "Colombia"
+    ],
+    "correct": 0,
+    "fact": "It sits high in the Andes at about 2,400 metres."
+  },
+  {
+    "id": "geo_010",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which is the largest country in South America by area?",
+    "answers": [
+      "Argentina",
+      "Brazil",
+      "Peru",
+      "Colombia"
+    ],
+    "correct": 1,
+    "fact": "Brazil covers nearly half the continent."
+  },
+  {
+    "id": "geo_011",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The Taj Mahal stands in which Indian city?",
+    "answers": [
+      "Delhi",
+      "Jaipur",
+      "Agra",
+      "Mumbai"
+    ],
+    "correct": 2,
+    "fact": "Emperor Shah Jahan built it for his wife Mumtaz Mahal."
+  },
+  {
+    "id": "geo_012",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of Vietnam?",
+    "answers": [
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hue",
+      "Hanoi"
+    ],
+    "correct": 3,
+    "fact": "Ho Chi Minh City is bigger, but Hanoi is the capital."
+  },
+  {
+    "id": "geo_013",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of the Philippines?",
+    "answers": [
+      "Manila",
+      "Cebu City",
+      "Davao",
+      "Quezon City"
+    ],
+    "correct": 0,
+    "fact": "Manila sits on the island of Luzon."
+  },
+  {
+    "id": "geo_014",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which city is Malaysia's national capital?",
+    "answers": [
+      "Putrajaya",
+      "Kuala Lumpur",
+      "George Town",
+      "Johor Bahru"
+    ],
+    "correct": 1,
+    "fact": "Putrajaya is the administrative centre of the government."
+  },
+  {
+    "id": "geo_015",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The Sahara Desert is located on which continent?",
+    "answers": [
+      "Asia",
+      "Australia",
+      "Africa",
+      "South America"
+    ],
+    "correct": 2,
+    "fact": "It is the world's largest hot desert."
+  },
+  {
+    "id": "geo_016",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the smallest country in the world by area?",
+    "answers": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein",
+      "Vatican City"
+    ],
+    "correct": 3,
+    "fact": "It covers only about 0.44 square kilometres."
+  },
+  {
+    "id": "geo_017",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which is the longest river in mainland Southeast Asia?",
+    "answers": [
+      "Mekong",
+      "Irrawaddy",
+      "Chao Phraya",
+      "Salween"
+    ],
+    "correct": 0,
+    "fact": "The Mekong flows through six countries."
+  },
+  {
+    "id": "geo_018",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Strait of Malacca lies between Peninsular Malaysia and which island?",
+    "answers": [
+      "Borneo",
+      "Sumatra",
+      "Java",
+      "Sulawesi"
+    ],
+    "correct": 1,
+    "fact": "It is one of the world's busiest shipping lanes."
+  },
+  {
+    "id": "geo_019",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the capital of Brunei?",
+    "answers": [
+      "Kuala Belait",
+      "Seria",
+      "Bandar Seri Begawan",
+      "Tutong"
+    ],
+    "correct": 2,
+    "fact": "It was called Brunei Town until 1970."
+  },
+  {
+    "id": "geo_020",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the capital of Myanmar?",
+    "answers": [
+      "Yangon",
+      "Mandalay",
+      "Bago",
+      "Naypyidaw"
+    ],
+    "correct": 3,
+    "fact": "The government moved there from Yangon in 2005-2006."
+  },
+  {
+    "id": "geo_021",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Lake Toba, the largest volcanic lake in the world, is on which island?",
+    "answers": [
+      "Sumatra",
+      "Java",
+      "Borneo",
+      "Sulawesi"
+    ],
+    "correct": 0,
+    "fact": "It formed in a supervolcano eruption about 74,000 years ago."
+  },
+  {
+    "id": "geo_022",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the highest mountain in Malaysia?",
+    "answers": [
+      "Mount Tahan",
+      "Mount Kinabalu",
+      "Mount Mulu",
+      "Gunung Ledang"
+    ],
+    "correct": 1,
+    "fact": "Kinabalu in Sabah rises to 4,095 metres."
+  },
+  {
+    "id": "geo_023",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which is the world's largest island, excluding continents?",
+    "answers": [
+      "Borneo",
+      "New Guinea",
+      "Greenland",
+      "Madagascar"
+    ],
+    "correct": 2,
+    "fact": "Greenland is about 2.2 million square kilometres."
+  },
+  {
+    "id": "geo_024",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Southeast Asian country is landlocked?",
+    "answers": [
+      "Cambodia",
+      "Vietnam",
+      "Myanmar",
+      "Laos"
+    ],
+    "correct": 3,
+    "fact": "Laos is the only landlocked ASEAN member."
+  },
+  {
+    "id": "geo_025",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which strait separates Asia from North America?",
+    "answers": [
+      "Bering Strait",
+      "Strait of Gibraltar",
+      "Strait of Hormuz",
+      "Denmark Strait"
+    ],
+    "correct": 0,
+    "fact": "At its narrowest it is about 85 km wide."
+  },
+  {
+    "id": "geo_026",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the largest island of Japan?",
+    "answers": [
+      "Hokkaido",
+      "Honshu",
+      "Kyushu",
+      "Shikoku"
+    ],
+    "correct": 1,
+    "fact": "Tokyo, Osaka and Hiroshima are all on Honshu."
+  },
+  {
+    "id": "geo_027",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which is the most populous country in Africa?",
+    "answers": [
+      "Ethiopia",
+      "Egypt",
+      "Nigeria",
+      "South Africa"
+    ],
+    "correct": 2,
+    "fact": "Nigeria has well over 200 million people."
+  },
+  {
+    "id": "geo_028",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which is the deepest lake in the world?",
+    "answers": [
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Lake Victoria",
+      "Lake Baikal"
+    ],
+    "correct": 3,
+    "fact": "Baikal in Siberia is over 1,600 metres deep."
+  },
+  {
+    "id": "geo_029",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Indonesian island is the most populous in the world?",
+    "answers": [
+      "Java",
+      "Sumatra",
+      "Bali",
+      "Sulawesi"
+    ],
+    "correct": 0,
+    "fact": "Java holds more than half of Indonesia's people."
+  },
+  {
+    "id": "geo_030",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the capital of Brazil?",
+    "answers": [
+      "Rio de Janeiro",
+      "Brasilia",
+      "Sao Paulo",
+      "Salvador"
+    ],
+    "correct": 1,
+    "fact": "Brasilia was inaugurated in 1960."
+  },
+  {
+    "id": "geo_031",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which Japanese city was the imperial capital before Tokyo?",
+    "answers": [
+      "Osaka",
+      "Nara",
+      "Kyoto",
+      "Nagoya"
+    ],
+    "correct": 2,
+    "fact": "Tokyo became the capital in 1868."
+  },
+  {
+    "id": "geo_032",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "The Tonle Sap, a lake that reverses its flow, is in which country?",
+    "answers": [
+      "Laos",
+      "Thailand",
+      "Myanmar",
+      "Cambodia"
+    ],
+    "correct": 3,
+    "fact": "It swells enormously during the monsoon season."
+  },
+  {
+    "id": "geo_033",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which is the longest river in Asia?",
+    "answers": [
+      "Yangtze",
+      "Yellow River",
+      "Mekong",
+      "Ganges"
+    ],
+    "correct": 0,
+    "fact": "The Yangtze is about 6,300 km long."
+  },
+  {
+    "id": "geo_034",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Mount Kilimanjaro is located in which country?",
+    "answers": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "correct": 1,
+    "fact": "At 5,895 m it is Africa's highest peak."
+  },
+  {
+    "id": "geo_035",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "What is the capital of Kazakhstan?",
+    "answers": [
+      "Almaty",
+      "Tashkent",
+      "Astana",
+      "Bishkek"
+    ],
+    "correct": 2,
+    "fact": "Almaty was the capital until 1997."
+  },
+  {
+    "id": "geo_036",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which country spans the most time zones when overseas territories count?",
+    "answers": [
+      "Russia",
+      "United States",
+      "United Kingdom",
+      "France"
+    ],
+    "correct": 3,
+    "fact": "France has about 12 zones thanks to its overseas territories."
+  },
+  {
+    "id": "geo_037",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which country became ASEAN's 11th member in October 2025?",
+    "answers": [
+      "Timor-Leste",
+      "Papua New Guinea",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "correct": 0,
+    "fact": "Timor-Leste had applied to join since 2011.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "geo_038",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which inland sea shared by Kazakhstan and Uzbekistan has largely dried up?",
+    "answers": [
+      "Caspian Sea",
+      "Aral Sea",
+      "Dead Sea",
+      "Black Sea"
+    ],
+    "correct": 1,
+    "fact": "Irrigation diversions drained most of it from the 1960s."
+  },
+  {
+    "id": "geo_039",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which river flows through Baghdad?",
+    "answers": [
+      "Euphrates",
+      "Jordan",
+      "Tigris",
+      "Nile"
+    ],
+    "correct": 2,
+    "fact": "Baghdad sits on the Tigris."
+  },
+  {
+    "id": "geo_040",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which country has the most lakes in the world?",
+    "answers": [
+      "Russia",
+      "Finland",
+      "United States",
+      "Canada"
+    ],
+    "correct": 3,
+    "fact": "Canada has millions of lakes, more than any other country."
+  },
+  {
+    "id": "geo_041",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which is the largest lake in Africa by surface area?",
+    "answers": [
+      "Lake Victoria",
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Chad"
+    ],
+    "correct": 0,
+    "fact": "It is shared by Uganda, Kenya and Tanzania."
+  },
+  {
+    "id": "geo_042",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The Khyber Pass links Afghanistan with which country?",
+    "answers": [
+      "Iran",
+      "Pakistan",
+      "India",
+      "Turkmenistan"
+    ],
+    "correct": 1,
+    "fact": "It has been a trade and invasion route for millennia."
+  },
+  {
+    "id": "geo_043",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Lake Titicaca is shared by Peru and which other country?",
+    "answers": [
+      "Chile",
+      "Ecuador",
+      "Bolivia",
+      "Argentina"
+    ],
+    "correct": 2,
+    "fact": "It is among the world's highest navigable lakes."
+  },
+  {
+    "id": "geo_044",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Zanzibar is a semi-autonomous region of which country?",
+    "answers": [
+      "Kenya",
+      "Mozambique",
+      "Oman",
+      "Tanzania"
+    ],
+    "correct": 3,
+    "fact": "It merged with Tanganyika in 1964 to form Tanzania."
+  },
+  {
+    "id": "geo_045",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Africa is the second-largest continent by area.",
+    "answer": true,
+    "fact": "Only Asia is larger."
+  },
+  {
+    "id": "geo_046",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "The Amazon River flows into the Pacific Ocean.",
+    "answer": false,
+    "fact": "It flows east across Brazil into the Atlantic."
+  },
+  {
+    "id": "geo_047",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Indonesia has more than 17,000 islands.",
+    "answer": true,
+    "fact": "Roughly 6,000 of them are inhabited."
+  },
+  {
+    "id": "geo_048",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Mount Everest is the tallest mountain on Earth when measured from base to peak.",
+    "answer": false,
+    "fact": "Mauna Kea in Hawaii is taller from its base on the sea floor."
+  },
+  {
+    "id": "geo_049",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Lake Baikal holds about a fifth of the world's unfrozen fresh surface water.",
+    "answer": true,
+    "fact": "It is also the oldest lake, roughly 25 million years old."
+  },
+  {
+    "id": "geo_050",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Vatican City is an independent country.",
+    "answer": true,
+    "fact": "It is the world's smallest sovereign state."
+  },
+  {
+    "id": "geo_051",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Canada has the longest coastline of any country.",
+    "answer": true,
+    "fact": "Its coastline exceeds 200,000 kilometres."
+  },
+  {
+    "id": "geo_052",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Thailand is the only Southeast Asian country never colonised by a European power.",
+    "answer": true,
+    "fact": "Siam kept independence through diplomacy between Britain and France."
+  },
+  {
+    "id": "geo_053",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Sahara is the largest desert in the world.",
+    "answer": false,
+    "fact": "Antarctica is larger; the Sahara is the largest hot desert."
+  },
+  {
+    "id": "geo_054",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How tall is Mount Everest above sea level?",
+    "answer": 8849,
+    "min": 7000,
+    "max": 10000,
+    "step": 10,
+    "tolerance": 100,
+    "unit": "metres",
+    "fact": "Nepal and China jointly announced 8,848.86 m in 2020."
+  },
+  {
+    "id": "geo_055",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many member states does ASEAN have (as of late 2025)?",
+    "answer": 11,
+    "min": 5,
+    "max": 20,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "countries",
+    "fact": "Timor-Leste joined in October 2025.",
+    "as_of": "2026-10"
+  },
+  {
+    "id": "geo_056",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many countries are there in Africa?",
+    "answer": 54,
+    "min": 20,
+    "max": 80,
+    "step": 1,
+    "tolerance": 2,
+    "unit": "countries",
+    "fact": "Africa is the continent with the most countries."
+  },
+  {
+    "id": "geo_057",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "Roughly how deep is the Challenger Deep in the Mariana Trench?",
+    "answer": 10900,
+    "min": 7000,
+    "max": 13000,
+    "step": 50,
+    "tolerance": 300,
+    "unit": "metres",
+    "fact": "It is the deepest known point of Earth's oceans."
+  },
+  {
+    "id": "geo_058",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "What percentage of Earth's surface is covered by water?",
+    "answer": 71,
+    "min": 40,
+    "max": 95,
+    "step": 1,
+    "tolerance": 4,
+    "unit": "%",
+    "fact": "About 97 percent of that water is salty."
+  },
+  {
+    "id": "geo_059",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "What is Russia's area in millions of square kilometres?",
+    "answer": 17.1,
+    "min": 6,
+    "max": 24,
+    "step": 0.1,
+    "tolerance": 1,
+    "unit": "million km2",
+    "fact": "It spans eleven time zones."
+  },
+  {
+    "id": "geo_060",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many islands does the Philippines have, officially?",
+    "answer": 7641,
+    "min": 2000,
+    "max": 10000,
+    "step": 50,
+    "tolerance": 500,
+    "unit": "islands",
+    "fact": "About 2,000 of them are inhabited."
+  },
+  {
+    "id": "geo_061",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How tall is Mount Kinabalu in Sabah?",
+    "answer": 4095,
+    "min": 2000,
+    "max": 5500,
+    "step": 5,
+    "tolerance": 150,
+    "unit": "metres",
+    "fact": "It is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "geo_062",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "What is Earth's circumference around the equator, in kilometres?",
+    "answer": 40075,
+    "min": 20000,
+    "max": 50000,
+    "step": 100,
+    "tolerance": 1500,
+    "unit": "km",
+    "fact": "Eratosthenes estimated it over 2,000 years ago."
+  },
+  {
+    "id": "geo_063",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which continent is the coldest and almost entirely covered in ice?",
+    "answers": [
+      "Antarctica",
+      "Asia",
+      "Greenland",
+      "Europe"
+    ],
+    "correct": 0,
+    "fact": "No country owns it, and it is mostly visited by scientists."
+  },
+  {
+    "id": "geo_064",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of France?",
+    "answers": [
+      "Lyon",
+      "Marseille",
+      "Paris",
+      "Nice"
+    ],
+    "correct": 2,
+    "fact": "The Seine river flows through it."
+  },
+  {
+    "id": "geo_065",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of Japan?",
+    "answers": [
+      "Osaka",
+      "Kyoto",
+      "Nagoya",
+      "Tokyo"
+    ],
+    "correct": 3,
+    "fact": "Kyoto was the imperial capital for over a thousand years."
+  },
+  {
+    "id": "geo_066",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of Thailand?",
+    "answers": [
+      "Bangkok",
+      "Phuket",
+      "Chiang Mai",
+      "Pattaya"
+    ],
+    "correct": 0,
+    "fact": "Its full ceremonial name is one of the longest place names in the world."
+  },
+  {
+    "id": "geo_067",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which US state is made up entirely of islands in the Pacific?",
+    "answers": [
+      "Alaska",
+      "Hawaii",
+      "Florida",
+      "Maine"
+    ],
+    "correct": 1,
+    "fact": "It became a state in 1959."
+  },
+  {
+    "id": "geo_068",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which ocean lies between Africa and Australia?",
+    "answers": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "correct": 2,
+    "fact": "Sri Lanka and the Maldives sit in it."
+  },
+  {
+    "id": "geo_069",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which river flows through London?",
+    "answers": [
+      "The Seine",
+      "The Thames",
+      "The Rhine",
+      "The Danube"
+    ],
+    "correct": 1,
+    "fact": "It is about 346 kilometres long."
+  },
+  {
+    "id": "geo_070",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which country is famous for its deep sea inlets called fjords?",
+    "answers": [
+      "Portugal",
+      "Greece",
+      "Switzerland",
+      "Norway"
+    ],
+    "correct": 3,
+    "fact": "Glaciers carved them over thousands of years."
+  },
+  {
+    "id": "geo_071",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "The Andes, the longest mountain range on land, are on which continent?",
+    "answers": [
+      "South America",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "correct": 0,
+    "fact": "They run for around 7,000 kilometres."
+  },
+  {
+    "id": "geo_072",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which river flows through Paris?",
+    "answers": [
+      "The Rhine",
+      "The Loire",
+      "The Seine",
+      "The Danube"
+    ],
+    "correct": 2,
+    "fact": "Boats called bateaux-mouches carry tourists along it."
+  },
+  {
+    "id": "geo_073",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the capital of Turkey?",
+    "answers": [
+      "Ankara",
+      "Istanbul",
+      "Izmir",
+      "Antalya"
+    ],
+    "correct": 0,
+    "fact": "Istanbul is bigger, but Ankara has been the capital since 1923."
+  },
+  {
+    "id": "geo_074",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "What is the capital of New Zealand?",
+    "answers": [
+      "Auckland",
+      "Christchurch",
+      "Hamilton",
+      "Wellington"
+    ],
+    "correct": 3,
+    "fact": "Auckland is bigger, but Wellington is the seat of government."
+  },
+  {
+    "id": "geo_075",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the capital of Switzerland?",
+    "answers": [
+      "Zurich",
+      "Bern",
+      "Geneva",
+      "Basel"
+    ],
+    "correct": 1,
+    "fact": "Zurich is the largest city, but Bern is the capital."
+  },
+  {
+    "id": "geo_076",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "What is the capital of Cambodia?",
+    "answers": [
+      "Siem Reap",
+      "Battambang",
+      "Vientiane",
+      "Phnom Penh"
+    ],
+    "correct": 3,
+    "fact": "It sits where the Mekong and Tonle Sap rivers meet."
+  },
+  {
+    "id": "geo_077",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which Canadian province is mostly French-speaking?",
+    "answers": [
+      "Quebec",
+      "Ontario",
+      "Alberta",
+      "Manitoba"
+    ],
+    "correct": 0,
+    "fact": "Its largest city is Montreal."
+  },
+  {
+    "id": "geo_078",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which desert in Chile is among the driest places on Earth?",
+    "answers": [
+      "Gobi",
+      "Atacama",
+      "Kalahari",
+      "Sahara"
+    ],
+    "correct": 1,
+    "fact": "Some weather stations there have never recorded rain."
+  },
+  {
+    "id": "geo_079",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "mc",
+    "question": "Which narrow strait separates Spain from Morocco?",
+    "answers": [
+      "Bosphorus",
+      "Strait of Hormuz",
+      "Strait of Gibraltar",
+      "Bering Strait"
+    ],
+    "correct": 2,
+    "fact": "It links the Atlantic Ocean with the Mediterranean Sea."
+  },
+  {
+    "id": "geo_080",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which South American country owns the Galápagos Islands?",
+    "answers": [
+      "Peru",
+      "Chile",
+      "Colombia",
+      "Ecuador"
+    ],
+    "correct": 3,
+    "fact": "Darwin visited them in 1835."
+  },
+  {
+    "id": "geo_081",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "In which country is the historic city of Timbuktu?",
+    "answers": [
+      "Niger",
+      "Mali",
+      "Egypt",
+      "Morocco"
+    ],
+    "correct": 1,
+    "fact": "It was once a centre of trade and learning in the Sahara."
+  },
+  {
+    "id": "geo_082",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which mountain range forms part of the boundary between Europe and Asia in Russia?",
+    "answers": [
+      "The Urals",
+      "The Alps",
+      "The Andes",
+      "The Carpathians"
+    ],
+    "correct": 0,
+    "fact": "They stretch for about 2,500 kilometres."
+  },
+  {
+    "id": "geo_083",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "mc",
+    "question": "Which is the largest country in Africa by area?",
+    "answers": [
+      "Nigeria",
+      "Egypt",
+      "Algeria",
+      "Kenya"
+    ],
+    "correct": 2,
+    "fact": "Most of it is covered by the Sahara."
+  },
+  {
+    "id": "geo_084",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "The Mekong River empties into which sea?",
+    "answers": [
+      "Andaman Sea",
+      "Java Sea",
+      "South China Sea",
+      "Bay of Bengal"
+    ],
+    "correct": 2,
+    "fact": "It flows through six countries."
+  },
+  {
+    "id": "geo_085",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "mc",
+    "question": "Which waterfall on the Zambia-Zimbabwe border is called \"the smoke that thunders\"?",
+    "answers": [
+      "Iguazu Falls",
+      "Victoria Falls",
+      "Niagara Falls",
+      "Angel Falls"
+    ],
+    "correct": 1,
+    "fact": "Its spray can be seen from kilometres away."
+  },
+  {
+    "id": "geo_086",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Australia is both a country and a continent.",
+    "answer": true,
+    "fact": "It is sometimes grouped with nearby islands as Oceania."
+  },
+  {
+    "id": "geo_087",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "tf",
+    "question": "Singapore lies south of the equator.",
+    "answer": false,
+    "fact": "It sits about 1 degree north of the equator."
+  },
+  {
+    "id": "geo_088",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The Nile flows northwards.",
+    "answer": true,
+    "fact": "It runs from East Africa up to the Mediterranean Sea."
+  },
+  {
+    "id": "geo_089",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "The equator passes through Indonesia.",
+    "answer": true,
+    "fact": "It crosses Sumatra, Borneo and Sulawesi."
+  },
+  {
+    "id": "geo_090",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "tf",
+    "question": "Most of Iceland is covered by ice.",
+    "answer": false,
+    "fact": "Glaciers cover roughly a tenth of the country."
+  },
+  {
+    "id": "geo_091",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "tf",
+    "question": "Africa is the only continent that touches all four hemispheres.",
+    "answer": true,
+    "fact": "The equator and the prime meridian both cross it."
+  },
+  {
+    "id": "geo_092",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many continents are usually counted in the world?",
+    "answer": 7,
+    "min": 3,
+    "max": 10,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "continents",
+    "fact": "Some countries teach a version with six or five instead."
+  },
+  {
+    "id": "geo_093",
+    "category": "geography",
+    "difficulty": 1,
+    "type": "estimate",
+    "question": "How many states are there in the United States?",
+    "answer": 50,
+    "min": 30,
+    "max": 70,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "states",
+    "fact": "Alaska and Hawaii joined in 1959."
+  },
+  {
+    "id": "geo_094",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "How many sovereign countries are in South America?",
+    "answer": 12,
+    "min": 5,
+    "max": 20,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "countries",
+    "fact": "Brazil alone covers nearly half the continent."
+  },
+  {
+    "id": "geo_095",
+    "category": "geography",
+    "difficulty": 2,
+    "type": "estimate",
+    "question": "About how tall is the Burj Khalifa in Dubai, in metres?",
+    "answer": 828,
+    "min": 400,
+    "max": 1200,
+    "step": 5,
+    "tolerance": 20,
+    "unit": "metres",
+    "fact": "It opened in 2010 after years of construction."
+  },
+  {
+    "id": "geo_096",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "About how tall is Mount Fuji, in metres?",
+    "answer": 3776,
+    "min": 2000,
+    "max": 5000,
+    "step": 10,
+    "tolerance": 100,
+    "unit": "metres",
+    "fact": "It is Japan's highest mountain."
+  },
+  {
+    "id": "geo_097",
+    "category": "geography",
+    "difficulty": 3,
+    "type": "estimate",
+    "question": "How many time zones does Russia span?",
+    "answer": 11,
+    "min": 4,
+    "max": 20,
+    "step": 1,
+    "tolerance": 0,
+    "unit": "zones",
+    "fact": "They run from Kaliningrad in the west to Kamchatka in the far east."
+  },
+  {
+    "id": "geo_098",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the capital of Laos?",
+    "answers": [
+      "Vientiane",
+      "Luang Prabang",
+      "Phnom Penh",
+      "Yangon"
+    ],
+    "correct": 0,
+    "fact": "It sits on the Mekong, facing Thailand across the river."
+  },
+  {
+    "id": "geo_099",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which desert covers much of Mongolia and northern China?",
+    "answers": [
+      "Gobi",
+      "Taklamakan",
+      "Thar",
+      "Karakum"
+    ],
+    "correct": 0,
+    "fact": "It is a cold desert, with snow in winter."
+  },
+  {
+    "id": "geo_100",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which is the tallest uninterrupted waterfall in the world?",
+    "answers": [
+      "Angel Falls",
+      "Victoria Falls",
+      "Niagara Falls",
+      "Iguazu Falls"
+    ],
+    "correct": 0,
+    "fact": "It drops 979 m in Venezuela."
+  },
+  {
+    "id": "geo_101",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which African country was once called Abyssinia?",
+    "answers": [
+      "Ethiopia",
+      "Eritrea",
+      "Somalia",
+      "Sudan"
+    ],
+    "correct": 0,
+    "fact": "It was never colonised, apart from a brief Italian occupation."
+  },
+  {
+    "id": "geo_102",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which river forms much of the border between the USA and Mexico?",
+    "answers": [
+      "Rio Grande",
+      "Colorado",
+      "Mississippi",
+      "Pecos"
+    ],
+    "correct": 0,
+    "fact": "In Mexico it is called the Río Bravo."
+  },
+  {
+    "id": "geo_103",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "What is the capital of Mongolia?",
+    "answers": [
+      "Ulaanbaatar",
+      "Astana",
+      "Hohhot",
+      "Bishkek"
+    ],
+    "correct": 0,
+    "fact": "It is often called the coldest capital city on Earth."
+  },
+  {
+    "id": "geo_104",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "In which country do Komodo dragons live in the wild?",
+    "answers": [
+      "Indonesia",
+      "Philippines",
+      "Malaysia",
+      "Papua New Guinea"
+    ],
+    "correct": 0,
+    "fact": "They are the largest living lizards."
+  },
+  {
+    "id": "geo_105",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which country is often said to have the most islands?",
+    "answers": [
+      "Sweden",
+      "Indonesia",
+      "Philippines",
+      "Canada"
+    ],
+    "correct": 0,
+    "fact": "Its coasts and lakes hold over 260,000 islands."
+  },
+  {
+    "id": "geo_106",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which city is built on more than 100 small islands linked by bridges?",
+    "answers": [
+      "Venice",
+      "Amsterdam",
+      "Stockholm",
+      "Bruges"
+    ],
+    "correct": 0,
+    "fact": "It has around 400 bridges and almost no cars."
+  },
+  {
+    "id": "geo_107",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "The Mekong River begins on which plateau?",
+    "answers": [
+      "Tibetan Plateau",
+      "Deccan Plateau",
+      "Iranian Plateau",
+      "Mongolian Plateau"
+    ],
+    "correct": 0,
+    "fact": "It flows through six countries to reach the South China Sea."
+  },
+  {
+    "id": "geo_108",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Istanbul sits on two continents. Which country is it in?",
+    "answers": [
+      "Turkey",
+      "Greece",
+      "Egypt",
+      "Georgia"
+    ],
+    "correct": 0,
+    "fact": "The Bosphorus strait divides its European and Asian sides."
+  },
+  {
+    "id": "geo_109",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which is the least densely populated country in the world?",
+    "answers": [
+      "Mongolia",
+      "Australia",
+      "Canada",
+      "Iceland"
+    ],
+    "correct": 0,
+    "fact": "It has about two people per square kilometre."
+  },
+  {
+    "id": "geo_110",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "mc",
+    "question": "Mount Fuji stands on which Japanese island?",
+    "answers": [
+      "Honshu",
+      "Hokkaido",
+      "Kyushu",
+      "Shikoku"
+    ],
+    "correct": 0,
+    "fact": "It last erupted in 1707."
+  },
+  {
+    "id": "geo_111",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 2,
+    "type": "tf",
+    "question": "The Philippines is made up of more than 7,000 islands.",
+    "answer": true,
+    "fact": "The official count is over 7,600."
+  },
+  {
+    "id": "geo_112",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 2,
+    "type": "mc",
+    "question": "Which country completely surrounds Lesotho?",
+    "answers": [
+      "South Africa",
+      "Botswana",
+      "Namibia",
+      "Zimbabwe"
+    ],
+    "correct": 0,
+    "fact": "Lesotho is the only country lying entirely above 1,000 m."
+  },
+  {
+    "id": "geo_113",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "In which country is the city of Marrakesh?",
+    "answers": [
+      "Morocco",
+      "Algeria",
+      "Tunisia",
+      "Egypt"
+    ],
+    "correct": 0,
+    "fact": "Its old walled city is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "geo_114",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which river flows through Budapest?",
+    "answers": [
+      "Danube",
+      "Rhine",
+      "Vistula",
+      "Elbe"
+    ],
+    "correct": 0,
+    "fact": "It divides the city into Buda and Pest."
+  },
+  {
+    "id": "geo_115",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is the capital of Bhutan?",
+    "answers": [
+      "Thimphu",
+      "Kathmandu",
+      "Paro",
+      "Dhaka"
+    ],
+    "correct": 0,
+    "fact": "It famously has no traffic lights."
+  },
+  {
+    "id": "geo_116",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which is the largest country lying entirely within Europe?",
+    "answers": [
+      "Ukraine",
+      "France",
+      "Spain",
+      "Germany"
+    ],
+    "correct": 0,
+    "fact": "Russia is bigger, but it spans two continents."
+  },
+  {
+    "id": "geo_117",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which island country lies between Sicily and Libya?",
+    "answers": [
+      "Malta",
+      "Cyprus",
+      "Crete",
+      "Corsica"
+    ],
+    "correct": 0,
+    "fact": "Its capital is Valletta."
+  },
+  {
+    "id": "geo_118",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which African country has three capital cities?",
+    "answers": [
+      "South Africa",
+      "Nigeria",
+      "Kenya",
+      "Egypt"
+    ],
+    "correct": 0,
+    "fact": "Pretoria, Cape Town and Bloemfontein share the jobs."
+  },
+  {
+    "id": "geo_119",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which strait separates Singapore from Indonesia's Riau Islands?",
+    "answers": [
+      "Singapore Strait",
+      "Strait of Malacca",
+      "Johor Strait",
+      "Sunda Strait"
+    ],
+    "correct": 0,
+    "fact": "It is one of the busiest shipping lanes in the world."
+  },
+  {
+    "id": "geo_120",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is the capital of the Canadian province of British Columbia?",
+    "answers": [
+      "Victoria",
+      "Vancouver",
+      "Calgary",
+      "Edmonton"
+    ],
+    "correct": 0,
+    "fact": "It sits on Vancouver Island."
+  },
+  {
+    "id": "geo_121",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "In which country is the ancient city of Petra?",
+    "answers": [
+      "Jordan",
+      "Egypt",
+      "Israel",
+      "Syria"
+    ],
+    "correct": 0,
+    "fact": "Its buildings are carved straight into rose-red rock."
+  },
+  {
+    "id": "geo_122",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which mountain range runs along the border of France and Spain?",
+    "answers": [
+      "Pyrenees",
+      "Alps",
+      "Apennines",
+      "Carpathians"
+    ],
+    "correct": 0,
+    "fact": "Tiny Andorra sits high in these mountains."
+  },
+  {
+    "id": "geo_123",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "What is the deepest known point in the oceans called?",
+    "answers": [
+      "Challenger Deep",
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Tonga Deep"
+    ],
+    "correct": 0,
+    "fact": "It lies in the Mariana Trench, almost 11 km down."
+  },
+  {
+    "id": "geo_124",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which is the most populous country in Southeast Asia?",
+    "answers": [
+      "Indonesia",
+      "Philippines",
+      "Vietnam",
+      "Thailand"
+    ],
+    "correct": 0,
+    "fact": "It is the fourth most populous country in the world."
+  },
+  {
+    "id": "geo_125",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which city is known as the \"City of a Thousand Minarets\"?",
+    "answers": [
+      "Cairo",
+      "Istanbul",
+      "Baghdad",
+      "Fez"
+    ],
+    "correct": 0,
+    "fact": "Its historic Islamic quarter is a World Heritage Site."
+  },
+  {
+    "id": "geo_126",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which two countries share the island of Borneo with Malaysia?",
+    "answers": [
+      "Indonesia and Brunei",
+      "Philippines and Brunei",
+      "Indonesia and Philippines",
+      "Brunei and Timor-Leste"
+    ],
+    "correct": 0,
+    "fact": "Borneo is the third-largest island in the world."
+  },
+  {
+    "id": "geo_127",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which is the longest river in Europe?",
+    "answers": [
+      "Volga",
+      "Danube",
+      "Rhine",
+      "Dnieper"
+    ],
+    "correct": 0,
+    "fact": "It flows into the Caspian Sea."
+  },
+  {
+    "id": "geo_128",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Lake Victoria is a source of which great river?",
+    "answers": [
+      "Nile",
+      "Congo",
+      "Niger",
+      "Zambezi"
+    ],
+    "correct": 0,
+    "fact": "The White Nile flows out of it at Jinja in Uganda."
+  },
+  {
+    "id": "geo_129",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which country's seat of government is the highest capital in the world?",
+    "answers": [
+      "Bolivia",
+      "Ecuador",
+      "Nepal",
+      "Peru"
+    ],
+    "correct": 0,
+    "fact": "La Paz sits about 3,600 m above sea level."
+  },
+  {
+    "id": "geo_130",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "tf",
+    "question": "The shores of the Dead Sea are below sea level.",
+    "answer": true,
+    "fact": "They are the lowest land on Earth, over 400 m below sea level."
+  },
+  {
+    "id": "geo_131",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which sea lies between Italy and the Balkans?",
+    "answers": [
+      "Adriatic Sea",
+      "Aegean Sea",
+      "Ionian Sea",
+      "Tyrrhenian Sea"
+    ],
+    "correct": 0,
+    "fact": "Venice sits at its northern end."
+  },
+  {
+    "id": "geo_132",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "Greenland is part of which kingdom?",
+    "answers": [
+      "Denmark",
+      "Norway",
+      "Iceland",
+      "Canada"
+    ],
+    "correct": 0,
+    "fact": "It has its own home-rule government."
+  },
+  {
+    "id": "geo_133",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which country has the longest land border with China?",
+    "answers": [
+      "Mongolia",
+      "Russia",
+      "India",
+      "Kazakhstan"
+    ],
+    "correct": 0,
+    "fact": "The border is about 4,600 km long."
+  },
+  {
+    "id": "geo_134",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 3,
+    "type": "mc",
+    "question": "Which European capital stands on the River Vltava?",
+    "answers": [
+      "Prague",
+      "Vienna",
+      "Budapest",
+      "Warsaw"
+    ],
+    "correct": 0,
+    "fact": "The Charles Bridge has crossed it since the 1400s."
+  },
+  {
+    "id": "geo_135",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "In which country is the Cape of Good Hope?",
+    "answers": [
+      "South Africa",
+      "Namibia",
+      "Chile",
+      "Australia"
+    ],
+    "correct": 0,
+    "fact": "It is not quite the southern tip of Africa; Cape Agulhas is."
+  },
+  {
+    "id": "geo_136",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "The Panama Canal links the Pacific with which ocean?",
+    "answers": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Southern"
+    ],
+    "correct": 0,
+    "fact": "Ships are lifted over land by a series of locks."
+  },
+  {
+    "id": "geo_137",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 3,
+    "type": "mc",
+    "question": "How many official time zones does China use?",
+    "answers": [
+      "1",
+      "3",
+      "5",
+      "2"
+    ],
+    "correct": 0,
+    "fact": "The whole country runs on Beijing time."
+  },
+  {
+    "id": "geo_138",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is the capital of Morocco?",
+    "answers": [
+      "Rabat",
+      "Casablanca",
+      "Marrakesh",
+      "Fez"
+    ],
+    "correct": 0,
+    "fact": "Casablanca is bigger, but Rabat is the capital."
+  },
+  {
+    "id": "geo_139",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is the capital of Nigeria?",
+    "answers": [
+      "Abuja",
+      "Lagos",
+      "Kano",
+      "Ibadan"
+    ],
+    "correct": 0,
+    "fact": "It took over from Lagos as the capital in 1991."
+  },
+  {
+    "id": "geo_140",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is the official capital of Sri Lanka?",
+    "answers": [
+      "Sri Jayawardenepura Kotte",
+      "Colombo",
+      "Kandy",
+      "Galle"
+    ],
+    "correct": 0,
+    "fact": "Colombo, next door, is still the biggest city and business hub."
+  },
+  {
+    "id": "geo_141",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What is the capital of Australia's Northern Territory?",
+    "answers": [
+      "Darwin",
+      "Alice Springs",
+      "Perth",
+      "Cairns"
+    ],
+    "correct": 0,
+    "fact": "It is named after Charles Darwin."
+  },
+  {
+    "id": "geo_142",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which Asian capital was called Batavia under Dutch rule?",
+    "answers": [
+      "Jakarta",
+      "Manila",
+      "Yangon",
+      "Colombo"
+    ],
+    "correct": 0,
+    "fact": "Batavia was an old Latin name for part of the Netherlands."
+  },
+  {
+    "id": "geo_143",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which Indian city was known as Madras until 1996?",
+    "answers": [
+      "Chennai",
+      "Kolkata",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "correct": 0,
+    "fact": "Its car factories earned it the nickname \"Detroit of India\"."
+  },
+  {
+    "id": "geo_144",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Thais call their capital \"Krung Thep\". What does it mean?",
+    "answers": [
+      "City of Angels",
+      "River City",
+      "Golden City",
+      "Royal Garden"
+    ],
+    "correct": 0,
+    "fact": "Its full ceremonial name is one of the longest place names on Earth."
+  },
+  {
+    "id": "geo_145",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "What does \"Kuala Lumpur\" mean in Malay?",
+    "answers": [
+      "Muddy confluence",
+      "Royal city",
+      "Tin valley",
+      "River of gold"
+    ],
+    "correct": 0,
+    "fact": "The city grew where the Klang and Gombak rivers meet."
+  },
+  {
+    "id": "geo_146",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which river flows through Bangkok?",
+    "answers": [
+      "Chao Phraya",
+      "Mekong",
+      "Irrawaddy",
+      "Salween"
+    ],
+    "correct": 0,
+    "fact": "Its river boats are a handy way to dodge traffic."
+  },
+  {
+    "id": "geo_147",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which country borders both the Atlantic and Indian Oceans?",
+    "answers": [
+      "South Africa",
+      "Australia",
+      "Kenya",
+      "Brazil"
+    ],
+    "correct": 0,
+    "fact": "The two oceans officially meet at Cape Agulhas."
+  },
+  {
+    "id": "geo_148",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which US state has the longest coastline?",
+    "answers": [
+      "Alaska",
+      "Florida",
+      "California",
+      "Hawaii"
+    ],
+    "correct": 0,
+    "fact": "It has more coastline than all the other states put together."
+  },
+  {
+    "id": "geo_149",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which sea has no coastline at all?",
+    "answers": [
+      "The Sargasso Sea",
+      "The Coral Sea",
+      "The Arabian Sea",
+      "The Weddell Sea"
+    ],
+    "correct": 0,
+    "fact": "Ocean currents mark its edges, and it is full of floating seaweed."
+  },
+  {
+    "id": "geo_150",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which is the world's largest coral reef system?",
+    "answers": [
+      "Great Barrier Reef",
+      "Belize Barrier Reef",
+      "Red Sea Coral Reef",
+      "Tubbataha Reef"
+    ],
+    "correct": 0,
+    "fact": "It is made of nearly 3,000 separate reefs."
+  },
+  {
+    "id": "geo_151",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "mc",
+    "question": "Which country has a national flag that is not a rectangle?",
+    "answers": [
+      "Nepal",
+      "Bhutan",
+      "Sri Lanka",
+      "Brunei"
+    ],
+    "correct": 0,
+    "fact": "It is two stacked pennants, with a moon and a sun."
+  },
+  {
+    "id": "geo_152",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "tf",
+    "question": "At their closest, Russia and the USA are less than 4 km apart.",
+    "answer": true,
+    "fact": "The two Diomede islands in the Bering Strait are about 3.8 km apart."
+  },
+  {
+    "id": "geo_153",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 5,
+    "type": "tf",
+    "question": "Mount Everest grows a few millimetres taller each year.",
+    "answer": true,
+    "fact": "India is still pushing into Asia, slowly lifting the Himalayas."
+  },
+  {
+    "id": "geo_154",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "estimate",
+    "question": "Roughly how long is the Nile, in kilometres?",
+    "answer": 6650,
+    "min": 4000,
+    "max": 9000,
+    "step": 50,
+    "tolerance": 300,
+    "unit": "km",
+    "fact": "It is usually ranked the world's longest river, just ahead of the Amazon."
+  },
+  {
+    "id": "geo_155",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 5,
+    "type": "estimate",
+    "question": "How many countries share a land border with Germany?",
+    "answer": 9,
+    "min": 3,
+    "max": 15,
+    "step": 1,
+    "tolerance": 1,
+    "unit": "countries",
+    "fact": "Its neighbours run all the way round from Denmark to Poland."
+  },
+  {
+    "id": "geo_156",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 6,
+    "type": "mc",
+    "question": "In which country is the city of Batman?",
+    "answers": [
+      "Turkey",
+      "United States",
+      "Brazil",
+      "Australia"
+    ],
+    "correct": 0,
+    "fact": "In 2008 its mayor talked of suing the makers of the films."
+  },
+  {
+    "id": "geo_157",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "Which country has about five sheep for every person?",
+    "answers": [
+      "New Zealand",
+      "Australia",
+      "Ireland",
+      "Mongolia"
+    ],
+    "correct": 0,
+    "fact": "In the 1980s it had over 20 sheep per person."
+  },
+  {
+    "id": "geo_158",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "Which country has a dragon on its national flag?",
+    "answers": [
+      "Bhutan",
+      "Nepal",
+      "China",
+      "Vietnam"
+    ],
+    "correct": 0,
+    "fact": "It is Druk, the Thunder Dragon."
+  },
+  {
+    "id": "geo_159",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 6,
+    "type": "mc",
+    "question": "Which city is home to the Manneken Pis statue?",
+    "answers": [
+      "Brussels",
+      "Amsterdam",
+      "Copenhagen",
+      "Bruges"
+    ],
+    "correct": 0,
+    "fact": "The little statue has over 1,000 costumes."
+  },
+  {
+    "id": "geo_160",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "In which country is the \"Door to Hell\", a gas crater burning since 1971?",
+    "answers": [
+      "Turkmenistan",
+      "Iran",
+      "Kazakhstan",
+      "Azerbaijan"
+    ],
+    "correct": 0,
+    "fact": "Soviet geologists lit it, hoping it would burn out in days."
+  },
+  {
+    "id": "geo_161",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "mc",
+    "question": "In which country is Lake Hillier, which is bubblegum pink?",
+    "answers": [
+      "Australia",
+      "Senegal",
+      "Canada",
+      "Bolivia"
+    ],
+    "correct": 0,
+    "fact": "Tiny algae and bacteria give it its colour."
+  },
+  {
+    "id": "geo_162",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 6,
+    "type": "mc",
+    "question": "In which country is Ha Long Bay?",
+    "answers": [
+      "Vietnam",
+      "Thailand",
+      "Philippines",
+      "Malaysia"
+    ],
+    "correct": 0,
+    "fact": "Its name means \"where the dragon descends\"."
+  },
+  {
+    "id": "geo_163",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "tf",
+    "question": "There is a village in Norway called Hell.",
+    "answer": true,
+    "fact": "In winter, Hell really does freeze over."
+  },
+  {
+    "id": "geo_164",
+    "category": "geography",
+    "difficulty": 2,
+    "batch": 6,
+    "type": "tf",
+    "question": "Australia is wider than the Moon.",
+    "answer": true,
+    "fact": "Australia is about 4,000 km across; the Moon is about 3,474 km."
+  },
+  {
+    "id": "geo_165",
+    "category": "geography",
+    "difficulty": 3,
+    "batch": 6,
+    "type": "tf",
+    "question": "Reno, Nevada, is further west than Los Angeles.",
+    "answer": true,
+    "fact": "California's coast curves eastward as it heads south."
+  }
+]
