@@ -1,0 +1,10 @@
+[
+  { "id": "mix", "name": "Mix it up", "blurb": "A bit of everything", "emoji": "🎲", "color": "#A88BFA", "dark": "#7C5CE0" },
+  { "id": "general", "name": "General", "blurb": "Fun facts and odd bits", "emoji": "💡", "color": "#FFC93C", "dark": "#E0A800" },
+  { "id": "science", "name": "Science", "blurb": "Atoms, animals, space", "emoji": "🔬", "color": "#3CC8E0", "dark": "#1E9DB3" },
+  { "id": "geography", "name": "Geography", "blurb": "Maps, cities, oceans", "emoji": "🌍", "color": "#5FD38D", "dark": "#36AD66" },
+  { "id": "history", "name": "History", "blurb": "Way back when", "emoji": "🏛️", "color": "#FFB38A", "dark": "#E58A5C" },
+  { "id": "technology", "name": "Tech & AI", "blurb": "Bits, bytes and bots", "emoji": "💻", "color": "#7C9CFF", "dark": "#5574E0" },
+  { "id": "politics", "name": "Politics", "blurb": "Leaders and laws", "emoji": "🗳️", "color": "#FF8FB1", "dark": "#E0628A" },
+  { "id": "singapore", "name": "Singapore", "blurb": "Our little red dot", "emoji": "🦁", "color": "#FF6B6B", "dark": "#DB4545" }
+]
